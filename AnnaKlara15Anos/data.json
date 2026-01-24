@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-24T15:44:29.799Z",
+  "timestamp": "2026-01-24T17:24:40.306Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -40,16 +40,16 @@
     "manual_html": "<h1><i class=\"fa-solid fa-user-plus\"></i> Seja muito bem-vindo(a)!</h1>\n<p>É uma alegria imensa contar com a sua presença. Preparamos este manual para que você se sinta confortável, bem informado(a) e aproveite cada momento do nosso evento.</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Convidado não convida!</h2>\n<p><strong>Traje:</strong> Para manter a harmonia visual do evento, não será permitido o uso da cor azul (em nenhuma tonalidade). Agradecemos a compreensão e colaboração de todos.</p>\n<h2><i class=\"fa-solid fa-clock\"></i> Pontualidade:</h2>\n<p>A programação foi pensada com carinho e seguirá os horários previstos. Sua pontualidade é muito importante. Chegue com antecedência para aproveitar tudo com tranquilidade.</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível! ✨💙</p>",
     "music_name": "Ed Sheeran - Perfect.mp3",
     "slug": "AnnaKlara15Anos",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769269469799.mp3",
-    "capa": "assets/capa_1769269469799.png",
-    "fundo_tela": "assets/fundo_tela_1769269469799.dat",
-    "vid_abertura": "assets/vid_abertura_1769269469799.mp4",
-    "presentes": "assets/presentes_1769269469799.png"
+    "musica": "assets/musica_1769275480306.mp3",
+    "capa": "assets/capa_1769275480306.png",
+    "fundo_tela": "assets/fundo_tela_1769275480306.dat",
+    "vid_abertura": "assets/vid_abertura_1769275480306.mp4",
+    "presentes": "assets/presentes_1769275480306.png"
   },
   "toggles": {
     "manualMode": "text",
