@@ -1,7 +1,15 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-24T18:05:58.795Z",
+  "timestamp": "2026-01-24T18:46:17.478Z",
   "formData": {
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": null,
     "nome": "VICTORIA",
     "tipo_evento": "",
     "tipo_evento_custom": "",
@@ -28,19 +36,21 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "Perfumes e cremes doces\nRoupas tamanho M, e 38\nCalçados 37\nJóias na cor prata, pulseiras e colar\nPix 49542194831",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Mensagem Especial: Há 15 anos, Deus me presenteou com a vida e me trouxe até este momento tão especial. Agora, deixo para trás a infância e começo uma nova fase da minha história, cheia de sonhos, descobertas e alegria. Vou ficar muito feliz em ter você ao meu lado para celebrar comigo esse dia tão importante. Que seja uma noite de amor, sorrisos e memórias inesquecíveis. Deus realiza sonhos! 🙌🏻✨ Confirmação de Presença: Para que tudo seja preparado com carinho, peço que confirme sua presença. Os convidados que não confirmarem não poderão participar do evento. Pontualidade: Pedimos, por gentileza, que chegue no horário para não perder os momentos especiais da festa. Traje: Social",
+    "manual_raw_content": "",
     "manual_html": "<h3><i class=\"fa-solid fa-sparkles\"></i> Uma Jornada de Luz e Gratidão</h3><p>Há quinze anos, Deus me presenteou com o dom da vida e me conduziu com amor até este momento sublime. Hoje, despeço-me da infância para abraçar um novo capítulo da minha história — um tempo de florescer, sonhar e descobrir a beleza de cada novo passo. <i class=\"fa-solid fa-heart\"></i></p><p>Minha felicidade só será plena se tiver você ao meu lado para celebrar este marco inesquecível. Que nossa noite seja tecida com sorrisos, afeto e memórias que guardaremos para sempre no coração. Pois, verdadeiramente, Deus realiza sonhos! <i class=\"fa-solid fa-dove\"></i></p><hr /><h4><i class=\"fa-solid fa-calendar-check\"></i> Confirmação de Presença</h4><p>Para que possamos preparar cada detalhe com o carinho que você merece, solicitamos a gentileza de confirmar sua presença. Ressaltamos que a confirmação é indispensável para o acesso ao evento.</p><h4><i class=\"fa-solid fa-clock\"></i> Pontualidade</h4><p>Cada minuto desta celebração foi planejado para ser mágico. Pedimos que chegue no horário previsto para que não perca nenhum dos momentos especiais que preparamos para você. <i class=\"fa-solid fa-hourglass-start\"></i></p><h4><i class=\"fa-solid fa-user-tie\"></i> Traje Sugerido</h4><p><strong>Social:</strong> Prepare o seu melhor visual para uma noite de gala e muita alegria. <i class=\"fa-solid fa-star\"></i></p>",
     "music_name": "Brandon Lake - That's Who I Praise (Official Audio).mp3",
     "slug": "Victoria15Anos",
-    "watermark_enabled": true
+    "watermark_enabled": true,
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769277958795.mp3",
-    "capa": "assets/capa_1769277958795.png",
-    "fundo_tela": "assets/fundo_tela_1769277958795.dat",
-    "vid_abertura": "assets/vid_abertura_1769277958795.mp4",
-    "presentes": "assets/presentes_1769277958795.png"
+    "musica": "assets/musica_1769280377478.mp3",
+    "capa": "assets/capa_1769280377478.png",
+    "folha_vazia": "assets/folha_vazia_1769280377478.png",
+    "fundo_tela": "assets/fundo_tela_1769280377478.mp4",
+    "vid_abertura": "assets/vid_abertura_1769280377478.mp4",
+    "presentes": "assets/presentes_1769280377478.png"
   },
   "toggles": {
     "manualMode": "text",
