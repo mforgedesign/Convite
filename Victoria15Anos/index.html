@@ -10,12 +10,12 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-    <title>Victoria | Aniversário 15 Anos</title>
+    <title>VICTORIA | Evento</title>
 
     <!-- Open Graph for WhatsApp/Social Preview -->
-    <meta property="og:title" content="Victoria | Aniversário 15 Anos">
+    <meta property="og:title" content="VICTORIA | Evento">
     <meta property="og:description" content="Clique para ver o convite interativo!">
-    <meta property="og:image" content="assets/capa_1769265970512.png">
+    <meta property="og:image" content="assets/capa_1769277807404.png">
     <meta property="og:type" content="website">
 
     <!-- Envelope Favicon -->
@@ -153,19 +153,19 @@
 
         <!-- Background (Unified) - Layer 1 -->
         <!-- Can be image or video - determined by file extension -->
-        <img id="fundoTelaImg" src="assets/fundo_tela_1769265970512.mp4" class="camada z-10 invisivel"
+        <img id="fundoTelaImg" src="assets/fundo_tela_1769277807404.mp4" class="camada z-10 invisivel"
             onerror="this.style.display='none'">
         <video id="fundoTelaVideo" class="camada z-10 invisivel" playsinline loop muted
             onerror="this.style.display='none'">
-            <source src="assets/fundo_tela_1769265970512.mp4" type="video/mp4">
+            <source src="assets/fundo_tela_1769277807404.mp4" type="video/mp4">
         </video>
 
         <video id="videoAbertura" class="camada z-20" playsinline muted>
-            <source src="[[VIDEO_ABERTURA_URL]]" type="video/mp4">
+            <source src="assets/vid_abertura_1769277807404.mp4" type="video/mp4">
         </video>
 
         <audio id="musicaFundo" loop preload="auto">
-            <source src="[[MUSICA_URL]]" type="audio/mp3">
+            <source src="assets/musica_1769277807404.mp3" type="audio/mp3">
         </audio>
 
         <button id="btnMute"
@@ -218,14 +218,14 @@
         <!-- Container dos botões (se move com offset) -->
         <div id="containerBotoes"
             class="absolute left-0 w-full z-40 pb-10 px-2 invisivel transition-opacity duration-1000 flex justify-center"
-            style="bottom: 35px;">
+            style="bottom: 50px;">
             <div id="gridBotoes" class="flex flex-row flex-nowrap justify-evenly gap-1 w-full max-w-[480px]">
             </div>
         </div>
 
         <div id="capaInicial"
             class="absolute inset-0 z-50 bg-cover bg-center flex flex-col items-center justify-center cursor-pointer transition-opacity duration-700"
-            style="background-image: url('assets/capa_1769265970512.png');">
+            style="background-image: url('assets/capa_1769277807404.png');">
             <div class="absolute inset-0 bg-black/20"></div>
 
             <div id="dicaInteractionContainer" class="relative z-10 flex flex-col items-center gap-4 animate-pulse">
@@ -285,7 +285,7 @@
                 class="absolute top-3 right-3 z-10 bg-black/50 text-white hover:bg-black/70 rounded-full w-10 h-10 flex items-center justify-center transition-colors border border-white/20">
                 <i class="fa-solid fa-xmark text-xl"></i>
             </button>
-            <img id="imagemPresentes" src="assets/presentes_1769265970512.png" class="max-w-full max-h-[85vh] object-contain rounded-lg">
+            <img id="imagemPresentes" src="assets/presentes_1769277807404.png" class="max-w-full max-h-[85vh] object-contain rounded-lg">
         </div>
     </div>
 
@@ -339,7 +339,7 @@
                         placeholder="(DDD) 99999-9999">
                 </div>
 
-                <div id="container-acompanhantes" class="!hidden">
+                <div id="container-acompanhantes" class="">
                     <label class="block text-stone-300 text-xs font-bold mb-1 uppercase">Total de Acompanhantes</label>
                     <div class="flex items-center gap-3">
                         <button id="btn-dec-acomp"
@@ -353,7 +353,7 @@
                         anfitrião.</p>
                 </div>
 
-                <div class="flex items-center gap-2 mt-2 !hidden">
+                <div class="flex items-center gap-2 mt-2 ">
                     <input type="checkbox" id="check-no-acomp"
                         class="w-4 h-4 rounded bg-black/40 border-stone-500 text-green-500 focus:ring-green-500 focus:ring-offset-0">
                     <label for="check-no-acomp"
@@ -463,7 +463,7 @@
         // ==================================================================
         // 1. CONFIGURAÇÃO DOS BOTÕES (Injetado pelo AutoBuilder)
         // ==================================================================
-        const menuConfig = [{"id":"gifts","titulo":"Presentes","icone":"fa-solid fa-gift","link":"#","isGiftImage":true},{"id":"rsvp","titulo":"Confirmar Presença","icone":"fa-brands fa-whatsapp","link":"https://wa.me/5511962489831"},{"id":"manual","titulo":"Manual","icone":"fa-solid fa-book-open","link":"#","manualText":"<h3><i class=\"fa-solid fa-sparkles\"></i> Uma Jornada de Luz e Gratidão</h3><p>Há quinze anos, Deus me presenteou com o dom da vida e me conduziu com amor até este momento sublime. Hoje, despeço-me da infância para abraçar um novo capítulo da minha história — um tempo de florescer, sonhar e descobrir a beleza de cada novo passo. <i class=\"fa-solid fa-heart\"></i></p><p>Minha felicidade só será plena se tiver você ao meu lado para celebrar este marco inesquecível. Que nossa noite seja tecida com sorrisos, afeto e memórias que guardaremos para sempre no coração. Pois, verdadeiramente, Deus realiza sonhos! <i class=\"fa-solid fa-dove\"></i></p><hr /><h4><i class=\"fa-solid fa-calendar-check\"></i> Confirmação de Presença</h4><p>Para que possamos preparar cada detalhe com o carinho que você merece, solicitamos a gentileza de confirmar sua presença. Ressaltamos que a confirmação é indispensável para o acesso ao evento.</p><h4><i class=\"fa-solid fa-clock\"></i> Pontualidade</h4><p>Cada minuto desta celebração foi planejado para ser mágico. Pedimos que chegue no horário previsto para que não perca nenhum dos momentos especiais que preparamos para você. <i class=\"fa-solid fa-hourglass-start\"></i></p><h4><i class=\"fa-solid fa-user-tie\"></i> Traje Sugerido</h4><p><strong>Social:</strong> Prepare o seu melhor visual para uma noite de gala e muita alegria. <i class=\"fa-solid fa-star\"></i></p>"}];
+        const menuConfig = [{"id":"location","titulo":"Localização","icone":"fa-solid fa-location-dot","link":"https://maps.app.goo.gl/3Qx67QhPhLtQ2Vdm6"},{"id":"gifts","titulo":"Presentes","icone":"fa-solid fa-gift","link":"#","isGiftImage":true},{"id":"rsvp","titulo":"Confirmar Presença","icone":"fa-brands fa-whatsapp","link":"https://wa.me/11962489831"},{"id":"manual","titulo":"Manual","icone":"fa-solid fa-book-open","link":"#","manualText":"<h3><i class=\"fa-solid fa-sparkles\"></i> Uma Jornada de Luz e Gratidão</h3><p>Há quinze anos, Deus me presenteou com o dom da vida e me conduziu com amor até este momento sublime. Hoje, despeço-me da infância para abraçar um novo capítulo da minha história — um tempo de florescer, sonhar e descobrir a beleza de cada novo passo. <i class=\"fa-solid fa-heart\"></i></p><p>Minha felicidade só será plena se tiver você ao meu lado para celebrar este marco inesquecível. Que nossa noite seja tecida com sorrisos, afeto e memórias que guardaremos para sempre no coração. Pois, verdadeiramente, Deus realiza sonhos! <i class=\"fa-solid fa-dove\"></i></p><hr /><h4><i class=\"fa-solid fa-calendar-check\"></i> Confirmação de Presença</h4><p>Para que possamos preparar cada detalhe com o carinho que você merece, solicitamos a gentileza de confirmar sua presença. Ressaltamos que a confirmação é indispensável para o acesso ao evento.</p><h4><i class=\"fa-solid fa-clock\"></i> Pontualidade</h4><p>Cada minuto desta celebração foi planejado para ser mágico. Pedimos que chegue no horário previsto para que não perca nenhum dos momentos especiais que preparamos para você. <i class=\"fa-solid fa-hourglass-start\"></i></p><h4><i class=\"fa-solid fa-user-tie\"></i> Traje Sugerido</h4><p><strong>Social:</strong> Prepare o seu melhor visual para uma noite de gala e muita alegria. <i class=\"fa-solid fa-star\"></i></p>"}];
         // Injected by AutoBuilder
         const buttonSize = parseFloat('1.0') || 1.0;
 
@@ -594,7 +594,7 @@
         });
 
         // Injected State for Logic
-        const companionHideClass = "!hidden";
+        const companionHideClass = "";
 
         window.abrirRSVP = function (e, link) {
             e.preventDefault();
