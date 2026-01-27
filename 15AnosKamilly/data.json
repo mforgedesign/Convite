@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-27T09:32:47.347Z",
+  "timestamp": "2026-01-27T12:56:18.412Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -40,7 +40,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-envelope-open-text\"></i> <strong>Um Momento Exclusivo:</strong> Preparamos cada detalhe com muito carinho para aqueles que fazem parte da nossa história. Por isso, lembramos que este convite é pessoal e não extensível a outras pessoas.</p>\n<p><i class=\"fa-solid fa-clock\"></i> <strong>Cada Segundo Importa:</strong> Para que você não perca nenhum capítulo deste sonho, pedimos a gentileza de ser pontual. Queremos você ao nosso lado desde o primeiro instante!</p>\n<p><i class=\"fa-solid fa-user-tie\"></i> <strong>Traje e Elegância:</strong> Gostaríamos de ver todos deslumbrantes! Sugerimos <em>Traje a Rigor</em> para as damas e <em>Esporte Fino</em> para os cavalheiros.</p>\n<p><i class=\"fa-solid fa-crown\"></i> <strong>O Brilho da Estrela:</strong> Reservamos o tom <strong>Dourado</strong> exclusivamente para a nossa debutante. Pedimos gentilmente que escolha outras cores para o seu look, deixando esse brilho especial para ela.</p>\n<p><i class=\"fa-solid fa-heart-pulse\"></i> <strong>Sua Alegria é Essencial:</strong> O nosso maior desejo é que você celebre intensamente, dance e seja imensamente feliz conosco nesta noite mágica!</p>",
     "music_name": "Sentimentos São - Bela e a Fera.mp3",
     "slug": "15AnosKamilly",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "_reset": true,
     "folha_only": null,
     "background_only": null,
@@ -51,12 +51,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769506367347.mp3",
-    "capa": "assets/capa_1769506367347.png",
-    "folha_vazia": "assets/folha_vazia_1769506367347.png",
-    "fundo_tela": "assets/fundo_tela_1769506367347.mp4",
-    "vid_abertura": "assets/vid_abertura_1769506367347.mp4",
-    "presentes": "assets/presentes_1769506367347.png"
+    "musica": "assets/musica_1769518578412.mp3",
+    "capa": "assets/capa_1769518578412.png",
+    "folha_vazia": "assets/folha_vazia_1769518578412.png",
+    "fundo_tela": "assets/fundo_tela_1769518578412.mp4",
+    "vid_abertura": "assets/vid_abertura_1769518578412.mp4",
+    "presentes": "assets/presentes_1769518578412.png"
   },
   "toggles": {
     "manualMode": "text",
