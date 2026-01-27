@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-27T11:31:31.187Z",
+  "timestamp": "2026-01-27T12:56:03.940Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -22,7 +22,7 @@
     "frase_convite": "",
     "cor_botoes": "#193592",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "67",
+    "posicao_botoes": "100",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/XQZMbc9UaTZtsJZz6",
     "link_presentes": "",
@@ -36,30 +36,23 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Dessa vez, ignore o prompt master, não otimizando ou alterando, tampouco acrescentando nada no texto. Acrescente apenas os fa-icons)\n\n💌 Confirmação de Presença\nConfirme até 15 de fevereiro, para que seu nome seja incluído na lista.\n\n⏰ Horário\nTemos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.\n\n🎟 Convite\nPessoal e intransferível.\n\n📸 Registros\nTeremos fotógrafos oficiais. Mas Fique à vontade para fotografar e filmar, com carinho e sem interferir nos momentos especiais.\n\n🖤 Traje\nBlack Tie / Gala\n\n🎂 Mesa de doces\nParte da decoração e liberada no momento certo.\n\n🎉 Celebre conosco\nEssa noite foi preparada com muito amor e carinho, divirta-se muito !\n\n💙 No fim da festa \nNão vá embora sem um abraço e uma fatia do nosso bolo.",
-    "manual_html": "<h2><i class='fa-solid fa-envelope'></i> Confirmação de Presença</h2><p>Por gentileza, confirme sua presença até 15 de fevereiro, para que possamos incluir seu nome na lista de convidados.</p><h2><i class='fa-solid fa-clock'></i> Horário</h2><p>Temos um cronograma especial. Chegar pontualmente é essencial para que você possa desfrutar de cada momento.</p><h2><i class='fa-solid fa-ticket'></i> Convite</h2><p>Este convite é pessoal e intransferível.</p><h2><i class='fa-solid fa-camera'></i> Registros</h2><p>Contaremos com fotógrafos oficiais. Sinta-se à vontade para capturar momentos, sempre com carinho e sem interferir nas ocasiões especiais.</p><h2><i class='fa-solid fa-shirt'></i> Traje</h2><p>Black Tie / Gala</p><h2><i class='fa-solid fa-cake'></i> Mesa de doces</h2><p>Parte da decoração, será liberada no momento oportuno.</p><h2><i class='fa-solid fa-heart'></i> Celebre conosco</h2><p>Esta noite foi planejada com muito amor e carinho. Aproveite ao máximo!</p><h2><i class='fa-solid fa-heart'></i> No fim da festa</h2><p>Não se esqueça de nos brindar com um abraço e levar uma fatia do nosso bolo.</p>",
+    "manual_raw_content": "",
     "music_name": "Ed Sheeran - Thinking Out Loud (Official Lyric Video).mp3",
     "slug": "Carol15Anos-BaileDeInverno",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "_reset": true,
-    "folha_only": null,
-    "background_only": null,
-    "numero_whatsapp": "",
-    "link_confirmacao": "https://chat.whatsapp.com/LOWLD1HRjg3Fxu1qwwL63p",
-    "animate_background": false,
-    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion."
+    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Sua presença desde o primeiro instante é fundamental para que não perca nenhum detalhe da nossa história. Por favor, chegue no horário combinado.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar tudo com perfeição e amor, pedimos a gentileza de confirmar sua vinda até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Celebre Conosco:</strong> Deixe a alegria guiar a sua noite! Estamos ansiosos para criar memórias inesquecíveis e celebrar este capítulo tão especial ao seu lado.</p><p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Doce Encontro:</strong> Não se despeça sem nos presentear com um abraço apertado e saborear uma fatia do nosso bolo. Queremos compartilhar cada segundo de felicidade com você.</p>"
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769513491187.mp3",
-    "capa": "assets/capa_1769513491187.png",
-    "folha_vazia": "assets/folha_vazia_1769513491187.png",
-    "fundo_tela": "assets/fundo_tela_1769513491187.dat",
-    "vid_abertura": "assets/vid_abertura_1769513491187.mp4",
-    "presentes": "assets/presentes_1769513491187.png"
+    "musica": "assets/musica_1769518563940.mp3",
+    "capa": "assets/capa_1769518563940.png",
+    "folha_vazia": "assets/folha_vazia_1769518563940.png",
+    "fundo_tela": "assets/fundo_tela_1769518563940.dat",
+    "vid_abertura": "assets/vid_abertura_1769518563940.mp4"
   },
   "toggles": {
     "manualMode": "text",
-    "giftsMode": "image"
+    "giftsMode": "link"
   }
 }
