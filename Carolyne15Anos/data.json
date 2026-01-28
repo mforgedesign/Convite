@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-28T13:49:55.070Z",
+  "timestamp": "2026-01-28T13:52:53.182Z",
   "formData": {
     "nome": "Carolyne",
     "tipo_evento": "Aniversário",
@@ -43,12 +43,12 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1769608195070.mp3",
-    "capa": "assets/capa_1769608195070.png",
-    "folha_vazia": "assets/folha_vazia_1769608195070.png",
-    "fundo_tela": "assets/fundo_tela_1769608195070.mp4",
-    "vid_abertura": "assets/vid_abertura_1769608195070.mp4",
-    "presentes": "assets/presentes_1769608195070.png"
+    "musica": "assets/musica_1769608373182.mp3",
+    "capa": "assets/capa_1769608373182.png",
+    "folha_vazia": "assets/folha_vazia_1769608373182.png",
+    "fundo_tela": "assets/fundo_tela_1769608373182.mp4",
+    "vid_abertura": "assets/vid_abertura_1769608373182.mp4",
+    "presentes": "assets/presentes_1769608373182.png"
   },
   "toggles": {
     "manualMode": "text",
