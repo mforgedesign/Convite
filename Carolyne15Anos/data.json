@@ -1,15 +1,7 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-28T13:29:11.440Z",
+  "timestamp": "2026-01-28T13:49:55.070Z",
   "formData": {
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/ac1328a1-f568-4d01-bf72-29db149fc585",
     "nome": "Carolyne",
     "tipo_evento": "Aniversário",
     "tipo_evento_custom": "",
@@ -23,7 +15,7 @@
     "cor_botoes": "#132945",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "100",
-    "tamanho_botoes": "",
+    "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/oPi91GGxW4x3C7SFA",
     "link_presentes": "",
     "manual_content": "",
@@ -40,14 +32,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Sua presença desde o primeiro instante é fundamental para que não perca nenhum detalhe da nossa história. Por favor, chegue no horário combinado.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar tudo com perfeição e amor, pedimos a gentileza de confirmar sua vinda até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Celebre Conosco:</strong> Deixe a alegria guiar a sua noite! Estamos ansiosos para criar memórias inesquecíveis e celebrar este capítulo tão especial ao seu lado.</p><p><i class=\"fa-solid fa-shirt\"></i> <strong>Dress Code:</strong> Traje Esporte Fino.</p>",
     "music_name": "Christina Perri - A Thousand Years [Official Music Video].mp3",
     "slug": "Carolyne15Anos",
-    "watermark_enabled": false,
-    "_reset": true,
-    "folha_only": null,
-    "background_only": null,
-    "numero_whatsapp": "",
-    "link_confirmacao": "https://chat.whatsapp.com/LOWLD1HRjg3Fxu1qwwL63p",
-    "animate_background": false,
-    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion."
+    "watermark_enabled": false
   },
   "linksExtras": [
     {
@@ -58,12 +43,12 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1769606951440.mp3",
-    "capa": "assets/capa_1769606951440.png",
-    "folha_vazia": "assets/folha_vazia_1769606951440.png",
-    "fundo_tela": "assets/fundo_tela_1769606951440.dat",
-    "vid_abertura": "assets/vid_abertura_1769606951440.mp4",
-    "presentes": "assets/presentes_1769606951440.png"
+    "musica": "assets/musica_1769608195070.mp3",
+    "capa": "assets/capa_1769608195070.png",
+    "folha_vazia": "assets/folha_vazia_1769608195070.png",
+    "fundo_tela": "assets/fundo_tela_1769608195070.mp4",
+    "vid_abertura": "assets/vid_abertura_1769608195070.mp4",
+    "presentes": "assets/presentes_1769608195070.png"
   },
   "toggles": {
     "manualMode": "text",
