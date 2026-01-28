@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-28T09:16:52.693Z",
+  "timestamp": "2026-01-28T11:03:02.804Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -40,16 +40,17 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Sua presença desde o primeiro instante é fundamental para que não perca nenhum detalhe da nossa história. Por favor, chegue no horário combinado.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar tudo com perfeição e amor, pedimos a gentileza de confirmar sua vinda até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Celebre Conosco:</strong> Deixe a alegria guiar a sua noite! Estamos ansiosos para criar memórias inesquecíveis e celebrar este capítulo tão especial ao seu lado.</p><p><i class=\"fa-solid fa-shirt\"></i> <strong>Dress Code:</strong> Traje Esporte Fino.</p>",
     "music_name": "Christina Perri - A Thousand Years [Official Music Video].mp3",
     "slug": "Carolyne15Anos",
-    "watermark_enabled": true
+    "watermark_enabled": true,
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769591812693.mp3",
-    "capa": "assets/capa_1769591812693.png",
-    "folha_vazia": "assets/folha_vazia_1769591812693.png",
-    "fundo_tela": "assets/fundo_tela_1769591812693.mp4",
-    "vid_abertura": "assets/vid_abertura_1769591812693.mp4",
-    "presentes": "assets/presentes_1769591812693.png"
+    "musica": "assets/musica_1769598182804.mp3",
+    "capa": "assets/capa_1769598182804.png",
+    "folha_vazia": "assets/folha_vazia_1769598182804.png",
+    "fundo_tela": "assets/fundo_tela_1769598182804.mp4",
+    "vid_abertura": "assets/vid_abertura_1769598182804.mp4",
+    "presentes": "assets/presentes_1769598182804.png"
   },
   "toggles": {
     "manualMode": "text",
