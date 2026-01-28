@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-28T12:10:24.875Z",
+  "timestamp": "2026-01-28T12:15:08.154Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -40,17 +40,17 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Para que possamos viver cada detalhe deste sonho conforme planejado, sua presença pontual é fundamental e muito valorizada por nós.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Sua presença torna nossa celebração completa! Por favor, confirme sua participação com pelo menos 15 dias de antecedência para que possamos preparar tudo com todo o cuidado.</p><p><i class=\"fa-solid fa-camera-retro\"></i> <strong>Eternize os Momentos:</strong> Divirta-se intensamente! Queremos ver a festa através dos seus olhos. Ao postar seus registros, use a hashtag <strong>#XVdamaju</strong> e marque a debutante <strong>@majubacchi</strong>.</p><p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Doce Encontro:</strong> Não vá embora sem antes nos presentear com um abraço caloroso e saborear uma fatia do nosso bolo. Queremos compartilhar a doçura de cada instante ao seu lado!</p>",
     "music_name": "Christina Perri - A Thousand Years [Official Music Video].mp3",
     "slug": "MariaJulia-15Anos",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769602224875.mp3",
-    "capa": "assets/capa_1769602224875.png",
-    "folha_vazia": "assets/folha_vazia_1769602224875.png",
-    "fundo_tela": "assets/fundo_tela_1769602224875.dat",
-    "vid_abertura": "assets/vid_abertura_1769602224875.mp4",
-    "presentes": "assets/presentes_1769602224875.png"
+    "musica": "assets/musica_1769602508154.mp3",
+    "capa": "assets/capa_1769602508154.png",
+    "folha_vazia": "assets/folha_vazia_1769602508154.png",
+    "fundo_tela": "assets/fundo_tela_1769602508154.dat",
+    "vid_abertura": "assets/vid_abertura_1769602508154.mp4",
+    "presentes": "assets/presentes_1769602508154.png"
   },
   "toggles": {
     "manualMode": "text",
