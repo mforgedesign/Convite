@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-28T11:03:02.804Z",
+  "timestamp": "2026-01-28T13:02:41.897Z",
   "formData": {
     "capa": null,
     "capa_referencia": null,
@@ -41,16 +41,29 @@
     "music_name": "Christina Perri - A Thousand Years [Official Music Video].mp3",
     "slug": "Carolyne15Anos",
     "watermark_enabled": true,
-    "_reset": true
+    "_reset": true,
+    "folha_only": null,
+    "background_only": null,
+    "numero_whatsapp": "",
+    "link_confirmacao": "https://chat.whatsapp.com/LOWLD1HRjg3Fxu1qwwL63p",
+    "animate_background": false,
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion."
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Lista de Presentes",
+      "url": "https://presentes.mforge.com.br/carolyne15anos",
+      "icon": "fa-solid fa-gift"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1769598182804.mp3",
-    "capa": "assets/capa_1769598182804.png",
-    "folha_vazia": "assets/folha_vazia_1769598182804.png",
-    "fundo_tela": "assets/fundo_tela_1769598182804.mp4",
-    "vid_abertura": "assets/vid_abertura_1769598182804.mp4",
-    "presentes": "assets/presentes_1769598182804.png"
+    "musica": "assets/musica_1769605361897.mp3",
+    "capa": "assets/capa_1769605361897.png",
+    "folha_vazia": "assets/folha_vazia_1769605361897.png",
+    "fundo_tela": "assets/fundo_tela_1769605361897.dat",
+    "vid_abertura": "assets/vid_abertura_1769605361897.mp4",
+    "presentes": "assets/presentes_1769605361897.png"
   },
   "toggles": {
     "manualMode": "text",
