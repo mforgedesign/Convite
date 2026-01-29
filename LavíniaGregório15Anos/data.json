@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-29T11:08:55.960Z",
+  "timestamp": "2026-01-29T11:17:56.385Z",
   "formData": {
     "nome": "Lavinia Gregório",
     "tipo_evento": "Aniversário",
@@ -45,13 +45,14 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769684935960.mp3",
-    "capa": "assets/capa_1769684935960.png",
-    "fundo_tela": "assets/fundo_tela_1769684935960.mp4",
-    "vid_abertura": "assets/vid_abertura_1769684935960.mp4"
+    "musica": "assets/musica_1769685476385.mp3",
+    "capa": "assets/capa_1769685476385.png",
+    "fundo_tela": "assets/fundo_tela_1769685476385.mp4",
+    "vid_abertura": "assets/vid_abertura_1769685476385.mp4",
+    "presentes": "assets/presentes_1769685476385.png"
   },
   "toggles": {
     "manualMode": "text",
-    "giftsMode": "link"
+    "giftsMode": "image"
   }
 }
