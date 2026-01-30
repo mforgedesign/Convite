@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-30T09:57:16.811Z",
+  "timestamp": "2026-01-30T09:59:30.977Z",
   "formData": {
     "nome": "Rosely Ferrante",
     "tipo_evento": "Aniversário",
@@ -45,10 +45,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769767036811.mp3",
-    "capa": "assets/capa_1769767036811.png",
-    "fundo_tela": "assets/fundo_tela_1769767036811.dat",
-    "vid_abertura": "assets/vid_abertura_1769767036811.mp4"
+    "musica": "assets/musica_1769767170977.mp3",
+    "capa": "assets/capa_1769767170977.png",
+    "fundo_tela": "assets/fundo_tela_1769767170977.mp4",
+    "vid_abertura": "assets/vid_abertura_1769767170977.mp4"
   },
   "toggles": {
     "manualMode": "text",
