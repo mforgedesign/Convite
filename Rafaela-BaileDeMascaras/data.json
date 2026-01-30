@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-30T14:23:41.673Z",
+  "timestamp": "2026-01-30T14:25:03.023Z",
   "formData": {
     "nome": "Rafaela",
     "tipo_evento": "Aniversário",
@@ -15,7 +15,7 @@
     "cor_botoes": "#062245",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "17",
-    "tamanho_botoes": "",
+    "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/qAPef7rvUp8JbLLR7",
     "link_presentes": "",
     "manual_content": "",
@@ -32,25 +32,16 @@
     "manual_html": "<p><i class=\"fa-solid fa-mask\"></i> Sob o véu do mistério e o brilho da elegância, convidamos você para uma noite inesquecível. No nosso Baile de Máscaras, o seu segredo e sua presença são o maior encanto da celebração.</p><p><i class=\"fa-solid fa-user-tie\"></i> <strong>Traje:</strong> Social. <br><i class=\"fa-solid fa-palette\"></i> <em>Nota de harmonia:</em> Para compor a estética visual da nossa noite, pedimos gentilmente que os convidados evitem trajes na cor <strong>Azul</strong>.</p><p><i class=\"fa-solid fa-clock\"></i> <strong>Pontualidade:</strong> Cada detalhe foi planejado com carinho. Sua presença pontual é essencial para darmos início à magia deste momento.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>R.S.V.P:</strong> Por favor, confirme sua presença com até 20 dias de antecedência. Sua confirmação é o que nos permite preparar o seu lugar neste sonho.</p><p><i class=\"fa-solid fa-heart\"></i> Prepare sua máscara e entregue-se ao encanto. Estamos ansiosos para celebrar esta data especial ao seu lado!</p>",
     "music_name": "asset-1769524750270.mp3",
     "slug": "Rafaela-BaileDeMascaras",
-    "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/5ec05d7e-c26b-4541-9ce5-a003ebac7423",
-    "_reset": true
+    "watermark_enabled": false
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769783021673.mp3",
-    "capa": "assets/capa_1769783021673.png",
-    "folha_vazia": "assets/folha_vazia_1769783021673.png",
-    "fundo_tela": "assets/fundo_tela_1769783021673.mp4",
-    "vid_abertura": "assets/vid_abertura_1769783021673.mp4",
-    "presentes": "assets/presentes_1769783021673.png"
+    "musica": "assets/musica_1769783103023.mp3",
+    "capa": "assets/capa_1769783103023.png",
+    "folha_vazia": "assets/folha_vazia_1769783103023.png",
+    "fundo_tela": "assets/fundo_tela_1769783103023.mp4",
+    "vid_abertura": "assets/vid_abertura_1769783103023.mp4",
+    "presentes": "assets/presentes_1769783103023.png"
   },
   "toggles": {
     "manualMode": "text",
