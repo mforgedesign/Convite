@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-30T11:32:23.693Z",
+  "timestamp": "2026-01-30T11:46:34.708Z",
   "formData": {
     "nome": "Bàbálórìsà Maicom D' Ósóguían",
     "tipo_evento": "Outro",
@@ -32,7 +32,7 @@
     "manual_html": "",
     "music_name": "",
     "slug": "Babalorisa-Maicom-D-Osoguian",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -45,8 +45,9 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "fundo_tela": "assets/fundo_tela_1769772743693.mp4",
-    "vid_abertura": "assets/vid_abertura_1769772743693.mp4"
+    "capa": "assets/capa_1769773594708.png",
+    "fundo_tela": "assets/fundo_tela_1769773594708.mp4",
+    "vid_abertura": "assets/vid_abertura_1769773594708.mp4"
   },
   "toggles": {
     "manualMode": "text",
