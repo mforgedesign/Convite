@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-01-30T09:59:30.977Z",
+  "timestamp": "2026-01-30T10:05:06.034Z",
   "formData": {
     "nome": "Rosely Ferrante",
     "tipo_evento": "Aniversário",
@@ -32,7 +32,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Pontualidade com Carinho</strong><br>Sua presença desde o primeiro instante é o nosso maior presente. Por favor, chegue no horário para que não percamos nenhum detalhe dessa celebração tão especial.</p>\n\n<p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença</strong><br>Para que possamos preparar cada detalhe com o cuidado que você merece, pedimos a gentileza de confirmar sua presença com até 15 dias de antecedência.</p>\n\n<p><i class=\"fa-solid fa-car\"></i> <strong>Conforto e Segurança</strong><br>O Buffet conta com Vallet na porta no valor de R$50,00. Sugerimos não deixar sua carruagem na rua.</p>\n\n<p><i class=\"fa-solid fa-champagne-glasses\"></i> <strong>Celebre Cada Momento</strong><br>Prepare o coração para se divertir e criar memórias inesquecíveis! Estamos contando os dias para compartilhar toda essa alegria com você.</p>\n\n<p><i class=\"fa-solid fa-wand-magic-sparkles\"></i> <strong>Surpresas Especiais</strong><br>Temos surpresas pra você até o final da festa! Fique conosco para descobrir o que preparamos.</p>\n\n<p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Abraço e um Doce</strong><br>Sua companhia é essencial até o último minuto. Não se despeça sem nos dar um abraço apertado e saborear uma fatia do bolo; queremos adoçar ainda mais esse encontro ao seu lado.</p>",
     "music_name": "A Valsa do Imperador (1).mp3",
     "slug": "Rosely",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -45,10 +45,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769767170977.mp3",
-    "capa": "assets/capa_1769767170977.png",
-    "fundo_tela": "assets/fundo_tela_1769767170977.mp4",
-    "vid_abertura": "assets/vid_abertura_1769767170977.mp4"
+    "musica": "assets/musica_1769767506034.mp3",
+    "capa": "assets/capa_1769767506034.png",
+    "fundo_tela": "assets/fundo_tela_1769767506034.mp4",
+    "vid_abertura": "assets/vid_abertura_1769767506034.mp4"
   },
   "toggles": {
     "manualMode": "text",
