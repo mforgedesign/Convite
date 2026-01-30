@@ -15,7 +15,7 @@
     <!-- Open Graph for WhatsApp/Social Preview -->
     <meta property="og:title" content="Rosely Ferrante | Aniversário">
     <meta property="og:description" content="Clique para ver o convite interativo!">
-    <meta property="og:image" content="assets/capa_1769472477274.png">
+    <meta property="og:image" content="assets/capa_1769767036811.png">
     <meta property="og:type" content="website">
 
     <!-- Envelope Favicon -->
@@ -153,19 +153,19 @@
 
         <!-- Background (Unified) - Layer 1 -->
         <!-- Can be image or video - determined by file extension -->
-        <img id="fundoTelaImg" src="assets/fundo_tela_1769472477274.dat" class="camada z-10 invisivel"
+        <img id="fundoTelaImg" src="assets/fundo_tela_1769767036811.dat" class="camada z-10 invisivel"
             onerror="this.style.display='none'">
         <video id="fundoTelaVideo" class="camada z-10 invisivel" playsinline loop muted
             onerror="this.style.display='none'">
-            <source src="assets/fundo_tela_1769472477274.dat" type="video/mp4">
+            <source src="assets/fundo_tela_1769767036811.dat" type="video/mp4">
         </video>
 
         <video id="videoAbertura" class="camada z-20" playsinline muted>
-            <source src="assets/vid_abertura_1769472477274.mp4" type="video/mp4">
+            <source src="assets/vid_abertura_1769767036811.mp4" type="video/mp4">
         </video>
 
         <audio id="musicaFundo" loop preload="auto">
-            <source src="assets/musica_1769472477274.mp3" type="audio/mp3">
+            <source src="assets/musica_1769767036811.mp3" type="audio/mp3">
         </audio>
 
         <button id="btnMute"
@@ -218,14 +218,14 @@
         <!-- Container dos botões (se move com offset) -->
         <div id="containerBotoes"
             class="absolute left-0 w-full z-40 pb-10 px-2 invisivel transition-opacity duration-1000 flex justify-center"
-            style="bottom: 50px;">
+            style="bottom: 15px;">
             <div id="gridBotoes" class="flex flex-row flex-nowrap justify-evenly gap-1 w-full max-w-[480px]">
             </div>
         </div>
 
         <div id="capaInicial"
             class="absolute inset-0 z-50 bg-cover bg-center flex flex-col items-center justify-center cursor-pointer transition-opacity duration-700"
-            style="background-image: url('assets/capa_1769472477274.png');">
+            style="background-image: url('assets/capa_1769767036811.png');">
             <div class="absolute inset-0 bg-black/20"></div>
 
             <div id="dicaInteractionContainer" class="relative z-10 flex flex-col items-center gap-4 animate-pulse">
@@ -463,7 +463,7 @@
         // ==================================================================
         // 1. CONFIGURAÇÃO DOS BOTÕES (Injetado pelo AutoBuilder)
         // ==================================================================
-        const menuConfig = [{"id":"location","titulo":"Localização","icone":"fa-solid fa-location-dot","link":"https://maps.app.goo.gl/HcbAWzsgvLaCghgT6"},{"id":"rsvp","titulo":"Confirmar Presença","icone":"fa-brands fa-whatsapp","link":"https://wa.me/5511989876564"},{"id":"manual","titulo":"Manual","icone":"fa-solid fa-book-open","link":"#","manualText":"<p><i class=\"fa-solid fa-clock\"></i> <strong>Pontualidade com Carinho</strong><br>Sua presença desde o primeiro instante é o nosso maior presente. Por favor, chegue no horário para que não percamos nenhum detalhe dessa celebração tão especial.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença</strong><br>Para que possamos preparar cada detalhe com o cuidado que você merece, pedimos a gentileza de confirmar sua presença com até 15 dias de antecedência.</p><p><i class=\"fa-solid fa-champagne-glasses\"></i> <strong>Celebre Cada Momento</strong><br>Prepare o coração para se divertir e criar memórias inesquecíveis! Estamos contando os dias para compartilhar toda essa alegria com você.</p><p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Abraço e um Doce</strong><br>Sua companhia é essencial até o último minuto. Não se despeça sem nos dar um abraço apertado e saborear uma fatia do bolo; queremos adoçar ainda mais esse encontro ao seu lado.</p>"}];
+        const menuConfig = [{"id":"location","titulo":"Localização","icone":"fa-solid fa-location-dot","link":"https://maps.app.goo.gl/HcbAWzsgvLaCghgT6"},{"id":"manual","titulo":"Manual","icone":"fa-solid fa-book-open","link":"#","manualText":"<p><i class=\"fa-solid fa-clock\"></i> <strong>Pontualidade com Carinho</strong><br>Sua presença desde o primeiro instante é o nosso maior presente. Por favor, chegue no horário para que não percamos nenhum detalhe dessa celebração tão especial.</p>\n\n<p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença</strong><br>Para que possamos preparar cada detalhe com o cuidado que você merece, pedimos a gentileza de confirmar sua presença com até 15 dias de antecedência.</p>\n\n<p><i class=\"fa-solid fa-car\"></i> <strong>Conforto e Segurança</strong><br>O Buffet conta com Vallet na porta no valor de R$50,00. Sugerimos não deixar sua carruagem na rua.</p>\n\n<p><i class=\"fa-solid fa-champagne-glasses\"></i> <strong>Celebre Cada Momento</strong><br>Prepare o coração para se divertir e criar memórias inesquecíveis! Estamos contando os dias para compartilhar toda essa alegria com você.</p>\n\n<p><i class=\"fa-solid fa-wand-magic-sparkles\"></i> <strong>Surpresas Especiais</strong><br>Temos surpresas pra você até o final da festa! Fique conosco para descobrir o que preparamos.</p>\n\n<p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Abraço e um Doce</strong><br>Sua companhia é essencial até o último minuto. Não se despeça sem nos dar um abraço apertado e saborear uma fatia do bolo; queremos adoçar ainda mais esse encontro ao seu lado.</p>"},{"id":"rsvp","titulo":"Confirmar Presença","icone":"fa-brands fa-whatsapp","link":"https://wa.me/5511989876564"}];
         // Injected by AutoBuilder
         const buttonSize = parseFloat('1.0') || 1.0;
 
@@ -600,7 +600,9 @@
             e.preventDefault();
 
             // SIMPLIFIED LOGIC: Any URL opens directly, only raw phone numbers use popup
-            const isUrl = link.startsWith("http");
+            // FIX (2026-01-27): Treat 'wa.me' and 'whatsapp.com' links as numbers to force popup
+            const isWhatsAppLink = link.includes("wa.me") || link.includes("whatsapp.com");
+            const isUrl = link.startsWith("http") && !isWhatsAppLink;
 
             if (isUrl) {
                 // ANY URL (forms, group chats, wedding sites, etc) opens directly
