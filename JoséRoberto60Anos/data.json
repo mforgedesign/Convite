@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T10:04:16.344Z",
+  "timestamp": "2026-02-01T10:05:43.055Z",
   "formData": {
     "nome": "José Roberto",
     "tipo_evento": "Aniversário",
@@ -15,8 +15,8 @@
     "cor_botoes": "#14431f",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "100",
-    "tamanho_botoes": "",
-    "link_google_maps": "",
+    "tamanho_botoes": "medio",
+    "link_google_maps": "https://maps.app.goo.gl/c8f3DeuLfVmU2qZ18",
     "link_presentes": "",
     "manual_content": "",
     "confirmacao": "5511957870018",
@@ -33,23 +33,16 @@
     "music_name": "When You Wish Upon a Star From _Pinocchio_ [Instrumental Philharmonic Orchestra Version].mp3",
     "slug": "JoséRoberto60Anos",
     "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/a657d939-2854-4720-a74b-d942ec5538a9"
+    "musica": "blob:https://builder.mforge.com.br/4284f5a4-09d0-408b-a3d5-900ff6b78b53"
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769940256344.mp3",
-    "capa": "assets/capa_1769940256344.png",
-    "folha_vazia": "assets/folha_vazia_1769940256344.png",
-    "fundo_tela": "assets/fundo_tela_1769940256344.mp4",
-    "vid_abertura": "assets/vid_abertura_1769940256344.mp4",
-    "presentes": "assets/presentes_1769940256344.png"
+    "musica": "assets/musica_1769940343055.mp3",
+    "capa": "assets/capa_1769940343055.png",
+    "folha_vazia": "assets/folha_vazia_1769940343055.png",
+    "fundo_tela": "assets/fundo_tela_1769940343055.mp4",
+    "vid_abertura": "assets/vid_abertura_1769940343055.mp4",
+    "presentes": "assets/presentes_1769940343055.png"
   },
   "toggles": {
     "manualMode": "text",
