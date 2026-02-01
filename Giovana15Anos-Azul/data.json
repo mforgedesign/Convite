@@ -1,11 +1,11 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T15:44:56.794Z",
+  "timestamp": "2026-02-01T15:51:29.351Z",
   "formData": {
     "nome": "Giovana",
     "tipo_evento": "Aniversário",
     "tipo_evento_custom": "",
-    "data": "2026-03-28",
+    "data": "2026-05-28",
     "hora": "19:30",
     "idade": "15",
     "tema_evento": "Borboleta",
@@ -14,7 +14,7 @@
     "frase_convite": " Salão de festas condomínio vida bela 1 endereço rua São Francisco 101 Brás cubas",
     "cor_botoes": "#6759b1",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "20",
+    "posicao_botoes": "23",
     "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/1GtxEzm2SaJSPrmA7",
     "link_presentes": "",
@@ -32,24 +32,15 @@
     "manual_html": "<p><i class=\"fa-solid fa-heart\"></i> Sua presença é o toque especial que tornará nossa celebração verdadeiramente completa e inesquecível.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar cada detalhe com o carinho que você merece, pedimos a gentileza de confirmar sua participação até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-glass-cheers\"></i> Estamos ansiosos para compartilhar sorrisos e criar memórias eternas ao seu lado. Prepare o coração para celebrar a alegria e a amizade em grande estilo!</p>",
     "music_name": "Goo Goo Dolls - Iris (Official Lyric Video).mp3",
     "slug": "Giovana15Anos-Azul",
-    "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/885697af-b92a-443c-bacc-e59941eb1a1a",
-    "_reset": true
+    "watermark_enabled": false
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769960696794.mp3",
-    "capa": "assets/capa_1769960696794.png",
-    "fundo_tela": "assets/fundo_tela_1769960696794.dat",
-    "vid_abertura": "assets/vid_abertura_1769960696794.mp4",
-    "presentes": "assets/presentes_1769960696794.png"
+    "musica": "assets/musica_1769961089351.mp3",
+    "capa": "assets/capa_1769961089351.png",
+    "fundo_tela": "assets/fundo_tela_1769961089351.mp4",
+    "vid_abertura": "assets/vid_abertura_1769961089351.mp4",
+    "presentes": "assets/presentes_1769961089351.png"
   },
   "toggles": {
     "manualMode": "text",
