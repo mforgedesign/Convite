@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T07:45:10.605Z",
+  "timestamp": "2026-02-01T08:01:36.572Z",
   "formData": {
     "nome": "Dra. Yasmin",
     "tipo_evento": "Formatura",
@@ -45,10 +45,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769931910605.mp3",
-    "capa": "assets/capa_1769931910605.png",
-    "fundo_tela": "assets/fundo_tela_1769931910605.mp4",
-    "vid_abertura": "assets/vid_abertura_1769931910605.mp4"
+    "musica": "assets/musica_1769932896572.mp3",
+    "capa": "assets/capa_1769932896572.png",
+    "fundo_tela": "assets/fundo_tela_1769932896572.mp4",
+    "vid_abertura": "assets/vid_abertura_1769932896572.mp4"
   },
   "toggles": {
     "manualMode": "text",
