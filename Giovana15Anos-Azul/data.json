@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T13:34:27.402Z",
+  "timestamp": "2026-02-01T13:36:56.058Z",
   "formData": {
     "nome": "Giovana",
     "tipo_evento": "Aniversário",
@@ -12,7 +12,7 @@
     "local_evento": "Avenida Deputado Ulisses Guimarães 385",
     "paleta_cores": "Azul Royal com Prata",
     "frase_convite": " Salão de festas condomínio vida bela 1 endereço rua São Francisco 101 Brás cubas",
-    "cor_botoes": "#5983b1",
+    "cor_botoes": "#6759b1",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "59",
     "tamanho_botoes": "medio",
@@ -37,11 +37,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769952867402.mp3",
-    "capa": "assets/capa_1769952867402.png",
-    "fundo_tela": "assets/fundo_tela_1769952867402.mp4",
-    "vid_abertura": "assets/vid_abertura_1769952867402.mp4",
-    "presentes": "assets/presentes_1769952867402.png"
+    "musica": "assets/musica_1769953016058.mp3",
+    "capa": "assets/capa_1769953016058.png",
+    "fundo_tela": "assets/fundo_tela_1769953016058.mp4",
+    "vid_abertura": "assets/vid_abertura_1769953016058.mp4",
+    "presentes": "assets/presentes_1769953016058.png"
   },
   "toggles": {
     "manualMode": "text",
