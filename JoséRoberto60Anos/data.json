@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T10:00:54.512Z",
+  "timestamp": "2026-02-01T10:04:16.344Z",
   "formData": {
     "nome": "José Roberto",
     "tipo_evento": "Aniversário",
@@ -12,7 +12,7 @@
     "local_evento": "",
     "paleta_cores": "",
     "frase_convite": "",
-    "cor_botoes": "#000000",
+    "cor_botoes": "#14431f",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "100",
     "tamanho_botoes": "",
@@ -44,12 +44,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769940054512.mp3",
-    "capa": "assets/capa_1769940054512.png",
-    "folha_vazia": "assets/folha_vazia_1769940054512.png",
-    "fundo_tela": "assets/fundo_tela_1769940054512.mp4",
-    "vid_abertura": "assets/vid_abertura_1769940054512.mp4",
-    "presentes": "assets/presentes_1769940054512.png"
+    "musica": "assets/musica_1769940256344.mp3",
+    "capa": "assets/capa_1769940256344.png",
+    "folha_vazia": "assets/folha_vazia_1769940256344.png",
+    "fundo_tela": "assets/fundo_tela_1769940256344.mp4",
+    "vid_abertura": "assets/vid_abertura_1769940256344.mp4",
+    "presentes": "assets/presentes_1769940256344.png"
   },
   "toggles": {
     "manualMode": "text",
