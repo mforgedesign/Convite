@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T12:42:12.710Z",
+  "timestamp": "2026-02-01T12:43:09.843Z",
   "formData": {
     "nome": "Rafaela ",
     "tipo_evento": "Aniversário",
@@ -12,10 +12,10 @@
     "local_evento": "",
     "paleta_cores": "Rosé Gold",
     "frase_convite": "",
-    "cor_botoes": "#000000",
+    "cor_botoes": "#d0920b",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "100",
-    "tamanho_botoes": "",
+    "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/D5mALDwdM3nuLo7U7",
     "link_presentes": "",
     "manual_content": "",
@@ -32,24 +32,16 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Sua pontualidade é o nosso primeiro presente.</strong> Para que possamos vivenciar cada detalhe deste sonho juntos, pedimos a gentileza de chegar ao local no horário previsto.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirme sua presença.</strong> Para que possamos preparar tudo com o carinho que você merece, pedimos que confirme sua participação até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-champagne-glasses\"></i> <strong>Celebre cada instante!</strong> Estamos ansiosos para compartilhar a alegria e a energia contagiante deste momento único com você.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Um abraço e um doce momento.</strong> Não se despeça sem nos dar um abraço apertado e saborear uma fatia do bolo conosco. Cada segundo ao seu lado é um tesouro que queremos guardar para sempre.</p>",
     "music_name": "asset-1769524750270.mp3",
     "slug": "15Anos-Rafaela ",
-    "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/75615101-b72c-4d8b-869e-262c78d4ecb6",
-    "_reset": true
+    "watermark_enabled": false
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769949732710.mp3",
-    "capa": "assets/capa_1769949732710.png",
-    "fundo_tela": "assets/fundo_tela_1769949732710.dat",
-    "vid_abertura": "assets/vid_abertura_1769949732710.mp4",
-    "presentes": "assets/presentes_1769949732710.png"
+    "musica": "assets/musica_1769949789843.mp3",
+    "capa": "assets/capa_1769949789843.png",
+    "folha_vazia": "assets/folha_vazia_1769949789843.png",
+    "fundo_tela": "assets/fundo_tela_1769949789843.mp4",
+    "vid_abertura": "assets/vid_abertura_1769949789843.mp4",
+    "presentes": "assets/presentes_1769949789843.png"
   },
   "toggles": {
     "manualMode": "text",
