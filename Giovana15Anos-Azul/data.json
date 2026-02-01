@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T15:20:08.842Z",
+  "timestamp": "2026-02-01T15:44:56.794Z",
   "formData": {
     "nome": "Giovana",
     "tipo_evento": "Aniversário",
@@ -14,7 +14,7 @@
     "frase_convite": " Salão de festas condomínio vida bela 1 endereço rua São Francisco 101 Brás cubas",
     "cor_botoes": "#6759b1",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "59",
+    "posicao_botoes": "20",
     "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/1GtxEzm2SaJSPrmA7",
     "link_presentes": "",
@@ -45,11 +45,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769959208842.mp3",
-    "capa": "assets/capa_1769959208842.png",
-    "fundo_tela": "assets/fundo_tela_1769959208842.mp4",
-    "vid_abertura": "assets/vid_abertura_1769959208842.mp4",
-    "presentes": "assets/presentes_1769959208842.png"
+    "musica": "assets/musica_1769960696794.mp3",
+    "capa": "assets/capa_1769960696794.png",
+    "fundo_tela": "assets/fundo_tela_1769960696794.dat",
+    "vid_abertura": "assets/vid_abertura_1769960696794.mp4",
+    "presentes": "assets/presentes_1769960696794.png"
   },
   "toggles": {
     "manualMode": "text",
