@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-01T13:53:12.460Z",
+  "timestamp": "2026-02-02T11:53:33.549Z",
   "formData": {
     "nome": "Beatriz e Lavinia ",
     "tipo_evento": "Aniversário",
@@ -19,7 +19,7 @@
     "link_google_maps": "https://maps.app.goo.gl/AQZ4DREGvCG316ux7",
     "link_presentes": "",
     "manual_content": "",
-    "confirmacao": "",
+    "confirmacao": "https://docs.google.com/forms/d/e/1FAIpQLSd8JIP2Ip_qtLUTDKhYXOvB685WC7W4kQlXcuxtjlcxQbfvxQ/viewform?usp=publish-editor",
     "permitir_acompanhante": false,
     "timer_contagem": true,
     "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
@@ -33,7 +33,6 @@
     "music_name": "Aladdin 2019 - Arabian Nights Official Instrumental.mp3",
     "slug": "15Anos-Alladin",
     "watermark_enabled": false,
-    "musica": "blob:https://builder.mforge.com.br/c9ba8899-e90d-4975-af1f-9dd5117ac792",
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -41,16 +40,17 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/c9ba8899-e90d-4975-af1f-9dd5117ac792",
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1769953992460.mp3",
-    "capa": "assets/capa_1769953992460.png",
-    "folha_vazia": "assets/folha_vazia_1769953992460.png",
-    "fundo_tela": "assets/fundo_tela_1769953992460.mp4",
-    "vid_abertura": "assets/vid_abertura_1769953992460.mp4",
-    "presentes": "assets/presentes_1769953992460.png"
+    "musica": "assets/musica_1770033213549.mp3",
+    "capa": "assets/capa_1770033213549.png",
+    "folha_vazia": "assets/folha_vazia_1770033213549.png",
+    "fundo_tela": "assets/fundo_tela_1770033213549.dat",
+    "vid_abertura": "assets/vid_abertura_1770033213549.mp4",
+    "presentes": "assets/presentes_1770033213549.png"
   },
   "toggles": {
     "manualMode": "text",
