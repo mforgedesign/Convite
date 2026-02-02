@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-02T14:09:26.054Z",
+  "timestamp": "2026-02-02T15:08:30.500Z",
   "formData": {
     "nome": "Lara Hamphreis",
     "tipo_evento": "Aniversário",
@@ -17,7 +17,7 @@
     "posicao_botoes": "19",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/Eu36VLCkkcaa6xiY9",
-    "link_presentes": "https://andersonlalu1-art.github.io/15LaraHamphreis/",
+    "link_presentes": "",
     "manual_content": "",
     "confirmacao": "5521980683275",
     "permitir_acompanhante": false,
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Para entrar no clima do evento, convidamos você a optar por tons claros e neutros, como bege, off white e marrom claro, em harmonia com a celebração. \n\nE que o convite é individual e intransferível. \n\nNo primeiro momento, teremos a cerimônia e as comemorações, não sendo permitido o uso da piscina.\nApós esse momento especial, a piscina estará liberada para quem desejar aproveitar.\nSugerimos trazer traje de banho 💦✨",
+    "manual_raw_content": "",
     "manual_html": "<p><i class=\"fa-solid fa-paint-brush\"></i> Para entrar no clima do evento, convidamos você a optar por tons claros e neutros, como bege, off white e marrom claro, que harmonizam perfeitamente com a celebração.</p>\n<p><i class=\"fa-solid fa-envelope\"></i> Lembramos que o convite é individual e intransferível.</p>\n<p><i class=\"fa-solid fa-gift\"></i> No primeiro momento, teremos a cerimônia e as comemorações, onde a piscina não estará disponível. Após este momento especial, a piscina será liberada para aqueles que desejarem aproveitar.</p>\n<p><i class=\"fa-solid fa-swimmer\"></i> Sugerimos que traga seu traje de banho 💦✨</p>",
     "music_name": "Indila - Love Story Official Music Video_[cut_28sec]_join.mp3",
     "slug": "LaraHamphreis15Anos",
@@ -50,16 +50,24 @@
     "link_confirmacao": "",
     "media_presentes": null
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Lista de Presentes",
+      "url": "https://andersonlalu1-art.github.io/15LaraHamphreis/",
+      "icon": "fa-solid fa-gift"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1770041366054.mp3",
-    "capa": "assets/capa_1770041366054.png",
-    "folha_vazia": "assets/folha_vazia_1770041366054.png",
-    "fundo_tela": "assets/fundo_tela_1770041366054.mp4",
-    "vid_abertura": "assets/vid_abertura_1770041366054.mp4"
+    "musica": "assets/musica_1770044910501.mp3",
+    "capa": "assets/capa_1770044910501.png",
+    "folha_vazia": "assets/folha_vazia_1770044910501.png",
+    "fundo_tela": "assets/fundo_tela_1770044910501.dat",
+    "vid_abertura": "assets/vid_abertura_1770044910501.mp4",
+    "presentes": "assets/presentes_1770044910501.png"
   },
   "toggles": {
     "manualMode": "text",
-    "giftsMode": "link"
+    "giftsMode": "image"
   }
 }
