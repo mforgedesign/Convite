@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-02T14:05:40.246Z",
+  "timestamp": "2026-02-02T14:09:26.054Z",
   "formData": {
     "nome": "Lara Hamphreis",
     "tipo_evento": "Aniversário",
@@ -12,9 +12,9 @@
     "local_evento": "",
     "paleta_cores": "",
     "frase_convite": "",
-    "cor_botoes": "#000000",
+    "cor_botoes": "#2c8688",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "38",
+    "posicao_botoes": "19",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/Eu36VLCkkcaa6xiY9",
     "link_presentes": "https://andersonlalu1-art.github.io/15LaraHamphreis/",
@@ -52,11 +52,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770041140246.mp3",
-    "capa": "assets/capa_1770041140246.png",
-    "folha_vazia": "assets/folha_vazia_1770041140246.png",
-    "fundo_tela": "assets/fundo_tela_1770041140246.mp4",
-    "vid_abertura": "assets/vid_abertura_1770041140246.mp4"
+    "musica": "assets/musica_1770041366054.mp3",
+    "capa": "assets/capa_1770041366054.png",
+    "folha_vazia": "assets/folha_vazia_1770041366054.png",
+    "fundo_tela": "assets/fundo_tela_1770041366054.mp4",
+    "vid_abertura": "assets/vid_abertura_1770041366054.mp4"
   },
   "toggles": {
     "manualMode": "text",
