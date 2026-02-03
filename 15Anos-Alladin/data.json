@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-02T11:53:33.549Z",
+  "timestamp": "2026-02-03T09:10:42.246Z",
   "formData": {
     "nome": "Beatriz e Lavinia ",
     "tipo_evento": "Aniversário",
@@ -37,20 +37,27 @@
     "capa_referencia": null,
     "folha_vazia": null,
     "vid_abertura": null,
-    "fundo_tela": null,
+    "fundo_tela": "blob:https://builder.mforge.com.br/154d5461-f7bb-43da-b642-a676638ba758",
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/c9ba8899-e90d-4975-af1f-9dd5117ac792",
-    "_reset": true
+    "animate_background": false,
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
+    "_reset": true,
+    "folha_only": null,
+    "background_only": null,
+    "numero_whatsapp": "5519987660835",
+    "link_confirmacao": "",
+    "media_presentes": null
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770033213549.mp3",
-    "capa": "assets/capa_1770033213549.png",
-    "folha_vazia": "assets/folha_vazia_1770033213549.png",
-    "fundo_tela": "assets/fundo_tela_1770033213549.dat",
-    "vid_abertura": "assets/vid_abertura_1770033213549.mp4",
-    "presentes": "assets/presentes_1770033213549.png"
+    "musica": "assets/musica_1770109842246.mp3",
+    "capa": "assets/capa_1770109842246.png",
+    "folha_vazia": "assets/folha_vazia_1770109842246.png",
+    "fundo_tela": "assets/fundo_tela_1770109842246.mp4",
+    "vid_abertura": "assets/vid_abertura_1770109842246.mp4",
+    "presentes": "assets/presentes_1770109842246.png"
   },
   "toggles": {
     "manualMode": "text",
