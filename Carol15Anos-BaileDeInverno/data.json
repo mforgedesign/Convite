@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-03T10:57:14.150Z",
+  "timestamp": "2026-02-03T12:01:12.276Z",
   "formData": {
     "nome": "Carol ",
     "tipo_evento": "",
@@ -19,7 +19,7 @@
     "link_google_maps": "https://maps.app.goo.gl/XQZMbc9UaTZtsJZz6",
     "link_presentes": "",
     "manual_content": "",
-    "confirmacao": "5511993509855",
+    "confirmacao": "5511 993509855",
     "permitir_acompanhante": false,
     "timer_contagem": false,
     "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
@@ -28,8 +28,8 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Apenas coloque os icones, não modifique o texto, ignore o master prompt)\n✨ Manual do Convidado ✨\n\n💌 Confirmação de Presença\nConfirme até 15 de fevereiro, para que seu nome seja incluído na lista.\n\n⏰ Horário\nTemos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.\n\n🎟 Convite\nPessoal e intransferível.\n\n📸 Registros\nTeremos fotógrafos oficiais. Mas Fique à vontade para fotografar e filmar!\n\n🖤 Traje\nBlack Tie / Gala\n\n🎂 Mesa de doces\nParte da decoração e será  liberada no momento certo.\n\n🎉 Celebre conosco\nEssa noite foi preparada com muito amor e carinho, divirta-se muito !\n\n💙 No fim da festa \nNão vá embora sem um abraço e uma fatia do nosso bolo.",
-    "manual_html": "<h2><i class='fa-solid fa-sparkles'></i> Manual do Convidado <i class='fa-solid fa-sparkles'></i></h2>\n\n<p><i class='fa-solid fa-envelope'></i> <strong>Confirmação de Presença</strong><br>Por gentileza, confirme sua presença até 15 de fevereiro para que possamos incluir seu nome na lista de convidados.</p>\n\n<p><i class='fa-solid fa-clock'></i> <strong>Horário</strong><br>Temos um cronograma especial preparado. Sua pontualidade é essencial para que você possa aproveitar cada momento mágico da noite.</p>\n\n<p><i class='fa-solid fa-ticket'></i> <strong>Convite</strong><br>Este convite é pessoal e intransferível.</p>\n\n<p><i class='fa-solid fa-camera'></i> <strong>Registros</strong><br>Contaremos com fotógrafos oficiais, mas sinta-se à vontade para registrar seus próprios momentos!</p>\n\n<p><i class='fa-solid fa-heart'></i> <strong>Traje</strong><br>Black Tie / Gala</p>\n\n<p><i class='fa-solid fa-cake-candles'></i> <strong>Mesa de doces</strong><br>Parte da nossa decoração, a mesa de doces será liberada no momento certo para que todos possam desfrutar.</p>\n\n<p><i class='fa-solid fa-confetti'></i> <strong>Celebre conosco</strong><br>Esta noite foi preparada com muito amor e carinho. Venha se divertir e celebrar conosco!</p>\n\n<p><i class='fa-solid fa-heart'></i> <strong>No fim da festa</strong><br>Não se vá sem nos dar um abraço e levar uma fatia do nosso bolo como lembrança.</p>",
+    "manual_raw_content": "",
+    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Sua presença desde o primeiro instante é fundamental para que não perca nenhum detalhe da nossa história. Por favor, chegue no horário combinado.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar tudo com perfeição e amor, pedimos a gentileza de confirmar sua vinda até o dia 20 de Fevereiro.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Celebre Conosco:</strong> Deixe a alegria guiar a sua noite! Estamos ansiosos para criar memórias inesquecíveis e celebrar este capítulo tão especial ao seu lado.</p><p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Doce Encontro:</strong> Não se despeça sem nos presentear com um abraço apertado e saborear uma fatia do nosso bolo. Queremos compartilhar cada segundo de felicidade com você.</p>",
     "music_name": "Ed Sheeran - Thinking Out Loud (Official Lyric Video).mp3",
     "slug": "Carol15Anos-BaileDeInverno",
     "watermark_enabled": false,
@@ -52,12 +52,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770116234150.mp3",
-    "capa": "assets/capa_1770116234150.png",
-    "folha_vazia": "assets/folha_vazia_1770116234150.png",
-    "fundo_tela": "assets/fundo_tela_1770116234150.mp4",
-    "vid_abertura": "assets/vid_abertura_1770116234150.mp4",
-    "presentes": "assets/presentes_1770116234150.png"
+    "musica": "assets/musica_1770120072276.mp3",
+    "capa": "assets/capa_1770120072276.png",
+    "folha_vazia": "assets/folha_vazia_1770120072276.png",
+    "fundo_tela": "assets/fundo_tela_1770120072276.mp4",
+    "vid_abertura": "assets/vid_abertura_1770120072276.mp4",
+    "presentes": "assets/presentes_1770120072276.png"
   },
   "toggles": {
     "manualMode": "text",
