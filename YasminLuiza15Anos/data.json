@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-03T11:55:40.948Z",
+  "timestamp": "2026-02-04T13:06:49.005Z",
   "formData": {
     "nome": "Yasmin Luiza",
     "tipo_evento": "Aniversário",
@@ -32,7 +32,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Por favor, confirme presença pelo menos 15 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-users\"></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você. E lembrando, convidado não convida.</p>",
     "music_name": "♫ Hallelujah Aleluia - Leonard Cohen _ Instrumental Worship _ Fundo Musical _ Piano + Pad_[cut_280sec]_[cut_274sec].mp3",
     "slug": "YasminLuiza15Anos",
-    "watermark_enabled": false,
+    "watermark_enabled": true,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -52,11 +52,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770119740948.mp3",
-    "capa": "assets/capa_1770119740948.png",
-    "fundo_tela": "assets/fundo_tela_1770119740948.dat",
-    "vid_abertura": "assets/vid_abertura_1770119740948.mp4",
-    "presentes": "assets/presentes_1770119740948.png"
+    "musica": "assets/musica_1770210409005.mp3",
+    "capa": "assets/capa_1770210409005.png",
+    "fundo_tela": "assets/fundo_tela_1770210409005.dat",
+    "vid_abertura": "assets/vid_abertura_1770210409005.mp4",
+    "presentes": "assets/presentes_1770210409005.png"
   },
   "toggles": {
     "manualMode": "text",
