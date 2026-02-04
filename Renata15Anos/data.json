@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-04T12:18:25.886Z",
+  "timestamp": "2026-02-04T12:28:08.450Z",
   "formData": {
     "nome": "Renata",
     "tipo_evento": "Aniversário",
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770207505886.mp3",
-    "capa": "assets/capa_1770207505886.png",
-    "folha_vazia": "assets/folha_vazia_1770207505886.png",
-    "fundo_tela": "assets/fundo_tela_1770207505886.mp4",
-    "vid_abertura": "assets/vid_abertura_1770207505886.mp4",
-    "presentes": "assets/presentes_1770207505886.png"
+    "musica": "assets/musica_1770208088450.mp3",
+    "capa": "assets/capa_1770208088450.png",
+    "folha_vazia": "assets/folha_vazia_1770208088450.png",
+    "fundo_tela": "assets/fundo_tela_1770208088450.mp4",
+    "vid_abertura": "assets/vid_abertura_1770208088450.mp4",
+    "presentes": "assets/presentes_1770208088450.png"
   },
   "toggles": {
     "manualMode": "text",
