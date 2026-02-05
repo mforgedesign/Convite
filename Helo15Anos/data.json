@@ -1,0 +1,70 @@
+{
+  "version": "4.0",
+  "timestamp": "2026-02-05T11:21:51.784Z",
+  "formData": {
+    "nome": "Helo",
+    "tipo_evento": "Aniversário",
+    "tipo_evento_custom": "",
+    "data": "2026-03-06",
+    "hora": "21:00",
+    "idade": "15",
+    "tema_evento": "",
+    "local_evento": "",
+    "paleta_cores": "",
+    "frase_convite": "",
+    "cor_botoes": "#d0841b",
+    "sombra_gradiente": "#000000",
+    "posicao_botoes": "21",
+    "tamanho_botoes": "medio",
+    "link_google_maps": "https://maps.google.com/maps/place//data=!4m2!3m1!1s0x94ce5ea551095555:0x1142323317c974c8?entry=s&sa=X&ved=2ahUKEwi77te14pCSAxWQILkGHcpaDBYQ4kB6BAgWEAA&hl=pt",
+    "link_presentes": "",
+    "manual_content": "",
+    "confirmacao": "5511958438309",
+    "permitir_acompanhante": false,
+    "timer_contagem": false,
+    "cover_prompt": "Tipo de evento: \nSelo: \nPaleta de Cores: \nTema: \nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
+    "leaf_prompt": "",
+    "intro_motion_prompt": "The animation begins with a focus on the closed envelope. As the wax seal gracefully detaches and falls, the envelope's flap uplifts slowly. From its interior, a spectacular eruption of glittering sparkles and smoke, shimmering dust, and glowing light trails emerges, cascading outward in a mesmerizing display. These vibrant particles swirl dynamically, increasing in density and brightness around the envelope. The radiant light and swirling glitter intensify, rapidly expanding to fill the entire scene. CRITICAL: The Color of glow, light and smoke need to be the same of the image color pallete. The overwhelming brilliance transitions the frame to a solid, blinding white screen in the very final frame, achieved through a dramatic zoom-in effect.",
+    "fill_prompt": "Nome: \nIdade (se houver): (não informada)\nTipo de evento: \nTema: \nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
+    "sugestoes_presentes": "",
+    "gifts_image_prompt": "",
+    "manual_raw_content": "",
+    "manual_html": "<div style='font-family: serif; line-height: 1.6;'><h3><i class='fa-solid fa-star'></i> Guia para Aproveitarmos Juntos</h3><p><i class='fa-solid fa-envelope-open-text'></i> <strong>Um Momento Exclusivo:</strong> Este convite foi preparado com muito carinho especificamente para você. Por ser um evento íntimo, pedimos a gentileza de não compartilhá-lo com outras pessoas.</p><p><i class='fa-solid fa-utensils'></i> <strong>Saboreie Cada Instante:</strong> Desfrute do buffet e não deixe de experimentar nossas delícias. A vida fica mais doce com uma passadinha na mesa de sobremesas!</p><p><i class='fa-solid fa-camera-retro'></i> <strong>Registre sua Alegria:</strong> Adoramos selfies! Registre cada sorriso, mas pedimos que abra caminho para nossos fotógrafos oficiais para que nenhum detalhe da cerimônia seja perdido.</p><p><i class='fa-solid fa-cake-candles'></i> <strong>A Doce Espera:</strong> O momento do bolo é um dos mais especiais da nossa celebração. Fique conosco para compartilhar essa tradição!</p><p><i class='fa-solid fa-leaf'></i> <strong>Beleza Compartilhada:</strong> Nossa decoração foi pensada para encantar a todos durante toda a festa. Por favor, deixe que ela permaneça no salão para embelezar nossas fotos e memórias.</p><p><i class='fa-solid fa-face-smile-wink'></i> <strong>Um Abraço Essencial:</strong> Sua presença é o nosso maior presente. Antes de partir, não esqueça de nos presentear com aquele abraço apertado e cheio de carinho!</p><br><p><i class='fa-solid fa-user-tie'></i> <strong>Dress Code:</strong> Traje Esporte Fino</p></div>",
+    "music_name": "musica.mp3",
+    "slug": "Helo15Anos",
+    "watermark_enabled": false,
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": null,
+    "numero_whatsapp": "5511958438309",
+    "link_confirmacao": "",
+    "animate_background": false,
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
+    "_reset": true
+  },
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://comforting-caramel-ee0dbf.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
+  "assetsMap": {
+    "musica": "assets/musica_1770290511784.mp3",
+    "capa": "assets/capa_1770290511784.png",
+    "folha_vazia": "assets/folha_vazia_1770290511784.png",
+    "fundo_tela": "assets/fundo_tela_1770290511784.dat",
+    "vid_abertura": "assets/vid_abertura_1770290511784.mp4",
+    "presentes": "assets/presentes_1770290511784.png"
+  },
+  "toggles": {
+    "manualMode": "text",
+    "giftsMode": "image"
+  }
+}
