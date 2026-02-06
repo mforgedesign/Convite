@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T10:51:05.428Z",
+  "timestamp": "2026-02-06T10:59:21.819Z",
   "formData": {
     "nome": "Cecília",
     "tipo_evento": "Aniversário",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "(Ignore o master prompt. Acrescente apenas os fa-icons).\n\nChegue no horário: Sua presença pontual é muito importante para nós.\nConfirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.\nDivirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.",
-    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\"><h1><i class=\"fa-solid fa-user-plus\"></i> Seja muito bem-vindo(a)!</h1>\n<p>É uma alegria imensa contar com a sua presença. Preparamos este manual para que você se sinta confortável, bem informado(a) e aproveite cada momento do nosso evento.</p>\n<h2><i class=\"fa-solid fa-clock\"></i> Pontualidade:</h2>\n<p>A programação foi pensada com carinho e seguirá os horários previstos. Sua pontualidade é muito importante. Chegue com antecedência para aproveitar tudo com tranquilidade.</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível! ✨💙</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença!</h2>\n<p>Por favor, confirme presença pelomenos 15 dias antes do evento. \n</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível!✨💙.</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Convidado não convida!</h2></div>",
+    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\"><h1><i class=\"fa-solid fa-user-plus\"></i> Seja muito bem-vindo(a)!</h1>\n<p>É uma alegria imensa contar com a sua presença. Preparamos este manual para que você se sinta confortável, bem informado(a) e aproveite cada momento do nosso evento.</p>\n<h2><i class=\"fa-solid fa-clock\"></i> Pontualidade:</h2>\n<p>A programação foi pensada com carinho e seguirá os horários previstos: <p>\n- A Piscina é liberada até as 17h00;<p>\n- À partir das 17h00, a pista de dança será liberada!</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível! ✨💙</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença!</h2>\n<p>Por favor, confirme presença pelomenos 15 dias antes do evento. \n</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível!✨💙.</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Convidado não convida!</h2></div>",
     "music_name": "Bruno Mars - That's What I Like Instrumental Original.mp3",
     "slug": "Cecília15Anos",
     "watermark_enabled": false,
@@ -47,12 +47,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770375065428.mp3",
-    "capa": "assets/capa_1770375065428.png",
-    "folha_vazia": "assets/folha_vazia_1770375065428.png",
-    "fundo_tela": "assets/fundo_tela_1770375065428.mp4",
-    "vid_abertura": "assets/vid_abertura_1770375065428.mp4",
-    "presentes": "assets/presentes_1770375065428.png"
+    "musica": "assets/musica_1770375561819.mp3",
+    "capa": "assets/capa_1770375561819.png",
+    "folha_vazia": "assets/folha_vazia_1770375561819.png",
+    "fundo_tela": "assets/fundo_tela_1770375561819.mp4",
+    "vid_abertura": "assets/vid_abertura_1770375561819.mp4",
+    "presentes": "assets/presentes_1770375561819.png"
   },
   "toggles": {
     "manualMode": "text",
