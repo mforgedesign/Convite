@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T11:44:05.535Z",
+  "timestamp": "2026-02-06T11:47:33.408Z",
   "formData": {
     "nome": "",
     "tipo_evento": "",
@@ -12,7 +12,7 @@
     "local_evento": "",
     "paleta_cores": "",
     "frase_convite": "",
-    "cor_botoes": "#000000",
+    "cor_botoes": "#940627",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "100",
     "tamanho_botoes": "",
@@ -45,10 +45,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770378245535.mp3",
-    "capa": "assets/capa_1770378245535.png",
-    "fundo_tela": "assets/fundo_tela_1770378245535.mp4",
-    "vid_abertura": "assets/vid_abertura_1770378245535.mp4"
+    "musica": "assets/musica_1770378453408.mp3",
+    "capa": "assets/capa_1770378453408.png",
+    "fundo_tela": "assets/fundo_tela_1770378453408.mp4",
+    "vid_abertura": "assets/vid_abertura_1770378453408.mp4"
   },
   "toggles": {
     "manualMode": "text",
