@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T12:38:15.282Z",
+  "timestamp": "2026-02-06T12:48:47.513Z",
   "formData": {
     "nome": "Carol ",
     "tipo_evento": "Aniversário",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "(Ignore o master prompt. Apenas coloque os icons free. Não modifique nenhum texto, transcreva exatamente como estou escrevendo abaixo.)\n\n💌 Confirmação de Presença\nConfirme até 15 de fevereiro, para que seu nome seja incluído na lista.\n\n⏰ Horário\nTemos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.\n\n🎟 Convite\nPessoal e intransferível.\n\n📸 Registros\nTeremos fotógrafos oficiais. Mas Fique à vontade para fotografar e filmar!\n\n🖤 Traje\nBlack Tie / Gala\n\n🎂 Mesa de doces\nParte da decoração e será  liberada no momento certo.\n\n🎉 Celebre conosco\nEssa noite foi preparada com muito amor e carinho, divirta-se muito !\n\n💙 No fim da festa \nNão vá embora sem um abraço e uma fatia do nosso bolo.",
-    "manual_html": "<h2><i class=\"fa-solid fa-envelope\"></i> Confirmação de Presença</h2><p>Confirme até 15 de fevereiro, para que seu nome seja incluído na lista.</p><h2><i class=\"fa-solid fa-clock\"></i> Horário</h2><p>Temos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.</p><h2><i class=\"fa-solid fa-ticket\"></i> Convite</h2><p>Pessoal e intransferível.</p><h2><i class=\"fa-solid fa-camera\"></i> Registros</h2><p>Teremos fotógrafos oficiais. Mas fique à vontade para fotografar e filmar!</p><h2><i class=\"fa-solid fa-heart\"></i> Traje</h2><p>Black Tie / Gala</p><h2><i class=\"fa-solid fa-cake\"></i> Mesa de doces</h2><p>Parte da decoração e será liberada no momento certo.\n</p><h2><i class=\"fa-solid fa-gift\"></i> Celebre conosco</h2><p>Essa noite foi preparada com muito amor e carinho, divirta-se muito!</p><h2><i class=\"fa-solid fa-heart\"></i> No fim da festa</h2><p>Não vá embora sem um abraço e uma fatia do nosso bolo.</p>",
+    "manual_html": "<h2><i class=\"fa-solid fa-envelope\"></i> Confirmação de Presença</h2><p>Confirme até 25 de fevereiro, para que seu nome seja incluído na lista.</p><h2><i class=\"fa-solid fa-clock\"></i> Horário</h2><p>Temos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.</p><h2><i class=\"fa-solid fa-ticket\"></i> Convite</h2><p>Pessoal e intransferível.</p><h2><i class=\"fa-solid fa-camera\"></i> Registros</h2><p>Teremos fotógrafos oficiais. Mas fique à vontade para fotografar e filmar!</p><h2><i class=\"fa-solid fa-heart\"></i> Traje</h2><p>Black Tie / Gala</p><h2><i class=\"fa-solid fa-cake\"></i> Mesa de doces</h2><p>Parte da decoração e será liberada no momento certo.\n</p><h2><i class=\"fa-solid fa-gift\"></i> Celebre conosco</h2><p>Essa noite foi preparada com muito amor e carinho, divirta-se muito!</p><h2><i class=\"fa-solid fa-heart\"></i> No fim da festa</h2><p>Não vá embora sem um abraço e uma fatia do nosso bolo.</p>",
     "music_name": "Ed Sheeran - Thinking Out Loud (Official Lyric Video).mp3",
     "slug": "Carol15Anos-BaileDeInverno",
     "watermark_enabled": false,
@@ -45,14 +45,15 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770381495282.mp3",
-    "capa": "assets/capa_1770381495282.png",
-    "folha_vazia": "assets/folha_vazia_1770381495282.png",
-    "fundo_tela": "assets/fundo_tela_1770381495282.dat",
-    "vid_abertura": "assets/vid_abertura_1770381495282.mp4"
+    "musica": "assets/musica_1770382127513.mp3",
+    "capa": "assets/capa_1770382127513.png",
+    "folha_vazia": "assets/folha_vazia_1770382127513.png",
+    "fundo_tela": "assets/fundo_tela_1770382127513.mp4",
+    "vid_abertura": "assets/vid_abertura_1770382127513.mp4",
+    "presentes": "assets/presentes_1770382127513.png"
   },
   "toggles": {
     "manualMode": "text",
-    "giftsMode": "link"
+    "giftsMode": "image"
   }
 }
