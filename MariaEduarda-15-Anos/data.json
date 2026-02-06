@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T11:47:33.408Z",
+  "timestamp": "2026-02-06T12:00:12.671Z",
   "formData": {
     "nome": "",
     "tipo_evento": "",
@@ -32,7 +32,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> O evento começará às <strong>21:00 horas</strong>. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class=\"fa-solid fa-heart\"></i> Sua presença é muito importante para nós. Por favor, confirme sua presença com pelo menos <strong>15 dias</strong> de antecedência.</p> <p><i class=\"fa-solid fa-user-slash\"></i> CONVIDADO NÃO CONVIDA!</p> <p><i class=\"fa-solid fa-funeral-director\"></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p> <p><i class=\"fa-solid fa-tshirt\"></i> TRAJE: <strong>ESPORTE FINO</strong>. Proibido o uso de moletom, chinelo e boné.</p> <p><i class=\"fa-solid fa-gift\"></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p> <p><i class=\"fa-solid fa-credit-card\"></i> Se desejar, você poderá presentear diretamente através da chave PIX: <strong>444.106.868-95</strong>.</p>",
     "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid [b9v96HD_3_U].mp3",
     "slug": "MariaEduarda-15-Anos",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -45,10 +45,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770378453408.mp3",
-    "capa": "assets/capa_1770378453408.png",
-    "fundo_tela": "assets/fundo_tela_1770378453408.mp4",
-    "vid_abertura": "assets/vid_abertura_1770378453408.mp4"
+    "musica": "assets/musica_1770379212671.mp3",
+    "capa": "assets/capa_1770379212671.png",
+    "fundo_tela": "assets/fundo_tela_1770379212671.mp4",
+    "vid_abertura": "assets/vid_abertura_1770379212671.mp4"
   },
   "toggles": {
     "manualMode": "text",
