@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T12:46:29.494Z",
+  "timestamp": "2026-02-06T13:23:23.822Z",
   "formData": {
     "nome": "Lavínia",
     "tipo_evento": "Aniversário",
@@ -32,7 +32,7 @@
     "manual_html": "<p><i class=\"fa-solid fa-mask\"></i> O uso de máscara veneziana é obrigatório. Contudo, caso você esqueça a sua, teremos o prazer de disponibilizar uma na recepção.</p> <p><i class=\"fa-solid fa-shirt\"></i> Dress Code: traje social-gala. Pedimos gentilmente que evite tons marsala, que são reservados para a debutante e a decoração da festa.</p> <p><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença: Por favor, confirme sua presença impreterivelmente até o dia 01/03/26.</p> <p><i class=\"fa-solid fa-heart\"></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.</p>",
     "music_name": "Aram Khachaturian - Masquerade Suite - Waltz - The Wicked North (youtube) (1).mp3",
     "slug": "15Anos-Lavínia",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -44,11 +44,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770381989494.mp3",
-    "capa": "assets/capa_1770381989494.png",
-    "folha_vazia": "assets/folha_vazia_1770381989494.png",
-    "fundo_tela": "assets/fundo_tela_1770381989494.mp4",
-    "vid_abertura": "assets/vid_abertura_1770381989494.mp4"
+    "musica": "assets/musica_1770384203822.mp3",
+    "capa": "assets/capa_1770384203822.png",
+    "folha_vazia": "assets/folha_vazia_1770384203822.png",
+    "fundo_tela": "assets/fundo_tela_1770384203822.mp4",
+    "vid_abertura": "assets/vid_abertura_1770384203822.mp4"
   },
   "toggles": {
     "manualMode": "text",
