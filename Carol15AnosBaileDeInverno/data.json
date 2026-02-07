@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T13:37:21.088Z",
+  "timestamp": "2026-02-07T16:17:27.083Z",
   "formData": {
     "nome": "Carol ",
     "tipo_evento": "",
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770385041088.mp3",
-    "capa": "assets/capa_1770385041088.png",
-    "folha_vazia": "assets/folha_vazia_1770385041088.png",
-    "fundo_tela": "assets/fundo_tela_1770385041088.mp4",
-    "vid_abertura": "assets/vid_abertura_1770385041088.mp4",
-    "presentes": "assets/presentes_1770385041088.png"
+    "musica": "assets/musica_1770481047083.mp3",
+    "capa": "assets/capa_1770481047083.png",
+    "folha_vazia": "assets/folha_vazia_1770481047083.png",
+    "fundo_tela": "assets/fundo_tela_1770481047083.dat",
+    "vid_abertura": "assets/vid_abertura_1770481047083.mp4",
+    "presentes": "assets/presentes_1770481047083.png"
   },
   "toggles": {
     "manualMode": "text",
