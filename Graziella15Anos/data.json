@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-07T21:43:05.441Z",
+  "timestamp": "2026-02-07T21:46:16.104Z",
   "formData": {
     "nome": "Yasmin",
     "tipo_evento": "Aniversário",
@@ -14,7 +14,7 @@
     "frase_convite": "",
     "cor_botoes": "#2e0a05",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "100",
+    "posicao_botoes": "13",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/etTaHU4StspTziMG6",
     "link_presentes": "",
@@ -44,10 +44,10 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "capa": "assets/capa_1770500585441.png",
-    "folha_vazia": "assets/folha_vazia_1770500585441.png",
-    "fundo_tela": "assets/fundo_tela_1770500585441.mp4",
-    "vid_abertura": "assets/vid_abertura_1770500585441.mp4"
+    "capa": "assets/capa_1770500776104.png",
+    "folha_vazia": "assets/folha_vazia_1770500776104.png",
+    "fundo_tela": "assets/fundo_tela_1770500776104.mp4",
+    "vid_abertura": "assets/vid_abertura_1770500776104.mp4"
   },
   "toggles": {
     "manualMode": "text",
