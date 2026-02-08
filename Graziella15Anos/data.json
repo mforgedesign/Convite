@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-08T20:04:26.895Z",
+  "timestamp": "2026-02-08T20:50:37.471Z",
   "formData": {
     "nome": "Graziella",
     "tipo_evento": "Aniversário",
@@ -16,7 +16,7 @@
     "sombra_gradiente": "#000000",
     "posicao_botoes": "0",
     "tamanho_botoes": "medio",
-    "link_google_maps": "https://maps.app.goo.gl/etTaHU4StspTziMG6",
+    "link_google_maps": "",
     "link_presentes": "",
     "manual_content": "",
     "confirmacao": "",
@@ -43,13 +43,20 @@
     "musica": "blob:https://builder.mforge.com.br/b4943879-696d-4813-a973-6f5fc6e0416d",
     "_reset": true
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Como Chegar",
+      "url": "https://maps.app.goo.gl/etTaHU4StspTziMG6",
+      "icon": "fa-solid fa-location-dot"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1770581066895.mp3",
-    "capa": "assets/capa_1770581066895.png",
-    "folha_vazia": "assets/folha_vazia_1770581066895.png",
-    "fundo_tela": "assets/fundo_tela_1770581066895.mp4",
-    "vid_abertura": "assets/vid_abertura_1770581066895.mp4"
+    "musica": "assets/musica_1770583837471.mp3",
+    "capa": "assets/capa_1770583837471.png",
+    "folha_vazia": "assets/folha_vazia_1770583837471.png",
+    "fundo_tela": "assets/fundo_tela_1770583837471.dat",
+    "vid_abertura": "assets/vid_abertura_1770583837471.mp4"
   },
   "toggles": {
     "manualMode": "text",
