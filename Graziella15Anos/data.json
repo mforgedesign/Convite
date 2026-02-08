@@ -1,8 +1,8 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-08T01:45:32.323Z",
+  "timestamp": "2026-02-08T02:26:40.150Z",
   "formData": {
-    "nome": "Yasmin",
+    "nome": "Graziella",
     "tipo_evento": "Aniversário",
     "tipo_evento_custom": "",
     "data": "2026-04-25",
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore o master prompt dessa vez, e não modifique o texto. Apenas acrescente os fa icon)\nO evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.\n Sua presença é muito importante para nós. Por favor, confirme sua presença com pelo menos 15 dias de antecedência.\n CONVIDADO NÃO CONVIDA!\n Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.\n TRAJE: ESPORTE FINO. Proibido o uso de moletom, chinelo e boné.\n Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.\n Se desejar, você poderá presentear diretamente através da chave PIX: 07129073195",
+    "manual_raw_content": "",
     "manual_html": "<p><i class='fa-solid fa-clock'></i> O evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class='fa-solid fa-heart'></i> Sua presença é muito importante para nós. Por favor, confirme sua presença com pelo menos 15 dias de antecedência.</p> <p><i class='fa-solid fa-user-check'></i> CONVIDADO NÃO CONVIDA!</p> <p><i class='fa-solid fa-funeral-urn'></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p> <p><i class='fa-solid fa-tshirt'></i> TRAJE: ESPORTE FINO. Proibido o uso de moletom, chinelo e boné.</p> <p><i class='fa-solid fa-envelope-open-text'></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p> <p><i class='fa-solid fa-gift'></i> Se desejar, você poderá presentear diretamente através da chave PIX: 07129073195</p>",
     "music_name": "beabadoobee - Glue Song [instrumental] - Luca Ventashik (youtube).mp3",
     "slug": "Graziella15Anos",
@@ -40,15 +40,16 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/b4943879-696d-4813-a973-6f5fc6e0416d"
+    "musica": "blob:https://builder.mforge.com.br/b4943879-696d-4813-a973-6f5fc6e0416d",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770515132323.mp3",
-    "capa": "assets/capa_1770515132323.png",
-    "folha_vazia": "assets/folha_vazia_1770515132323.png",
-    "fundo_tela": "assets/fundo_tela_1770515132323.mp4",
-    "vid_abertura": "assets/vid_abertura_1770515132323.mp4"
+    "musica": "assets/musica_1770517600150.mp3",
+    "capa": "assets/capa_1770517600150.png",
+    "folha_vazia": "assets/folha_vazia_1770517600150.png",
+    "fundo_tela": "assets/fundo_tela_1770517600150.dat",
+    "vid_abertura": "assets/vid_abertura_1770517600150.mp4"
   },
   "toggles": {
     "manualMode": "text",
