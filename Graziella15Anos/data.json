@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-08T03:17:17.830Z",
+  "timestamp": "2026-02-08T20:04:26.895Z",
   "formData": {
     "nome": "Graziella",
     "tipo_evento": "Aniversário",
@@ -15,7 +15,7 @@
     "cor_botoes": "#2e0a05",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "0",
-    "tamanho_botoes": "",
+    "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/etTaHU4StspTziMG6",
     "link_presentes": "",
     "manual_content": "",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<p><i class='fa-solid fa-clock'></i> O evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class='fa-solid fa-heart'></i> Sua presença é muito importante para nós. Por favor, confirme sua presença com pelo menos 15 dias de antecedência.</p> <p><i class='fa-solid fa-user-check'></i> CONVIDADO NÃO CONVIDA!</p> <p><i class='fa-solid fa-funeral-urn'></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p> <p><i class='fa-solid fa-tshirt'></i> TRAJE: ESPORTE FINO. Proibido o uso de moletom, chinelo e boné.</p> <p><i class='fa-solid fa-envelope-open-text'></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p> <p><i class='fa-solid fa-gift'></i> Se desejar, você poderá presentear diretamente através da chave PIX: 07129073195</p>",
+    "manual_html": "<p><i class='fa-solid fa-clock'></i> O evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class='fa-solid fa-heart'></i> Sua presença é muito importante para nós. Confirme sua presença com pelo menos 15 dias de antecedência.</p> <p><i class='fa-solid fa-user-check'></i> CONVIDADO NÃO CONVIDA!</p> <p><i class='fa-solid fa-funeral-urn'></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p>  <p><i class='fa-solid fa-envelope-open-text'></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p>",
     "music_name": "beabadoobee - Glue Song [instrumental] - Luca Ventashik (youtube).mp3",
     "slug": "Graziella15Anos",
     "watermark_enabled": false,
@@ -45,11 +45,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770520637830.mp3",
-    "capa": "assets/capa_1770520637830.png",
-    "folha_vazia": "assets/folha_vazia_1770520637830.png",
-    "fundo_tela": "assets/fundo_tela_1770520637830.dat",
-    "vid_abertura": "assets/vid_abertura_1770520637830.mp4"
+    "musica": "assets/musica_1770581066895.mp3",
+    "capa": "assets/capa_1770581066895.png",
+    "folha_vazia": "assets/folha_vazia_1770581066895.png",
+    "fundo_tela": "assets/fundo_tela_1770581066895.mp4",
+    "vid_abertura": "assets/vid_abertura_1770581066895.mp4"
   },
   "toggles": {
     "manualMode": "text",
