@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-08T02:26:40.150Z",
+  "timestamp": "2026-02-08T02:35:47.052Z",
   "formData": {
     "nome": "Graziella",
     "tipo_evento": "Aniversário",
@@ -14,7 +14,7 @@
     "frase_convite": "",
     "cor_botoes": "#2e0a05",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "13",
+    "posicao_botoes": "0",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/etTaHU4StspTziMG6",
     "link_presentes": "",
@@ -45,11 +45,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770517600150.mp3",
-    "capa": "assets/capa_1770517600150.png",
-    "folha_vazia": "assets/folha_vazia_1770517600150.png",
-    "fundo_tela": "assets/fundo_tela_1770517600150.dat",
-    "vid_abertura": "assets/vid_abertura_1770517600150.mp4"
+    "musica": "assets/musica_1770518147052.mp3",
+    "capa": "assets/capa_1770518147052.png",
+    "folha_vazia": "assets/folha_vazia_1770518147052.png",
+    "fundo_tela": "assets/fundo_tela_1770518147052.mp4",
+    "vid_abertura": "assets/vid_abertura_1770518147052.mp4"
   },
   "toggles": {
     "manualMode": "text",
