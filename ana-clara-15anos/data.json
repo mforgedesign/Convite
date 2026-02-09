@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T12:20:23.516Z",
+  "timestamp": "2026-02-09T15:20:00.125Z",
   "formData": {
     "nome": "Ana Clara",
     "tipo_evento": "Aniversário",
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "*📜 MANUAL DO CONVIDADO:*\nConfirme sua presença: Por favor, confirme presença até dia 20/03.\n\nDress Code: Esporte Fino (por gentileza evitar roupas nas cores amarela e azul).\n\nChegue no horário: Sua presença pontual é muito importante.\n\nDivirta-se bastante! Estou ansiosa para celebrar este momento especial com você.\n\n\n",
+    "manual_raw_content": "",
     "manual_html": "<h><i class=\"fa-solid fa-scroll\"></i> Manual do Convidado</h2>\n<p><strong>Confirmação de Presença:</strong> Pedimos a gentileza de confirmar sua presença até o dia <strong>20 de março</strong>.</p>\n<p><strong>Traje:</strong> O dress code é <em>Esporte Fino</em>. Solicitamos que evitem as cores amarela e azul.</p>\n<p><strong>Pontualidade:</strong> Sua presença no horário é de grande importância para nós.</p>\n<p><strong>Divirta-se:</strong> Estou ansiosa para celebrar este momento especial ao seu lado!</p>",
     "music_name": "Amélie x Soulmate.mp3",
     "slug": "ana-clara-15anos",
@@ -51,11 +51,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770639623516.mp3",
-    "capa": "assets/capa_1770639623516.png",
-    "folha_vazia": "assets/folha_vazia_1770639623516.png",
-    "fundo_tela": "assets/fundo_tela_1770639623516.mp4",
-    "vid_abertura": "assets/vid_abertura_1770639623516.mp4"
+    "musica": "assets/musica_1770650400125.mp3",
+    "capa": "assets/capa_1770650400125.png",
+    "folha_vazia": "assets/folha_vazia_1770650400125.png",
+    "fundo_tela": "assets/fundo_tela_1770650400125.mp4",
+    "vid_abertura": "assets/vid_abertura_1770650400125.mp4"
   },
   "toggles": {
     "manualMode": "text",
