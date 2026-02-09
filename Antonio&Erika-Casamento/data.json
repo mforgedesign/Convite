@@ -1,0 +1,66 @@
+{
+  "version": "4.0",
+  "timestamp": "2026-02-09T10:42:53.309Z",
+  "formData": {
+    "nome": "Antônio & Érika",
+    "tipo_evento": "Casamento",
+    "tipo_evento_custom": "",
+    "data": "2026-05-01",
+    "hora": "11:30",
+    "idade": "",
+    "tema_evento": "",
+    "local_evento": "Fried Fish Vilarejo restaurante  R. José Ruíz Pelegrina, 7-55 - Vila Guedes de Azevedo, Bauru - SP",
+    "paleta_cores": "",
+    "frase_convite": "",
+    "cor_botoes": "#593300",
+    "sombra_gradiente": "#000000",
+    "posicao_botoes": "8",
+    "tamanho_botoes": "",
+    "link_google_maps": "https://maps.app.goo.gl/pNyDKpvw5Hqq41RA8?g_st=awb",
+    "link_presentes": "https://cheery-brigadeiros-9b6d5d.netlify.app/",
+    "manual_content": "",
+    "confirmacao": "5514996784600",
+    "permitir_acompanhante": false,
+    "timer_contagem": false,
+    "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
+    "leaf_prompt": "",
+    "intro_motion_prompt": "The animation begins with a focus on the closed envelope. As the wax seal gracefully detaches and falls, the envelope's flap uplifts slowly. From its interior, a spectacular eruption of glittering sparkles and smoke, shimmering dust, and glowing light trails emerges, cascading outward in a mesmerizing display. These vibrant particles swirl dynamically, increasing in density and brightness around the envelope. The radiant light and swirling glitter intensify, rapidly expanding to fill the entire scene. CRITICAL: The Color of glow, light and smoke need to be the same of the image color pallete. The overwhelming brilliance transitions the frame to a solid, blinding white screen in the very final frame, achieved through a dramatic zoom-in effect.",
+    "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
+    "sugestoes_presentes": "",
+    "gifts_image_prompt": "",
+    "manual_raw_content": "Nosso Grande Dia está chegando!\nQueridos convidados, preparamos este manual com muito carinho para que vocês aproveitem ao máximo esse momento especial com a gente!\n\nSiga essas instruções e divirta-se\nInstruções para os Convidados\nLocal: O casamento será um almoço no restaurante Fried Fish Vilarejo em Bauru às 11:30h pontualmente. Por favor, chegue com 15 minutos de antecedência. A pontualidade é essencial para vivermos esse momento juntos do início ao fim!\nConvidado não Convida! Não é permitido compartilhar este convite!\nO buffet é por nossa conta! Já as bebidas, cada convidado poderá escolher e comprar no local.\nConfirme sua presença o quanto antes! Até no máximo dia 10/03.\nEnvie o nome completo e idade das pessoas que vão com você.\nTraje: Esporte fino, casual elegante ou conforme sua escolha, priorize o conforto pois você vai comer muuuitoo 😅\nO casamento civil acontecerá no dia seguinte, no cartório (com número limitado de convidados). Após a cerimônia, vamos celebrar com um almoço especial na Churrascaria Tuvalu (R. Cristiano Pagani, 2-64 - Vila Engler, Bauru - SP). Será uma alegria ter você conosco! Cada convidado poderá pagar seu consumo diretamente no local.",
+    "manual_html": "<h1><i class='fa-solid fa-heart'></i> O Nosso Grande Dia Está Chegando!</h1>\n<p>Queridos convidados, com muito carinho, preparamos este guia especial para que vocês possam desfrutar ao máximo deste momento único ao nosso lado!</p>\n<h2><i class='fa-solid fa-list'></i> Instruções para os Convidados</h2>\n<p><strong>Local:</strong> O casamento será um almoço no restaurante Fried Fish Vilarejo em Bauru, às 11:30h pontualmente. Pedimos que cheguem com 15 minutos de antecedência, pois a pontualidade é essencial para vivermos juntos cada instante deste dia especial!</p>\n<p><strong>Aviso Importante:</strong> Este convite é pessoal e intransferível. Não é permitido compartilhá-lo!</p>\n<p><strong>Buffet:</strong> O buffet é por nossa conta! As bebidas, no entanto, poderão ser escolhidas e adquiridas no local por cada convidado.</p>\n<p><strong>Confirmação de Presença:</strong> Por favor, confirme sua presença o quanto antes, até no máximo dia 10/03. Envie o nome completo e a idade das pessoas que acompanharão você.</p>\n<p><strong>Traje:</strong> Sugerimos um traje esporte fino ou casual elegante. Priorize o conforto, pois você vai comer muuuitoo! 😅</p>\n<h2><i class='fa-solid fa-gift'></i> Celebração Adicional</h2>\n<p>O casamento civil ocorrerá no dia seguinte, no cartório, com número limitado de convidados. Após a cerimônia, teremos a alegria de celebrar com um almoço especial na Churrascaria Tuvalu (R. Cristiano Pagani, 2-64 - Vila Engler, Bauru - SP). Cada convidado poderá pagar seu consumo diretamente no local.</p>\n<p>Estamos ansiosos para compartilhar este dia inesquecível com você!</p>",
+    "music_name": "TIAGO IORC - Amei Te Ver (Clipe Oficial) - TIAGO IORC (youtube).mp3",
+    "slug": "Antonio&Erika-Casamento",
+    "watermark_enabled": true,
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/f63c6fb8-63a8-4261-9efc-2ca61900c4be",
+    "_reset": true,
+    "media_presentes": null
+  },
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://fascinating-chaja-1b327e.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
+  "assetsMap": {
+    "musica": "assets/musica_1770633773309.mp3",
+    "capa": "assets/capa_1770633773309.png",
+    "folha_vazia": "assets/folha_vazia_1770633773309.png",
+    "fundo_tela": "assets/fundo_tela_1770633773309.mp4",
+    "vid_abertura": "assets/vid_abertura_1770633773309.mp4"
+  },
+  "toggles": {
+    "manualMode": "text",
+    "giftsMode": "link"
+  }
+}
