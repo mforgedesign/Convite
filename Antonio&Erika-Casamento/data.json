@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T11:34:03.941Z",
+  "timestamp": "2026-02-09T11:38:33.629Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -15,7 +15,7 @@
     "cor_botoes": "#2f009e",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "8",
-    "tamanho_botoes": "medio",
+    "tamanho_botoes": "pequeno",
     "link_google_maps": "https://maps.app.goo.gl/pNyDKpvw5Hqq41RA8?g_st=awb",
     "link_presentes": "https://cheery-brigadeiros-9b6d5d.netlify.app/",
     "manual_content": "",
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770636843941.mp3",
-    "capa": "assets/capa_1770636843941.png",
-    "folha_vazia": "assets/folha_vazia_1770636843941.png",
-    "fundo_tela": "assets/fundo_tela_1770636843941.mp4",
-    "vid_abertura": "assets/vid_abertura_1770636843941.mp4"
+    "musica": "assets/musica_1770637113629.mp3",
+    "capa": "assets/capa_1770637113629.png",
+    "folha_vazia": "assets/folha_vazia_1770637113629.png",
+    "fundo_tela": "assets/fundo_tela_1770637113629.mp4",
+    "vid_abertura": "assets/vid_abertura_1770637113629.mp4"
   },
   "toggles": {
     "manualMode": "text",
