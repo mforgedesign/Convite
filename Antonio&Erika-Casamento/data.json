@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T11:38:33.629Z",
+  "timestamp": "2026-02-09T11:41:49.157Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -12,7 +12,7 @@
     "local_evento": "Fried Fish Vilarejo restaurante  R. José Ruíz Pelegrina, 7-55 - Vila Guedes de Azevedo, Bauru - SP",
     "paleta_cores": "",
     "frase_convite": "",
-    "cor_botoes": "#2f009e",
+    "cor_botoes": "#a587bf",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "8",
     "tamanho_botoes": "pequeno",
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770637113629.mp3",
-    "capa": "assets/capa_1770637113629.png",
-    "folha_vazia": "assets/folha_vazia_1770637113629.png",
-    "fundo_tela": "assets/fundo_tela_1770637113629.mp4",
-    "vid_abertura": "assets/vid_abertura_1770637113629.mp4"
+    "musica": "assets/musica_1770637309157.mp3",
+    "capa": "assets/capa_1770637309157.png",
+    "folha_vazia": "assets/folha_vazia_1770637309157.png",
+    "fundo_tela": "assets/fundo_tela_1770637309157.mp4",
+    "vid_abertura": "assets/vid_abertura_1770637309157.mp4"
   },
   "toggles": {
     "manualMode": "text",
