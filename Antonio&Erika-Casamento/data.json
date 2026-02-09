@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T10:53:21.622Z",
+  "timestamp": "2026-02-09T11:26:48.837Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -32,7 +32,7 @@
     "manual_html": "<h1><i class='fa-solid fa-heart'></i> O Nosso Grande Dia Está Chegando!</h1>\n<p>Queridos convidados, com muito carinho, preparamos este guia especial para que vocês possam desfrutar ao máximo deste momento único ao nosso lado!</p>\n<h2><i class='fa-solid fa-list'></i> Instruções para os Convidados</h2>\n<p><strong>Local:</strong> O casamento será um almoço no restaurante Fried Fish Vilarejo em Bauru, às 11:30h pontualmente. Pedimos que cheguem com 15 minutos de antecedência, pois a pontualidade é essencial para vivermos juntos cada instante deste dia especial!</p>\n<p><strong>Aviso Importante:</strong> Este convite é pessoal e intransferível. Não é permitido compartilhá-lo!</p>\n<p><strong>Buffet:</strong> O buffet é por nossa conta! As bebidas, no entanto, poderão ser escolhidas e adquiridas no local por cada convidado.</p>\n<p><strong>Confirmação de Presença:</strong> Por favor, confirme sua presença o quanto antes, até no máximo dia 10/03. Envie o nome completo e a idade das pessoas que acompanharão você.</p>\n<p><strong>Traje:</strong> Sugerimos um traje esporte fino ou casual elegante. Priorize o conforto, pois você vai comer muuuitoo! 😅</p>\n<h2><i class='fa-solid fa-gift'></i> Celebração Adicional</h2>\n<p>O casamento civil ocorrerá no dia seguinte, no cartório, com número limitado de convidados. Após a cerimônia, teremos a alegria de celebrar com um almoço especial na Churrascaria Tuvalu (R. Cristiano Pagani, 2-64 - Vila Engler, Bauru - SP). Cada convidado poderá pagar seu consumo diretamente no local.</p>\n<p>Estamos ansiosos para compartilhar este dia inesquecível com você!</p>",
     "music_name": "TIAGO IORC - Amei Te Ver (Clipe Oficial) - TIAGO IORC (youtube).mp3",
     "slug": "Antonio&Erika-Casamento",
-    "watermark_enabled": true,
+    "watermark_enabled": false,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770634401622.mp3",
-    "capa": "assets/capa_1770634401622.png",
-    "folha_vazia": "assets/folha_vazia_1770634401622.png",
-    "fundo_tela": "assets/fundo_tela_1770634401622.mp4",
-    "vid_abertura": "assets/vid_abertura_1770634401622.mp4"
+    "musica": "assets/musica_1770636408837.mp3",
+    "capa": "assets/capa_1770636408837.png",
+    "folha_vazia": "assets/folha_vazia_1770636408837.png",
+    "fundo_tela": "assets/fundo_tela_1770636408837.mp4",
+    "vid_abertura": "assets/vid_abertura_1770636408837.mp4"
   },
   "toggles": {
     "manualMode": "text",
