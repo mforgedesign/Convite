@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-08T20:50:37.471Z",
+  "timestamp": "2026-02-09T14:37:51.402Z",
   "formData": {
     "nome": "Graziella",
     "tipo_evento": "Aniversário",
@@ -19,7 +19,7 @@
     "link_google_maps": "",
     "link_presentes": "",
     "manual_content": "",
-    "confirmacao": "",
+    "confirmacao": "https://wa.link/g2fmcn",
     "permitir_acompanhante": false,
     "timer_contagem": false,
     "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<p><i class='fa-solid fa-clock'></i> O evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class='fa-solid fa-heart'></i> Sua presença é muito importante para nós. Confirme sua presença com pelo menos 15 dias de antecedência.</p> <p><i class='fa-solid fa-user-check'></i> CONVIDADO NÃO CONVIDA!</p> <p><i class='fa-solid fa-funeral-urn'></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p>  <p><i class='fa-solid fa-envelope-open-text'></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p>",
+    "manual_html": "<p><i class='fa-solid fa-clock'></i> O evento começará às 20:00 horas. Chegue pontualmente para aproveitar ao máximo a festa.</p> <p><i class='fa-solid fa-heart'></i> Sua presença é muito importante para nós. Confirme sua presença com pelo menos 15 dias de antecedência.</p>  <p><i class='fa-solid fa-cake'></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial ao seu lado.</p>  <p><i class='fa-solid fa-envelope-open-text'></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p>",
     "music_name": "beabadoobee - Glue Song [instrumental] - Luca Ventashik (youtube).mp3",
     "slug": "Graziella15Anos",
     "watermark_enabled": false,
@@ -52,11 +52,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770583837471.mp3",
-    "capa": "assets/capa_1770583837471.png",
-    "folha_vazia": "assets/folha_vazia_1770583837471.png",
-    "fundo_tela": "assets/fundo_tela_1770583837471.dat",
-    "vid_abertura": "assets/vid_abertura_1770583837471.mp4"
+    "musica": "assets/musica_1770647871402.mp3",
+    "capa": "assets/capa_1770647871402.png",
+    "folha_vazia": "assets/folha_vazia_1770647871402.png",
+    "fundo_tela": "assets/fundo_tela_1770647871402.dat",
+    "vid_abertura": "assets/vid_abertura_1770647871402.mp4"
   },
   "toggles": {
     "manualMode": "text",
