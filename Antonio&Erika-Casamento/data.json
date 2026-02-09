@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T11:51:22.070Z",
+  "timestamp": "2026-02-09T14:33:01.642Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -17,7 +17,7 @@
     "posicao_botoes": "8",
     "tamanho_botoes": "pequeno",
     "link_google_maps": "https://maps.app.goo.gl/pNyDKpvw5Hqq41RA8?g_st=awb",
-    "link_presentes": "",
+    "link_presentes": "https://cheery-brigadeiros-9b6d5d.netlify.app/",
     "manual_content": "",
     "confirmacao": "5514996784600",
     "permitir_acompanhante": false,
@@ -33,6 +33,7 @@
     "music_name": "TIAGO IORC - Amei Te Ver (Clipe Oficial) - TIAGO IORC (youtube).mp3",
     "slug": "Antonio&Erika-Casamento",
     "watermark_enabled": false,
+    "media_presentes": null,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -41,8 +42,7 @@
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/f63c6fb8-63a8-4261-9efc-2ca61900c4be",
-    "_reset": true,
-    "media_presentes": null
+    "_reset": true
   },
   "linksExtras": [
     {
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770637882070.mp3",
-    "capa": "assets/capa_1770637882070.png",
-    "folha_vazia": "assets/folha_vazia_1770637882070.png",
-    "fundo_tela": "assets/fundo_tela_1770637882070.dat",
-    "vid_abertura": "assets/vid_abertura_1770637882070.mp4"
+    "musica": "assets/musica_1770647581642.mp3",
+    "capa": "assets/capa_1770647581642.png",
+    "folha_vazia": "assets/folha_vazia_1770647581642.png",
+    "fundo_tela": "assets/fundo_tela_1770647581642.dat",
+    "vid_abertura": "assets/vid_abertura_1770647581642.mp4"
   },
   "toggles": {
     "manualMode": "text",
