@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T11:41:49.157Z",
+  "timestamp": "2026-02-09T11:51:22.070Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -17,7 +17,7 @@
     "posicao_botoes": "8",
     "tamanho_botoes": "pequeno",
     "link_google_maps": "https://maps.app.goo.gl/pNyDKpvw5Hqq41RA8?g_st=awb",
-    "link_presentes": "https://cheery-brigadeiros-9b6d5d.netlify.app/",
+    "link_presentes": "",
     "manual_content": "",
     "confirmacao": "5514996784600",
     "permitir_acompanhante": false,
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Nosso Grande Dia está chegando!\nQueridos convidados, preparamos este manual com muito carinho para que vocês aproveitem ao máximo esse momento especial com a gente!\n\nSiga essas instruções e divirta-se\nInstruções para os Convidados\nLocal: O casamento será um almoço no restaurante Fried Fish Vilarejo em Bauru às 11:30h pontualmente. Por favor, chegue com 15 minutos de antecedência. A pontualidade é essencial para vivermos esse momento juntos do início ao fim!\nConvidado não Convida! Não é permitido compartilhar este convite!\nO buffet é por nossa conta! Já as bebidas, cada convidado poderá escolher e comprar no local.\nConfirme sua presença o quanto antes! Até no máximo dia 10/03.\nEnvie o nome completo e idade das pessoas que vão com você.\nTraje: Esporte fino, casual elegante ou conforme sua escolha, priorize o conforto pois você vai comer muuuitoo 😅\nO casamento civil acontecerá no dia seguinte, no cartório (com número limitado de convidados). Após a cerimônia, vamos celebrar com um almoço especial na Churrascaria Tuvalu (R. Cristiano Pagani, 2-64 - Vila Engler, Bauru - SP). Será uma alegria ter você conosco! Cada convidado poderá pagar seu consumo diretamente no local.",
+    "manual_raw_content": "",
     "manual_html": "<h1><i class='fa-solid fa-heart'></i> O Nosso Grande Dia Está Chegando!</h1>\n<p>Queridos convidados, com muito carinho, preparamos este guia especial para que vocês possam desfrutar ao máximo deste momento único ao nosso lado!</p>\n<h2><i class='fa-solid fa-list'></i> Instruções para os Convidados</h2>\n<p><strong>Local:</strong> O casamento será um almoço no restaurante Fried Fish Vilarejo em Bauru, às 11:30h pontualmente. Pedimos que cheguem com 15 minutos de antecedência, pois a pontualidade é essencial para vivermos juntos cada instante deste dia especial!</p>\n<p><strong>Aviso Importante:</strong> Este convite é pessoal e intransferível. Não é permitido compartilhá-lo!</p>\n<p><strong>Buffet:</strong> O buffet é por nossa conta! As bebidas, no entanto, poderão ser escolhidas e adquiridas no local por cada convidado.</p>\n<p><strong>Confirmação de Presença:</strong> Por favor, confirme sua presença o quanto antes, até no máximo dia 10/03. Envie o nome completo e a idade das pessoas que acompanharão você.</p>\n<p><strong>Traje:</strong> Sugerimos um traje esporte fino ou casual elegante. Priorize o conforto, pois você vai comer muuuitoo! 😅</p>\n<h2><i class='fa-solid fa-gift'></i> Celebração Adicional</h2>\n<p>O casamento civil ocorrerá no dia seguinte, no cartório, com número limitado de convidados. Após a cerimônia, teremos a alegria de celebrar com um almoço especial na Churrascaria Tuvalu (R. Cristiano Pagani, 2-64 - Vila Engler, Bauru - SP). Cada convidado poderá pagar seu consumo diretamente no local.</p>\n<p>Estamos ansiosos para compartilhar este dia inesquecível com você!</p>",
     "music_name": "TIAGO IORC - Amei Te Ver (Clipe Oficial) - TIAGO IORC (youtube).mp3",
     "slug": "Antonio&Erika-Casamento",
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770637309157.mp3",
-    "capa": "assets/capa_1770637309157.png",
-    "folha_vazia": "assets/folha_vazia_1770637309157.png",
-    "fundo_tela": "assets/fundo_tela_1770637309157.mp4",
-    "vid_abertura": "assets/vid_abertura_1770637309157.mp4"
+    "musica": "assets/musica_1770637882070.mp3",
+    "capa": "assets/capa_1770637882070.png",
+    "folha_vazia": "assets/folha_vazia_1770637882070.png",
+    "fundo_tela": "assets/fundo_tela_1770637882070.dat",
+    "vid_abertura": "assets/vid_abertura_1770637882070.mp4"
   },
   "toggles": {
     "manualMode": "text",
