@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T13:32:05.212Z",
+  "timestamp": "2026-02-09T13:48:06.179Z",
   "formData": {
     "nome": "Thalyane brenda",
     "tipo_evento": "Aniversário",
@@ -42,14 +42,21 @@
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/38cd1eae-624d-44c9-9688-61ce75219be6"
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://classy-biscuit-91cc5f.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1770643925212.mp3",
-    "capa": "assets/capa_1770643925212.png",
-    "folha_vazia": "assets/folha_vazia_1770643925212.png",
-    "fundo_tela": "assets/fundo_tela_1770643925212.mp4",
-    "vid_abertura": "assets/vid_abertura_1770643925212.mp4",
-    "presentes": "assets/presentes_1770643925212.png"
+    "musica": "assets/musica_1770644886179.mp3",
+    "capa": "assets/capa_1770644886179.png",
+    "folha_vazia": "assets/folha_vazia_1770644886179.png",
+    "fundo_tela": "assets/fundo_tela_1770644886179.mp4",
+    "vid_abertura": "assets/vid_abertura_1770644886179.mp4",
+    "presentes": "assets/presentes_1770644886179.png"
   },
   "toggles": {
     "manualMode": "text",
