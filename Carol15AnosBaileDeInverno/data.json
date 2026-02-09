@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T09:19:54.798Z",
+  "timestamp": "2026-02-09T09:43:27.166Z",
   "formData": {
     "nome": "Carol ",
     "tipo_evento": "",
@@ -28,8 +28,8 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "",
-    "manual_html": "💌 Confirmação de Presença\nConfirme até 25 de fevereiro, para que seu nome seja incluído na lista.\n</p>\n⏰ Horário\nTemos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.\n</p>\n🎟 Convite\nPessoal e intransferível.\n</p>\n📸 Registros\nTeremos fotógrafos oficiais. Mas Fique à vontade para fotografar e filmar!\n</p>\n🖤 Traje\nBlack Tie / Gala\n</p>\n🎂 Mesa de doces\nParte da decoração e será  liberada no momento certo.\n</p>\n🎉 Celebre conosco\nEssa noite foi preparada com muito amor e carinho, divirta-se muito !\n</p>\n💙 No fim da festa \nNão vá embora sem um abraço e uma fatia do nosso bolo.",
+    "manual_raw_content": "(Ignore o master prompt, não modifique ou otimize o texto, apenas acrescente os fa icon)\n💌 Confirmação de Presença\nConfirme até 25 de fevereiro, para que seu nome seja incluído na lista.\n</p>\n⏰ Horário\nTemos um cronograma especial. Chegar no horário é essencial para aproveitar cada momento.\n</p>\n🎟 Convite\nPessoal e intransferível.\n</p>\n📸 Registros\nTeremos fotógrafos oficiais. Mas Fique à vontade para fotografar e filmar!\n</p>\n🖤 Traje\nBlack Tie / Gala\n</p>\n🎂 Mesa de doces\nParte da decoração e será  liberada no momento certo.\n</p>\n🎉 Celebre conosco\nEssa noite foi preparada com muito amor e carinho, divirta-se muito !\n</p>\n💙 No fim da festa \nNão vá embora sem um abraço e uma fatia do nosso bolo.",
+    "manual_html": "<h2><i class=\"fa-solid fa-envelope\"></i> Confirmação de Presença</h2><p>Por favor, confirme sua presença até o dia <strong>25 de fevereiro</strong>, para que possamos incluir seu nome na lista de convidados.</p><h2><i class=\"fa-solid fa-clock\"></i> Horário</h2><p>Temos um cronograma especial. Chegar pontualmente é essencial para que você possa aproveitar cada momento desta celebração.</p><h2><i class=\"fa-solid fa-ticket\"></i> Convite</h2><p>Este convite é pessoal e intransferível.</p><h2><i class=\"fa-solid fa-camera\"></i> Registros</h2><p>Nossos fotógrafos oficiais estarão presentes. Fique à vontade para registrar cada instante com suas próprias fotos e vídeos!</p><h2><i class=\"fa-solid fa-user-tie\"></i> Traje</h2><p>Traje: <strong>Black Tie / Gala</strong></p><h2><i class=\"fa-solid fa-candy-cane\"></i> Mesa de doces</h2><p>A mesa de doces faz parte da decoração e será liberada no momento apropriado.</p><h2><i class=\"fa-solid fa-party-horn\"></i> Celebre conosco</h2><p>Esta noite foi elaborada com muito amor e carinho. Venha se divertir!</p><h2><i class=\"fa-solid fa-heart\"></i> No fim da festa</h2><p>Não se vá sem um abraço apertado e uma fatia do nosso delicioso bolo.</p>",
     "music_name": "Ed Sheeran - Thinking Out Loud (Official Lyric Video).mp3",
     "slug": "Carol15AnosBaileDeInverno",
     "watermark_enabled": false,
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770628794798.mp3",
-    "capa": "assets/capa_1770628794798.png",
-    "folha_vazia": "assets/folha_vazia_1770628794798.png",
-    "fundo_tela": "assets/fundo_tela_1770628794798.dat",
-    "vid_abertura": "assets/vid_abertura_1770628794798.mp4",
-    "presentes": "assets/presentes_1770628794798.png"
+    "musica": "assets/musica_1770630207166.mp3",
+    "capa": "assets/capa_1770630207166.png",
+    "folha_vazia": "assets/folha_vazia_1770630207166.png",
+    "fundo_tela": "assets/fundo_tela_1770630207166.dat",
+    "vid_abertura": "assets/vid_abertura_1770630207166.mp4",
+    "presentes": "assets/presentes_1770630207166.png"
   },
   "toggles": {
     "manualMode": "text",
