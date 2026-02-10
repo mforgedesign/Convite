@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-10T12:39:26.687Z",
+  "timestamp": "2026-02-10T12:51:18.818Z",
   "formData": {
     "nome": "Ana Clara",
     "tipo_evento": "Aniversário",
@@ -51,12 +51,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770727166687.mp3",
-    "capa": "assets/capa_1770727166687.png",
-    "folha_vazia": "assets/folha_vazia_1770727166687.png",
-    "fundo_tela": "assets/fundo_tela_1770727166687.dat",
-    "vid_abertura": "assets/vid_abertura_1770727166687.mp4",
-    "presentes": "assets/presentes_1770727166687.png"
+    "musica": "assets/musica_1770727878818.mp3",
+    "capa": "assets/capa_1770727878818.png",
+    "folha_vazia": "assets/folha_vazia_1770727878818.png",
+    "fundo_tela": "assets/fundo_tela_1770727878818.dat",
+    "vid_abertura": "assets/vid_abertura_1770727878818.mp4",
+    "presentes": "assets/presentes_1770727878818.png"
   },
   "toggles": {
     "manualMode": "text",
