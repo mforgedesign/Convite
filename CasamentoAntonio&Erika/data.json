@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-10T11:37:31.600Z",
+  "timestamp": "2026-02-10T11:55:52.926Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770723451600.mp3",
-    "capa": "assets/capa_1770723451600.png",
-    "folha_vazia": "assets/folha_vazia_1770723451600.png",
-    "fundo_tela": "assets/fundo_tela_1770723451600.dat",
-    "vid_abertura": "assets/vid_abertura_1770723451600.mp4"
+    "musica": "assets/musica_1770724552926.mp3",
+    "capa": "assets/capa_1770724552926.png",
+    "folha_vazia": "assets/folha_vazia_1770724552926.png",
+    "fundo_tela": "assets/fundo_tela_1770724552926.dat",
+    "vid_abertura": "assets/vid_abertura_1770724552926.mp4"
   },
   "toggles": {
     "manualMode": "text",
