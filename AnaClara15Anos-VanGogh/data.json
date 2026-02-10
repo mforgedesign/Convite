@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-10T10:11:11.876Z",
+  "timestamp": "2026-02-10T12:10:02.958Z",
   "formData": {
     "nome": "Ana Clara",
     "tipo_evento": "Aniversário",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<h><i class=\"fa-solid fa-scroll\"></i> Manual do Convidado</h2>\n<p><strong>Confirmação de Presença:</strong> Pedimos a gentileza de confirmar sua presença até o dia <strong>20 de março</strong>.</p>\n<p><strong>Traje:</strong> O dress code é <em>Esporte Fino</em>. Solicitamos que evitem as cores amarela e azul.</p>\n<p><strong>Pontualidade:</strong> Sua presença no horário é de grande importância para nós.</p>\n<p><strong>Divirta-se:</strong> Estou ansiosa para celebrar este momento especial ao seu lado!</p>",
+    "manual_html": "<h><i class=\"fa-solid fa-scroll\"></i> Manual do Convidado</h2>\n<p><strong>Confirmação de Presença:</strong> Pedimos a gentileza de confirmar sua presença até o dia <strong>20 de março</strong>.</p>\n<p><strong>Traje:</strong> O dress code é <em>Esporte Fino</em>. Solicitamos que evitem as cores amarela e azul.</p>\n<p><strong>Pontualidade:</strong> Sua presença no horário é de grande importância para nós.</p>\n<p><strong>Divirta-se:</strong> Estou ansiosa para celebrar este momento especial ao seu lado!</p>\n<p><strong>Local:</strong>Villa Bamboo Eventos. Av. Brasil, 2086, Vila Bordignon, Mogi Mirim/SP</p>",
     "music_name": "Amélie x Soulmate.mp3",
     "slug": "AnaClara15Anos-VanGogh",
     "watermark_enabled": false,
@@ -41,21 +41,21 @@
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/ff2ced22-0325-4bf5-824a-450d04b5e51d",
+    "_reset": true,
     "folha_only": null,
     "background_only": null,
     "numero_whatsapp": "5592992583783",
     "link_confirmacao": null,
     "animate_background": false,
-    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
-    "_reset": true
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion."
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770718271876.mp3",
-    "capa": "assets/capa_1770718271876.png",
-    "folha_vazia": "assets/folha_vazia_1770718271876.png",
-    "fundo_tela": "assets/fundo_tela_1770718271876.dat",
-    "vid_abertura": "assets/vid_abertura_1770718271876.mp4"
+    "musica": "assets/musica_1770725402958.mp3",
+    "capa": "assets/capa_1770725402958.png",
+    "folha_vazia": "assets/folha_vazia_1770725402958.png",
+    "fundo_tela": "assets/fundo_tela_1770725402958.mp4",
+    "vid_abertura": "assets/vid_abertura_1770725402958.mp4"
   },
   "toggles": {
     "manualMode": "text",
