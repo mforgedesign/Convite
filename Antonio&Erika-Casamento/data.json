@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-09T14:33:01.642Z",
+  "timestamp": "2026-02-10T10:36:23.301Z",
   "formData": {
     "nome": "Antônio & Érika",
     "tipo_evento": "Casamento",
@@ -33,7 +33,6 @@
     "music_name": "TIAGO IORC - Amei Te Ver (Clipe Oficial) - TIAGO IORC (youtube).mp3",
     "slug": "Antonio&Erika-Casamento",
     "watermark_enabled": false,
-    "media_presentes": null,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -42,6 +41,7 @@
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/f63c6fb8-63a8-4261-9efc-2ca61900c4be",
+    "media_presentes": null,
     "_reset": true
   },
   "linksExtras": [
@@ -53,11 +53,11 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1770647581642.mp3",
-    "capa": "assets/capa_1770647581642.png",
-    "folha_vazia": "assets/folha_vazia_1770647581642.png",
-    "fundo_tela": "assets/fundo_tela_1770647581642.dat",
-    "vid_abertura": "assets/vid_abertura_1770647581642.mp4"
+    "musica": "assets/musica_1770719783301.mp3",
+    "capa": "assets/capa_1770719783301.png",
+    "folha_vazia": "assets/folha_vazia_1770719783301.png",
+    "fundo_tela": "assets/fundo_tela_1770719783301.dat",
+    "vid_abertura": "assets/vid_abertura_1770719783301.mp4"
   },
   "toggles": {
     "manualMode": "text",
