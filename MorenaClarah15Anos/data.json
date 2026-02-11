@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-11T22:52:04.408Z",
+  "timestamp": "2026-02-11T22:57:15.168Z",
   "formData": {
     "nome": "Morena Clarah",
     "tipo_evento": "Aniversário",
@@ -32,26 +32,15 @@
     "manual_html": "<p><i class='fa-solid fa-clock'></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class='fa-solid fa-check-circle'></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 15 dias antes do evento.</p>\n<p><i class='fa-solid fa-glass-cheers'></i> <strong>Nota sobre bebidas:</strong> Embora <strong>NÃO SIRVAMOS BEBIDAS ALCOÓLICAS</strong>\nsinta-se à vontade para trazer seu coller e desfrutar à vontade.</p>\n<p><i class='fa-solid fa-smile'></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class='fa-solid fa-heart'></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
     "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid",
     "slug": "MorenaClarah15Anos",
-    "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": "blob:https://builder.mforge.com.br/2de76f46-d734-4935-af62-e3809dfe6732",
-    "vid_abertura": "blob:https://builder.mforge.com.br/85335601-2eca-43d5-9b88-0b7665e251ee",
-    "fundo_tela": "blob:https://builder.mforge.com.br/5b71bb80-a109-4fd7-8c7c-ac4ed84497bc",
-    "presentes": "blob:https://builder.mforge.com.br/55cb69ec-de74-4e7c-ad41-294c311454b5",
-    "manual": null,
-    "musica": null,
-    "animate_background": false,
-    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
-    "_reset": true,
-    "folha_only": null,
-    "background_only": null,
-    "numero_whatsapp": "5519987660835",
-    "link_confirmacao": ""
+    "watermark_enabled": false
   },
   "linksExtras": [],
   "assetsMap": {
-    "capa": "assets/capa_1770850324408.png"
+    "capa": "assets/capa_1770850635169.png",
+    "folha_vazia": "assets/folha_vazia_1770850635169.png",
+    "fundo_tela": "assets/fundo_tela_1770850635169.png",
+    "vid_abertura": "assets/vid_abertura_1770850635169.mp4",
+    "presentes": "assets/presentes_1770850635169.png"
   },
   "toggles": {
     "manualMode": "text",
