@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-11T14:37:05.638Z",
+  "timestamp": "2026-02-11T14:40:36.006Z",
   "formData": {
     "nome": "",
     "tipo_evento": "",
@@ -30,7 +30,7 @@
     "gifts_image_prompt": "",
     "manual_raw_content": "",
     "manual_html": "",
-    "music_name": "",
+    "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid [b9v96HD_3_U].mp3",
     "slug": "SaveTheDate-Any Beatriz ",
     "watermark_enabled": false,
     "capa": null,
@@ -40,11 +40,12 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": null
+    "musica": "blob:https://builder.mforge.com.br/143d861e-4ff6-48bb-bd3f-d400b8cd62e4"
   },
   "linksExtras": [],
   "assetsMap": {
-    "fundo_tela": "assets/fundo_tela_1770820625638.mp4"
+    "musica": "assets/musica_1770820836006.mp3",
+    "fundo_tela": "assets/fundo_tela_1770820836006.mp4"
   },
   "toggles": {
     "manualMode": "text",
