@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-11T01:03:42.074Z",
+  "timestamp": "2026-02-11T01:07:31.010Z",
   "formData": {
     "nome": "Luara",
     "tipo_evento": "Aniversário",
@@ -30,7 +30,7 @@
     "gifts_image_prompt": "",
     "manual_raw_content": "A festa será iniciada às 18:30 entendendo os  40 minutos gastos até o Buffet família gioielli quando apresentando com ponto de partida o bonssucesso , a lista de presentes inclue blusas tamanho p , shorts tamanho 38/ M , maquiagem , perfumes, além de jóias prata e/ou dourado.\nLembrete : esta festa será dedicada a Jesus\nTodas as músicas serão  músicas cristãs e não haverá o uso de bebidas alcoólicas. ",
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> A festa terá início às <strong>18:30</strong>, com um trajeto de aproximadamente 40 minutos até o Buffet Família Gioielli, partindo do Bonssucesso.</p>\n\n<p><i class=\"fa-solid fa-gift\"></i> A lista de presentes inclui:</p>\n<ul>\n    <li>Blusas tamanho P</li>\n    <li>Shorts tamanho 38/M</li>\n    <li>Maquiagem</li>\n    <li>Perfumes</li>\n    <li>Jóias em prata e/ou dourado</li>\n</ul>\n\n<p><i class=\"fa-solid fa-heart\"></i> Lembrete: Esta festa será dedicada a <strong>Jesus</strong>.</p>\n\n<p><i class=\"fa-solid fa-music\"></i> Todas as músicas serão cristãs, e não haverá a presença de bebidas alcoólicas.</p>",
-    "music_name": "",
+    "music_name": "VEM ME BUSCAR┃JEFFERSON & SUELLEN (LIVE SESSION - AO VIVO) - Jefferson e Suellen (youtube).mp3",
     "slug": "Luara15Anos-JardimDaIntimidade",
     "watermark_enabled": false,
     "capa": null,
@@ -40,7 +40,7 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": null,
+    "musica": "blob:https://builder.mforge.com.br/32f6e50b-d903-4441-bbaf-85c31bda56d2",
     "_reset": true,
     "folha_only": null,
     "background_only": null,
@@ -51,11 +51,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "capa": "assets/capa_1770771822074.png",
-    "folha_vazia": "assets/folha_vazia_1770771822074.png",
-    "fundo_tela": "assets/fundo_tela_1770771822074.mp4",
-    "vid_abertura": "assets/vid_abertura_1770771822074.mp4",
-    "presentes": "assets/presentes_1770771822074.png"
+    "musica": "assets/musica_1770772051010.mp3",
+    "capa": "assets/capa_1770772051010.png",
+    "folha_vazia": "assets/folha_vazia_1770772051010.png",
+    "fundo_tela": "assets/fundo_tela_1770772051010.mp4",
+    "vid_abertura": "assets/vid_abertura_1770772051010.mp4",
+    "presentes": "assets/presentes_1770772051010.png"
   },
   "toggles": {
     "manualMode": "text",
