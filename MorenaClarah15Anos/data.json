@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-11T22:57:15.168Z",
+  "timestamp": "2026-02-12T11:39:47.273Z",
   "formData": {
     "nome": "Morena Clarah",
     "tipo_evento": "Aniversário",
@@ -28,19 +28,29 @@
     "fill_prompt": "Nome: \nIdade (se houver): (não informada)\nTipo de evento: \nTema: \nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Chegue no horário: Sua presença pontual é muito importante para nós.\nConfirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.\nNÃO SERVIREMOS BEBIDAS ALCÓLICAS,MAS VOCÊ PODE LEVAR SEU COLLER E DICAR A VONTADE .\nDivirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.\n",
+    "manual_raw_content": "",
     "manual_html": "<p><i class='fa-solid fa-clock'></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class='fa-solid fa-check-circle'></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 15 dias antes do evento.</p>\n<p><i class='fa-solid fa-glass-cheers'></i> <strong>Nota sobre bebidas:</strong> Embora <strong>NÃO SIRVAMOS BEBIDAS ALCOÓLICAS</strong>\nsinta-se à vontade para trazer seu coller e desfrutar à vontade.</p>\n<p><i class='fa-solid fa-smile'></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class='fa-solid fa-heart'></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
-    "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid",
+    "music_name": "Let you break my heart again- Laufey Lyrics - kyaraaa (youtube)_[cut_206sec].mp3",
     "slug": "MorenaClarah15Anos",
-    "watermark_enabled": false
+    "watermark_enabled": false,
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/5fa89917-d4c1-43e6-97c2-768a79b4690f",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "capa": "assets/capa_1770850635169.png",
-    "folha_vazia": "assets/folha_vazia_1770850635169.png",
-    "fundo_tela": "assets/fundo_tela_1770850635169.png",
-    "vid_abertura": "assets/vid_abertura_1770850635169.mp4",
-    "presentes": "assets/presentes_1770850635169.png"
+    "musica": "assets/musica_1770896387273.mp3",
+    "capa": "assets/capa_1770896387273.png",
+    "folha_vazia": "assets/folha_vazia_1770896387273.png",
+    "fundo_tela": "assets/fundo_tela_1770896387273.png",
+    "vid_abertura": "assets/vid_abertura_1770896387273.mp4",
+    "presentes": "assets/presentes_1770896387273.png"
   },
   "toggles": {
     "manualMode": "text",
