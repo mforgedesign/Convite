@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-12T12:10:54.587Z",
+  "timestamp": "2026-02-12T12:20:49.625Z",
   "formData": {
     "nome": "Duda",
     "tipo_evento": "Aniversário",
@@ -28,8 +28,8 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore o master prompt, não altere o texto otimizando nem nada. Apenas inserir icons)\n\nConfirme sua presença até o dia 12 de abril.\n\nDress code: Social/esporte fino \nDourado, Prata e Rose\nSÃO AS CORES  DE USO EXCLUSIVO DA DEBUTANTE.\n\n Seja pontual! Iniciaremos às 19h30.\n\n Convidado não convida! Seu nome estará na lista.\n\n Capture muitos momentos, mas respeite o trabalho do fotógrafo e da equipe de vídeo!\n\n APROVEITE A FESTA! A ordem é se divertir.\n\n",
-    "manual_html": "<p><i class='fa-solid fa-calendar-check'></i> Confirme sua presença até o dia <strong>12 de abril</strong>.</p>\n<p><i class='fa-solid fa-user-tie'></i> <strong>Dress code:</strong> Social/esporte fino. <br/> Dourado, Prata e Rose <p>SÃO AS CORES  DE USO EXCLUSIVO DA DEBUTANTE.</p>\n<p><i class='fa-solid fa-clock'></i> Seja pontual! Iniciaremos às <strong>19h30</strong>.</p>\n<p><i class='fa-solid fa-user-friends'></i> Convidado não convida! Seu nome estará na lista.</p>\n<p><i class='fa-solid fa-camera'></i> Capture muitos momentos, mas respeite o trabalho do fotógrafo e da equipe de vídeo!</p>\n<p><i class='fa-solid fa-party'></i> <strong>APROVEITE A FESTA!</strong> A ordem é se divertir.</p>",
+    "manual_raw_content": "(Ignore o master prompt, não altere o texto otimizando nem nada. Apenas inserir icons)\n\nConfirme sua presença até o dia 12 de abril.\n\nDress code: Social/esporte fino \nDourado, Prata e Rose\nSÃO AS CORES  DE USO EXCLUSIVO DA DEBUTANTE.\n\n Seja pontual! Iniciaremos às 19h30.\n\n Convidado não convida! Seu nome estará na lista.\n\n Capture muitos momentos, mas respeite o trabalho do fotógrafo e da equipe de vídeo!\n\nNão saia sem me dar um abraço!\nMeu dia não seria tão especial sem sua presença!!!\n\n APROVEITE A FESTA! A ordem é se divertir.\n\n",
+    "manual_html": "<p><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença até o dia <strong>12 de abril</strong>.</p>\n<p><i class=\"fa-solid fa-user-tie\"></i> <strong>Dress code:</strong> Social/esporte fino<br>Dourado, Prata e Rose <p>SÃO AS CORES  DE USO EXCLUSIVO DA DEBUTANTE.</p>\n<p><i class=\"fa-solid fa-clock\"></i> Seja pontual! Iniciaremos às <strong>19h30</strong>.</p>\n<p><i class=\"fa-solid fa-user-friends\"></i> Convidado não convida! Seu nome estará na lista.</p>\n<p><i class=\"fa-solid fa-camera\"></i> Capture muitos momentos, mas respeite o trabalho do fotógrafo e da equipe de vídeo!</p>\n<p><i class=\"fa-solid fa-heart\"></i> Não saia sem me dar um abraço! Meu dia não seria tão especial sem sua presença!!!</p>\n<p><i class=\"fa-solid fa-cake\">\n</i> <strong>APROVEITE A FESTA!</strong> A ordem é se divertir.</p>",
     "music_name": "I Wanna Be Yours (Violin) - Dramatic Violin (youtube) (1)_[cut_56sec].mp3",
     "slug": "Duda15Anos",
     "watermark_enabled": false,
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770898254587.mp3",
-    "capa": "assets/capa_1770898254587.png",
-    "folha_vazia": "assets/folha_vazia_1770898254587.png",
-    "fundo_tela": "assets/fundo_tela_1770898254587.mp4",
-    "vid_abertura": "assets/vid_abertura_1770898254587.mp4",
-    "presentes": "assets/presentes_1770898254587.png"
+    "musica": "assets/musica_1770898849625.mp3",
+    "capa": "assets/capa_1770898849625.png",
+    "folha_vazia": "assets/folha_vazia_1770898849625.png",
+    "fundo_tela": "assets/fundo_tela_1770898849625.mp4",
+    "vid_abertura": "assets/vid_abertura_1770898849625.mp4",
+    "presentes": "assets/presentes_1770898849625.png"
   },
   "toggles": {
     "manualMode": "text",
