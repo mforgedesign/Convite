@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-14T18:22:25.314Z",
+  "timestamp": "2026-02-14T18:33:26.642Z",
   "formData": {
     "nome": "Isabela",
     "tipo_evento": "Aniversário",
@@ -30,7 +30,7 @@
     "gifts_image_prompt": "",
     "manual_raw_content": "",
     "manual_html": "",
-    "music_name": "Jason Mraz - 93 Million Miles (Official Video) - Jason Mraz (youtube).mp3",
+    "music_name": "Jason Mraz - 93 Million Miles (Official Video) - Jason Mraz (youtube)_[cut_207sec].mp3",
     "slug": "Isabela15Anos-Rosé",
     "watermark_enabled": false,
     "capa": null,
@@ -40,14 +40,14 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/bd4ee940-b3f4-4406-ad62-56635f3c014a"
+    "musica": "blob:https://builder.mforge.com.br/afcf53ca-3125-45a1-bac5-22a4fc2be00c"
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771093345314.mp3",
-    "capa": "assets/capa_1771093345314.png",
-    "fundo_tela": "assets/fundo_tela_1771093345314.mp4",
-    "vid_abertura": "assets/vid_abertura_1771093345314.mp4"
+    "musica": "assets/musica_1771094006642.mp3",
+    "capa": "assets/capa_1771094006642.png",
+    "fundo_tela": "assets/fundo_tela_1771094006642.mp4",
+    "vid_abertura": "assets/vid_abertura_1771094006642.mp4"
   },
   "toggles": {
     "manualMode": "text",
