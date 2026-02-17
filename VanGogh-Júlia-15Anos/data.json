@@ -1,0 +1,53 @@
+{
+  "version": "4.0",
+  "timestamp": "2026-02-17T17:27:42.354Z",
+  "formData": {
+    "nome": "Júlia",
+    "tipo_evento": "Aniversário",
+    "tipo_evento_custom": "",
+    "data": "2026-07-18",
+    "hora": "20:00",
+    "idade": "15",
+    "tema_evento": "Noite Estrelada – Van Gogh",
+    "local_evento": "Salão de Festas Jane Mattos, R. Dom Bosco, 124 – Santa Fé, Gravataí – RS",
+    "paleta_cores": "Azul e Dourado",
+    "frase_convite": "",
+    "cor_botoes": "#0e1929",
+    "sombra_gradiente": "#000000",
+    "posicao_botoes": "12",
+    "tamanho_botoes": "medio",
+    "link_google_maps": "[https://maps.app.goo.gl/GwVby3V961WLRPpE9](https://maps.app.goo.gl/GwVby3V961WLRPpE9)",
+    "link_presentes": "",
+    "manual_content": "",
+    "confirmacao": "555199625385",
+    "permitir_acompanhante": false,
+    "timer_contagem": true,
+    "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
+    "leaf_prompt": "Recrie essa composição com os seguintes detalhes técnicos:\nTema: Noite Estrelada - Van Gogh\nPaleta de cores: Gold and White\nMantenha a composição, o formato da folha e os adornos nas bordas, apenas alterando as cores e o tema conforme especificado.\nCRÍTICO: NÃO inclua NENHUM texto, letra, número ou palavra na imagem - a folha deve permanecer completamente em branco.\nStyle: Photorealistic, hyper-detailed, cinematic, and elegant.\nTechnical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
+    "intro_motion_prompt": "The animation begins with a focus on the closed envelope. As the wax seal gracefully detaches and falls, the envelope's flap uplifts slowly. From its interior, a spectacular eruption of glittering sparkles and smoke, shimmering dust, and glowing light trails emerges, cascading outward in a mesmerizing display. These vibrant particles swirl dynamically, increasing in density and brightness around the envelope. The radiant light and swirling glitter intensify, rapidly expanding to fill the entire scene. CRITICAL: The Color of glow, light and smoke need to be the same of the image color pallete. The overwhelming brilliance transitions the frame to a solid, blinding white screen in the very final frame, achieved through a dramatic zoom-in effect.",
+    "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
+    "sugestoes_presentes": "Vale presente \"O Boticário\"\nVale presente \"Nova Era\" (Shopping Gravataí)\nVale presente Lojas Renner\nPix : 51996276580",
+    "gifts_image_prompt": "",
+    "manual_raw_content": "**Seja muito bem-vindo(a)!**\n\nEstamos imensamente felizes por compartilhar esse momento tão sonhado com você. Preparamos cada detalhe com carinho e queremos que essa noite seja inesquecível para todos nós.\n\n**💌 Confirmação de Presença**\n\nPor favor, confirme sua presença até 12/06.\n\nSua participação é muito importante para organizarmos tudo com cuidado.\n\nEssa noite só estará completa com você!\n\n**⏰ Chegada Pontual**\n\nChegue no horário indicado no convite.\n\nSua presença desde o início tornará tudo ainda mais especial.\n\n**🎉 Divirta-se!**\n\nDance, sorria, registre momentos e aproveite cada instante.\n\nEssa festa foi preparada para ser vivida intensamente!\n\n**🤍 Não vá embora sem nos abraçar!**\n\nAntes de se despedir, passe para nos dar um abraço apertado.\n\nQueremos guardar esse carinho na memória e no coração.\n\n**👗 Traje**\n\nEscolha um look que faça você se sentir bem e especial.\n\nQueremos viver este momento ao lado de pessoas que fazem parte da nossa história — e você é uma delas.\nA\n**Te esperamos lá!**",
+    "manual_html": "<h1><i class='fa-solid fa-heart'></i> Seja muito bem-vindo(a)! </h1><p>É com imensa alegria que compartilhamos este momento tão sonhado com você. Cada detalhe foi preparado com carinho, e nossa maior vontade é que esta noite se torne uma lembrança inesquecível para todos nós.</p><h2><i class='fa-solid fa-envelope'></i> Confirmação de Presença</h2><p>Por gentileza, confirme sua presença até o dia 12/06. Sua participação é fundamental para que possamos organizar tudo com o devido cuidado.</p><p>Esta noite só estará completa com você!</p><h2><i class='fa-solid fa-clock'></i> Chegada Pontual</h2><p>Pedimos que chegue no horário indicado no convite. Sua presença desde o início tornará tudo ainda mais especial.</p><h2><i class='fa-solid fa-party-popover'></i> Divirta-se!</h2><p>Dance, sorria, registre momentos e aproveite cada instante. Esta festa foi feita para ser vivida intensamente!</p><h2><i class='fa-solid fa-users'></i> Não vá embora sem nos abraçar!</h2><p>Antes de se despedir, não esqueça de nos dar um abraço apertado. Queremos guardar esse carinho na memória e em nossos corações.</p><h2><i class='fa-solid fa-tshirt'></i> Traje</h2><p>Escolha um look que faça você se sentir bem e especial. Queremos viver este momento ao lado de pessoas que fazem parte da nossa história — e você é uma delas.</p><h2><i class='fa-solid fa-calendar-check'></i> Te esperamos lá!</h2>",
+    "music_name": "Alex Warren - Ordinary (Official Lyric Video).mp3",
+    "slug": "VanGogh-Júlia-15Anos",
+    "watermark_enabled": false,
+    "fundo_tela": "blob:https://builder.mforge.com.br/a60830b1-d451-4fa4-a506-ae5b5ae242b7",
+    "presentes": "blob:https://builder.mforge.com.br/46f84037-1224-4117-ac12-70daf6d563fe",
+    "vid_abertura": "blob:https://builder.mforge.com.br/beaf8ed0-bcd9-4830-81f7-1eb7064ca038"
+  },
+  "linksExtras": [],
+  "assetsMap": {
+    "musica": "assets/musica_1771349262355.mp3",
+    "capa": "assets/capa_1771349262355.png",
+    "folha_vazia": "assets/folha_vazia_1771349262355.png",
+    "fundo_tela": "assets/fundo_tela_1771349262355.mp4",
+    "vid_abertura": "assets/vid_abertura_1771349262355.mp4",
+    "presentes": "assets/presentes_1771349262355.png"
+  },
+  "toggles": {
+    "manualMode": "text",
+    "giftsMode": "image"
+  }
+}
