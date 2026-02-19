@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-19T10:52:57.690Z",
+  "timestamp": "2026-02-19T18:50:00.276Z",
   "formData": {
     "nome": "Morena",
     "tipo_evento": "Aniversário",
@@ -21,14 +21,14 @@
     "manual_content": "",
     "confirmacao": "5571996524673",
     "permitir_acompanhante": false,
-    "timer_contagem": false,
+    "timer_contagem": true,
     "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
     "leaf_prompt": "",
     "intro_motion_prompt": "The animation begins with a focus on the closed envelope. As the wax seal gracefully detaches and falls, the envelope's flap uplifts slowly. From its interior, a spectacular eruption of glittering sparkles and smoke, shimmering dust, and glowing light trails emerges, cascading outward in a mesmerizing display. These vibrant particles swirl dynamically, increasing in density and brightness around the envelope. The radiant light and swirling glitter intensify, rapidly expanding to fill the entire scene. CRITICAL: The Color of glow, light and smoke need to be the same of the image color pallete. The overwhelming brilliance transitions the frame to a solid, blinding white screen in the very final frame, achieved through a dramatic zoom-in effect.",
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore master prompt, não otimize texto, apenas acrescente icons)\nManual do convidado \nOs 15 anos marcam um tempo de sonhos, descobertas e novos começos. Esta noite foi sonhada com carinho e preparada com amor para ser inesquecível.\n\n Traje: Social\nSugerimos traje social, para que juntos possamos compor um ambiente harmonioso e elegante, à altura deste momento tão especial.\nInformamos, com carinho, que a cor preta será de uso exclusivo da aniversariante nesta noite. Agradecemos a compreensão e a delicadeza em respeitar essa escolha.\n\n Confirmação de Presença: \nPedimos, com carinho, que confirme sua presença por meio do botão interativo disponível neste convite, até 30/03.\nSua confirmação é essencial para que cada detalhe seja organizado com atenção e cuidado.\n\n Convite: \nEste convite é pessoal e intransferível, destinado exclusivamente a você. Para a organização e harmonia da celebração, pedimos, gentilmente, que não seja compartilhado.\nSua presença será um presente precioso nessa noite tão especial.\n\nEsperamos você para viver conosco um momento de encanto, alegria e emoção.",
+    "manual_raw_content": "",
     "manual_html": "<h1><i class=\"fa-solid fa-gift\"></i> Manual do Convidado</h1>\n<p>Os 15 anos marcam um tempo de sonhos, descobertas e novos começos. Esta noite foi sonhada com carinho e preparada com amor para ser inesquecível.</p>\n\n<h2><i class=\"fa-solid fa-clothes-hanger\"></i> Traje</h2>\n<p>Sugerimos traje social, para que juntos possamos compor um ambiente harmonioso e elegante, à altura deste momento tão especial. Informamos, com carinho, que a cor preta será de uso exclusivo da aniversariante nesta noite. Agradecemos a compreensão e a delicadeza em respeitar essa escolha.</p>\n\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirmação de Presença</h2>\n<p>Pedimos, com carinho, que confirme sua presença por meio do botão interativo disponível neste convite, até 30/03. Sua confirmação é essencial para que cada detalhe seja organizado com atenção e cuidado.</p>\n\n<h2><i class=\"fa-solid fa-envelope\"></i> Convite</h2>\n<p>Este convite é pessoal e intransferível, destinado exclusivamente a você. Para a organização e harmonia da celebração, pedimos, gentilmente, que não seja compartilhado. Sua presença será um presente precioso nessa noite tão especial.</p>\n\n<p>Esperamos você para viver conosco um momento de encanto, alegria e emoção.</p>",
     "music_name": "JVKE - golden hour [tradução-legendado] - OUTONO LEGENDAS (youtube).mp3",
     "slug": "Morena-15Anos",
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771498377690.mp3",
-    "capa": "assets/capa_1771498377690.png",
-    "folha_vazia": "assets/folha_vazia_1771498377690.png",
-    "fundo_tela": "assets/fundo_tela_1771498377690.png",
-    "vid_abertura": "assets/vid_abertura_1771498377690.mp4",
-    "presentes": "assets/presentes_1771498377690.png"
+    "musica": "assets/musica_1771527000276.mp3",
+    "capa": "assets/capa_1771527000276.png",
+    "folha_vazia": "assets/folha_vazia_1771527000276.png",
+    "fundo_tela": "assets/fundo_tela_1771527000276.png",
+    "vid_abertura": "assets/vid_abertura_1771527000276.mp4",
+    "presentes": "assets/presentes_1771527000276.png"
   },
   "toggles": {
     "manualMode": "text",
