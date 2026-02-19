@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-19T19:30:39.141Z",
+  "timestamp": "2026-02-19T19:42:19.558Z",
   "formData": {
     "nome": "Vitória Fabia",
     "tipo_evento": "Aniversário",
@@ -19,7 +19,7 @@
     "link_google_maps": "https://maps.app.goo.gl/8H9v4Zpv64WWbpaP9",
     "link_presentes": "",
     "manual_content": "",
-    "confirmacao": "",
+    "confirmacao": "557791123888",
     "permitir_acompanhante": false,
     "timer_contagem": false,
     "cover_prompt": "",
@@ -28,20 +28,28 @@
     "fill_prompt": "",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Traje esporte fino \nNão utilizar roupas nas cores azul claro, prata \nChegar no horário \nTirar muitas fotos",
+    "manual_raw_content": "",
     "manual_html": "<p><i class=\"fa-solid fa-suitcase\"></i> <strong>Traje:</strong> Esporte Fino</p>\n<p><i class=\"fa-solid fa-palette\"></i> <strong>Observação:</strong> Evitemos as cores azul claro e prata para um visual harmonioso.</p>\n<p><i class=\"fa-solid fa-clock\"></i> <strong>Horário:</strong> Sua presença no horário é fundamental para celebrarmos juntos este momento especial.</p>\n<p><i class=\"fa-solid fa-camera\"></i> <strong>Memórias:</strong> Não se esqueçam de capturar cada instante mágico com muitas fotos!</p>",
     "music_name": "Ed Sheeran - Thinking Out Loud (Official Lyric Video).mp3",
     "slug": "VitoriaFabia15Anos",
-    "watermark_enabled": true,
-    "musica": "blob:https://builder.mforge.com.br/b13d58be-00ea-4b83-9d09-ddda13026c00"
+    "watermark_enabled": false,
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/b13d58be-00ea-4b83-9d09-ddda13026c00",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771529439141.mp3",
-    "capa": "assets/capa_1771529439141.png",
-    "folha_vazia": "assets/folha_vazia_1771529439141.png",
-    "fundo_tela": "assets/fundo_tela_1771529439141.mp4",
-    "vid_abertura": "assets/vid_abertura_1771529439141.mp4"
+    "musica": "assets/musica_1771530139558.mp3",
+    "capa": "assets/capa_1771530139558.png",
+    "folha_vazia": "assets/folha_vazia_1771530139558.png",
+    "fundo_tela": "assets/fundo_tela_1771530139558.mp4",
+    "vid_abertura": "assets/vid_abertura_1771530139558.mp4"
   },
   "toggles": {
     "manualMode": "text",
