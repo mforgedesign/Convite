@@ -1,12 +1,12 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-18T09:46:13.009Z",
+  "timestamp": "2026-02-19T10:16:07.192Z",
   "formData": {
     "nome": "Júlia da Rosa",
     "tipo_evento": "Aniversário",
     "tipo_evento_custom": "",
     "data": "2026-07-18",
-    "hora": "20:00",
+    "hora": "20:30",
     "idade": "15",
     "tema_evento": "",
     "local_evento": "",
@@ -14,7 +14,7 @@
     "frase_convite": "",
     "cor_botoes": "#0e316b",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "16",
+    "posicao_botoes": "4",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/GwVby3V961WLRPpE9",
     "link_presentes": "",
@@ -28,8 +28,8 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore o Master Prompt, não altere ou otimize o texto. Apenas insira os fa icons)\n\nSeja muito bem-vindo(a)!\nEstamos imensamente felizes por compartilhar esse momento tão sonhado com você. Preparamos cada detalhe com carinho e queremos que essa noite seja inesquecível para todos nós.\n\n💌 Confirmação de Presença\nPor favor, confirme sua presença até 12/06.\nSua participação é muito importante para nós e nos ajudará a organizar cada detalhe com todo o cuidado que essa celebração merece.\nEssa noite só estará completa com você!\n\n⏰ Chegada Pontual\nChegue no horário indicado no convite.\nSua presença desde o início tornará esse momento ainda mais especial e permitirá que celebremos juntos cada emoção dessa noite única.\n\n🎉 Divirta-se!\nDance, sorria, registre momentos e aproveite cada instante.\nEssa festa foi preparada para ser vivida intensamente!\n\n🤍 Não vá embora sem nos abraçar!\nAntes de se despedir, passe para nos dar um abraço apertado.\nQueremos guardar esse carinho na memória e no coração.\n\n👗 Traje: Escolha um look que faça você se sentir bem e especial.\n\nQueremos viver este momento ao lado de pessoas que fazem parte da nossa história — e você é uma delas. Te esperamos lá!",
-    "manual_html": "<h1><i class=\"fa-solid fa-heart\"></i> Seja muito bem-vindo(a)! </h1><p>Estamos imensamente felizes por compartilhar esse momento tão sonhado com você. Preparamos cada detalhe com carinho e queremos que essa noite seja inesquecível para todos nós.</p><h2><i class=\"fa-solid fa-envelope\"></i> Confirmação de Presença</h2><p>Por favor, confirme sua presença até 12/06. Sua participação é muito importante para nós e nos ajudará a organizar cada detalhe com todo o cuidado que essa celebração merece. Essa noite só estará completa com você!</p><h2><i class=\"fa-solid fa-clock\"></i> Chegada Pontual</h2><p>Chegue no horário indicado no convite. Sua presença desde o início tornará esse momento ainda mais especial e permitirá que celebremos juntos cada emoção dessa noite única.</p><h2><i class=\"fa-solid fa-glass-cheers\"></i> Divirta-se!</h2><p>Dance, sorria, registre momentos e aproveite cada instante. Essa festa foi preparada para ser vivida intensamente!</p><h2><i class=\"fa-solid fa-users\"></i> Não vá embora sem nos abraçar!</h2><p>Antes de se despedir, passe para nos dar um abraço apertado. Queremos guardar esse carinho na memória e no coração.</p><h2><i class=\"fa-solid fa-tshirt\"></i> Traje:</h2><p>Escolha um look que faça você se sentir bem e especial.</p><p>Queremos viver este momento ao lado de pessoas que fazem parte da nossa história — e você é uma delas. Te esperamos lá!</p>",
+    "manual_raw_content": "",
+    "manual_html": "<div style=\"font-size: 1.2em; line-height: 1.6;\">\n\n    <h1><i class=\"fa-solid fa-heart\"></i> Seja muito bem-vindo(a)! </h1>\n    <p>Estamos imensamente felizes por compartilhar esse momento tão sonhado com você. Preparamos cada detalhe com carinho e queremos que essa noite seja inesquecível para todos nós.</p>\n\n    <br>\n\n    <h2><i class=\"fa-solid fa-envelope\"></i> Confirmação de Presença</h2>\n    <p>Por favor, confirme sua presença até 12/06. Sua participação é muito importante para nós e nos ajudará a organizar cada detalhe com todo o cuidado que essa celebração merece. Essa noite só estará completa com você!</p>\n\n    <br>\n\n    <h2><i class=\"fa-solid fa-clock\"></i> Chegada Pontual</h2>\n    <p>Chegue no horário indicado no convite. Sua presença desde o início tornará esse momento ainda mais especial e permitirá que celebremos juntos cada emoção dessa noite única.</p>\n\n    <br>\n\n    <h2><i class=\"fa-solid fa-glass-cheers\"></i> Divirta-se!</h2>\n    <p>Dance, sorria, registre momentos e aproveite cada instante. Essa festa foi preparada para ser vivida intensamente!</p>\n\n    <br>\n\n    <h2><i class=\"fa-solid fa-users\"></i> Não vá embora sem nos abraçar!</h2>\n    <p>Antes de se despedir, passe para nos dar um abraço apertado. Queremos guardar esse carinho na memória e no coração.</p>\n\n    <br>\n\n    <h2><i class=\"fa-solid fa-tshirt\"></i> Traje:</h2>\n    <p>Escolha um look que faça você se sentir bem e especial.</p>\n\n    <br>\n\n    <p>Queremos viver este momento ao lado de pessoas que fazem parte da nossa história — e você é uma delas. Te esperamos lá!</p>\n\n</div>",
     "music_name": "Alex Warren - Ordinary (Official Lyric Video).mp3",
     "slug": "JuliaRosa-15Anos",
     "watermark_enabled": false,
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771407973009.mp3",
-    "capa": "assets/capa_1771407973009.png",
-    "folha_vazia": "assets/folha_vazia_1771407973009.png",
-    "fundo_tela": "assets/fundo_tela_1771407973009.mp4",
-    "vid_abertura": "assets/vid_abertura_1771407973009.mp4",
-    "presentes": "assets/presentes_1771407973009.png"
+    "musica": "assets/musica_1771496167192.mp3",
+    "capa": "assets/capa_1771496167192.png",
+    "folha_vazia": "assets/folha_vazia_1771496167192.png",
+    "fundo_tela": "assets/fundo_tela_1771496167192.mp4",
+    "vid_abertura": "assets/vid_abertura_1771496167192.mp4",
+    "presentes": "assets/presentes_1771496167192.png"
   },
   "toggles": {
     "manualMode": "text",
