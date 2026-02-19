@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-18T09:24:11.626Z",
+  "timestamp": "2026-02-19T10:52:57.690Z",
   "formData": {
     "nome": "Morena",
     "tipo_evento": "Aniversário",
@@ -28,9 +28,9 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "",
-    "manual_html": "<h2><i class='fa-solid fa-user-friends'></i> Manual do Convidado</h2><ul><li><i class='fa-solid fa-clock'></i> <strong>Chegue no horário:</strong> Sua presença pontual é um presente valioso para nós.</li><li><i class='fa-solid fa-check-circle'></i> <strong>Confirme sua presença:</strong> Por favor, nos avise com pelo menos 15 dias de antecedência.</li><li><i class='fa-solid fa-heart'></i> <strong>Divirta-se bastante:</strong> Estamos ansiosos para celebrar momentos inesquecíveis ao seu lado.</li><li><i class='fa-solid fa-tuxedo'></i> <strong>Traje social:</strong> Para que nossas fotos se tornem lindas recordações.</li><li><i class='fa-solid fa-gift'></i> <strong>Antes de ir embora:</strong> Não esqueça de nos dar um abraço e saborear um pedaço do bolo!</li></ul>",
-    "music_name": "musica.mp3",
+    "manual_raw_content": "(Ignore master prompt, não otimize texto, apenas acrescente icons)\nManual do convidado \nOs 15 anos marcam um tempo de sonhos, descobertas e novos começos. Esta noite foi sonhada com carinho e preparada com amor para ser inesquecível.\n\n Traje: Social\nSugerimos traje social, para que juntos possamos compor um ambiente harmonioso e elegante, à altura deste momento tão especial.\nInformamos, com carinho, que a cor preta será de uso exclusivo da aniversariante nesta noite. Agradecemos a compreensão e a delicadeza em respeitar essa escolha.\n\n Confirmação de Presença: \nPedimos, com carinho, que confirme sua presença por meio do botão interativo disponível neste convite, até 30/03.\nSua confirmação é essencial para que cada detalhe seja organizado com atenção e cuidado.\n\n Convite: \nEste convite é pessoal e intransferível, destinado exclusivamente a você. Para a organização e harmonia da celebração, pedimos, gentilmente, que não seja compartilhado.\nSua presença será um presente precioso nessa noite tão especial.\n\nEsperamos você para viver conosco um momento de encanto, alegria e emoção.",
+    "manual_html": "<h1><i class=\"fa-solid fa-gift\"></i> Manual do Convidado</h1>\n<p>Os 15 anos marcam um tempo de sonhos, descobertas e novos começos. Esta noite foi sonhada com carinho e preparada com amor para ser inesquecível.</p>\n\n<h2><i class=\"fa-solid fa-clothes-hanger\"></i> Traje</h2>\n<p>Sugerimos traje social, para que juntos possamos compor um ambiente harmonioso e elegante, à altura deste momento tão especial. Informamos, com carinho, que a cor preta será de uso exclusivo da aniversariante nesta noite. Agradecemos a compreensão e a delicadeza em respeitar essa escolha.</p>\n\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirmação de Presença</h2>\n<p>Pedimos, com carinho, que confirme sua presença por meio do botão interativo disponível neste convite, até 30/03. Sua confirmação é essencial para que cada detalhe seja organizado com atenção e cuidado.</p>\n\n<h2><i class=\"fa-solid fa-envelope\"></i> Convite</h2>\n<p>Este convite é pessoal e intransferível, destinado exclusivamente a você. Para a organização e harmonia da celebração, pedimos, gentilmente, que não seja compartilhado. Sua presença será um presente precioso nessa noite tão especial.</p>\n\n<p>Esperamos você para viver conosco um momento de encanto, alegria e emoção.</p>",
+    "music_name": "JVKE - golden hour [tradução-legendado] - OUTONO LEGENDAS (youtube).mp3",
     "slug": "Morena-15Anos",
     "watermark_enabled": false,
     "capa": null,
@@ -40,17 +40,17 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/5ea7886a-212b-47dc-bd0f-60a7209004bb",
+    "musica": "blob:https://builder.mforge.com.br/d72de2fb-5166-4300-ac0e-05405c6066ba",
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771406651626.mp3",
-    "capa": "assets/capa_1771406651626.png",
-    "folha_vazia": "assets/folha_vazia_1771406651626.png",
-    "fundo_tela": "assets/fundo_tela_1771406651626.png",
-    "vid_abertura": "assets/vid_abertura_1771406651626.mp4",
-    "presentes": "assets/presentes_1771406651626.png"
+    "musica": "assets/musica_1771498377690.mp3",
+    "capa": "assets/capa_1771498377690.png",
+    "folha_vazia": "assets/folha_vazia_1771498377690.png",
+    "fundo_tela": "assets/fundo_tela_1771498377690.png",
+    "vid_abertura": "assets/vid_abertura_1771498377690.mp4",
+    "presentes": "assets/presentes_1771498377690.png"
   },
   "toggles": {
     "manualMode": "text",
