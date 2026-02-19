@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-18T11:34:04.112Z",
+  "timestamp": "2026-02-19T11:53:50.954Z",
   "formData": {
     "nome": "Patrícia",
     "tipo_evento": "Aniversário",
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771414444112.mp3",
-    "capa": "assets/capa_1771414444112.png",
-    "folha_vazia": "assets/folha_vazia_1771414444112.png",
-    "fundo_tela": "assets/fundo_tela_1771414444112.mp4",
-    "vid_abertura": "assets/vid_abertura_1771414444112.mp4",
-    "presentes": "assets/presentes_1771414444112.png"
+    "musica": "assets/musica_1771502030954.mp3",
+    "capa": "assets/capa_1771502030954.png",
+    "folha_vazia": "assets/folha_vazia_1771502030954.png",
+    "fundo_tela": "assets/fundo_tela_1771502030954.mp4",
+    "vid_abertura": "assets/vid_abertura_1771502030954.mp4",
+    "presentes": "assets/presentes_1771502030954.png"
   },
   "toggles": {
     "manualMode": "text",
