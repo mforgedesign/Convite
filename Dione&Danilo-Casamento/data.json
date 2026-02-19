@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-19T10:26:52.264Z",
+  "timestamp": "2026-02-19T11:35:34.729Z",
   "formData": {
     "nome": "Dione Andrade e Danilo Britto",
     "tipo_evento": "Casamento",
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771496812264.mp3",
-    "capa": "assets/capa_1771496812264.png",
-    "folha_vazia": "assets/folha_vazia_1771496812264.png",
-    "fundo_tela": "assets/fundo_tela_1771496812264.mp4",
-    "vid_abertura": "assets/vid_abertura_1771496812264.mp4",
-    "presentes": "assets/presentes_1771496812264.png"
+    "musica": "assets/musica_1771500934729.mp3",
+    "capa": "assets/capa_1771500934729.png",
+    "folha_vazia": "assets/folha_vazia_1771500934729.png",
+    "fundo_tela": "assets/fundo_tela_1771500934729.mp4",
+    "vid_abertura": "assets/vid_abertura_1771500934729.mp4",
+    "presentes": "assets/presentes_1771500934729.png"
   },
   "toggles": {
     "manualMode": "text",
