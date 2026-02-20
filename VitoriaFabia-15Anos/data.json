@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-20T23:14:30.925Z",
+  "timestamp": "2026-02-20T23:18:26.533Z",
   "formData": {
     "nome": "Vitória Fabia",
     "tipo_evento": "Aniversário",
@@ -30,7 +30,7 @@
     "gifts_image_prompt": "",
     "manual_raw_content": "",
     "manual_html": "<p><i class=\"fa-solid fa-suitcase\"></i> <strong>Traje:</strong> Esporte Fino</p>\n<p><i class=\"fa-solid fa-palette\"></i> <strong>Observação:</strong> Evitemos as cores azul claro e prata para um visual harmonioso.</p>\n<p><i class=\"fa-solid fa-clock\"></i> <strong>Horário:</strong> Sua presença no horário é fundamental para celebrarmos juntos este momento especial.</p>\n<p><i class=\"fa-solid fa-camera\"></i> <strong>Memórias:</strong> Não se esqueçam de capturar cada instante mágico com muitas fotos!</p>",
-    "music_name": "",
+    "music_name": "Lana Del Rey - Video Games.mp3",
     "slug": "VitoriaFabia-15Anos",
     "watermark_enabled": false,
     "capa": null,
@@ -44,10 +44,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "capa": "assets/capa_1771629270925.png",
-    "folha_vazia": "assets/folha_vazia_1771629270925.png",
-    "fundo_tela": "assets/fundo_tela_1771629270925.mp4",
-    "vid_abertura": "assets/vid_abertura_1771629270925.mp4"
+    "musica": "assets/musica_1771629506533.mp3",
+    "capa": "assets/capa_1771629506533.png",
+    "folha_vazia": "assets/folha_vazia_1771629506533.png",
+    "fundo_tela": "assets/fundo_tela_1771629506533.mp4",
+    "vid_abertura": "assets/vid_abertura_1771629506533.mp4"
   },
   "toggles": {
     "manualMode": "text",
