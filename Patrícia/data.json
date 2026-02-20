@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-06T10:30:38.380Z",
+  "timestamp": "2026-02-20T12:34:03.807Z",
   "formData": {
     "nome": "Patrícia",
     "tipo_evento": "Aniversário",
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore o master prompt, aplique somente os fa-icon)\nChegue no horário: Sua presença pontual é muito importante para mim.\nConfirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.\nDivirta-se bastante! Estou ansiosa para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço e comer um pedaço do bolo: Quero compartilhar cada instante com você.\nTraje esporte fino",
+    "manual_raw_content": "",
     "manual_html": "<p><i class='fa-solid fa-clock'></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para mim.</p> <p><i class='fa-solid fa-check-circle'></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 15 dias antes do evento.</p> <p><i class='fa-solid fa-smile'></i> <strong>Divirta-se bastante!</strong> Estou ansiosa para celebrar este momento especial com você.</p> <p><i class='fa-solid fa-heart'></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Quero compartilhar cada instante com você.</p> <p><i class='fa-solid fa-user-tie'></i> <strong>Traje:</strong> Esporte fino</p>",
     "music_name": "A THOUSAND YEARS (Christina Perri) Sax Angelo Torres - Saxophone Cover - AT Romantic CLASS #4 - Angelo Torres Oficial (youtube).mp3",
     "slug": "Patrícia",
@@ -40,16 +40,24 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/a8ae060b-0d4d-432f-a609-ef829ec5c278"
+    "musica": "blob:https://builder.mforge.com.br/a8ae060b-0d4d-432f-a609-ef829ec5c278",
+    "numero_whatsapp": "5512997231551",
+    "link_confirmacao": "",
+    "animate_background": false,
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
+    "folha_only": null,
+    "background_only": null,
+    "_reset": true,
+    "media_presentes": null
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770373838380.mp3",
-    "capa": "assets/capa_1770373838380.png",
-    "folha_vazia": "assets/folha_vazia_1770373838380.png",
-    "fundo_tela": "assets/fundo_tela_1770373838380.mp4",
-    "vid_abertura": "assets/vid_abertura_1770373838380.mp4",
-    "presentes": "assets/presentes_1770373838380.png"
+    "musica": "assets/musica_1771590843807.mp3",
+    "capa": "assets/capa_1771590843807.png",
+    "folha_vazia": "assets/folha_vazia_1771590843807.png",
+    "fundo_tela": "assets/fundo_tela_1771590843807.mp4",
+    "vid_abertura": "assets/vid_abertura_1771590843807.mp4",
+    "presentes": "assets/presentes_1771590843807.png"
   },
   "toggles": {
     "manualMode": "text",
