@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-19T10:42:42.424Z",
+  "timestamp": "2026-02-20T12:07:45.430Z",
   "formData": {
     "nome": "Daniele e Robson",
     "tipo_evento": "Casamento",
@@ -41,22 +41,22 @@
     "presentes": null,
     "manual": null,
     "musica": null,
-    "_reset": true,
     "numero_whatsapp": "5512997231551",
     "link_confirmacao": "",
     "animate_background": false,
     "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
     "folha_only": null,
     "background_only": null,
+    "_reset": true,
     "media_presentes": null
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771497762424.mp3",
-    "capa": "assets/capa_1771497762424.png",
-    "folha_vazia": "assets/folha_vazia_1771497762424.png",
-    "fundo_tela": "assets/fundo_tela_1771497762424.mp4",
-    "vid_abertura": "assets/vid_abertura_1771497762424.mp4"
+    "musica": "assets/musica_1771589265430.mp3",
+    "capa": "assets/capa_1771589265430.png",
+    "folha_vazia": "assets/folha_vazia_1771589265430.png",
+    "fundo_tela": "assets/fundo_tela_1771589265430.mp4",
+    "vid_abertura": "assets/vid_abertura_1771589265430.mp4"
   },
   "toggles": {
     "manualMode": "text",
