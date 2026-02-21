@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-21T14:10:33.120Z",
+  "timestamp": "2026-02-21T15:34:09.557Z",
   "formData": {
     "nome": "Roberta",
     "tipo_evento": "Aniversário",
@@ -40,16 +40,24 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/d72da9be-af08-403e-8418-3d2fae306826"
+    "musica": "blob:https://builder.mforge.com.br/d72da9be-af08-403e-8418-3d2fae306826",
+    "_reset": true
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://coruscating-gelato-6c2d99.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1771683033120.mp3",
-    "capa": "assets/capa_1771683033120.png",
-    "folha_vazia": "assets/folha_vazia_1771683033120.png",
-    "fundo_tela": "assets/fundo_tela_1771683033120.mp4",
-    "vid_abertura": "assets/vid_abertura_1771683033120.mp4",
-    "presentes": "assets/presentes_1771683033120.png"
+    "musica": "assets/musica_1771688049557.mp3",
+    "capa": "assets/capa_1771688049557.png",
+    "folha_vazia": "assets/folha_vazia_1771688049557.png",
+    "fundo_tela": "assets/fundo_tela_1771688049557.mp4",
+    "vid_abertura": "assets/vid_abertura_1771688049557.mp4",
+    "presentes": "assets/presentes_1771688049557.png"
   },
   "toggles": {
     "manualMode": "text",
