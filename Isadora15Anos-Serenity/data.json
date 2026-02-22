@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-22T17:47:29.732Z",
+  "timestamp": "2026-02-22T18:20:20.254Z",
   "formData": {
     "nome": "Isadora",
     "tipo_evento": "Aniversário",
@@ -14,7 +14,7 @@
     "frase_convite": "",
     "cor_botoes": "#4e98a5",
     "sombra_gradiente": "#000000",
-    "posicao_botoes": "20",
+    "posicao_botoes": "14",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/ggYkkuQ4ESciejv78",
     "link_presentes": "",
@@ -45,14 +45,21 @@
     "link_confirmacao": null,
     "_reset": true
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://genuine-kleicha-ca8082.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1771782449732.mp3",
-    "capa": "assets/capa_1771782449732.png",
-    "folha_vazia": "assets/folha_vazia_1771782449732.png",
-    "fundo_tela": "assets/fundo_tela_1771782449732.mp4",
-    "vid_abertura": "assets/vid_abertura_1771782449732.mp4",
-    "presentes": "assets/presentes_1771782449732.png"
+    "musica": "assets/musica_1771784420254.mp3",
+    "capa": "assets/capa_1771784420254.png",
+    "folha_vazia": "assets/folha_vazia_1771784420254.png",
+    "fundo_tela": "assets/fundo_tela_1771784420254.mp4",
+    "vid_abertura": "assets/vid_abertura_1771784420254.mp4",
+    "presentes": "assets/presentes_1771784420254.png"
   },
   "toggles": {
     "manualMode": "text",
