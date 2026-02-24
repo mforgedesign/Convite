@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-24T23:14:18.612Z",
+  "timestamp": "2026-02-24T23:19:04.132Z",
   "formData": {
     "nome": "Lívia",
     "tipo_evento": "Aniversário",
@@ -36,12 +36,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771974858612.mp3",
-    "capa": "assets/capa_1771974858612.png",
-    "folha_vazia": "assets/folha_vazia_1771974858612.png",
-    "fundo_tela": "assets/fundo_tela_1771974858612.mp4",
-    "vid_abertura": "assets/vid_abertura_1771974858612.mp4",
-    "presentes": "assets/presentes_1771974858612.png"
+    "musica": "assets/musica_1771975144132.mp3",
+    "capa": "assets/capa_1771975144132.png",
+    "folha_vazia": "assets/folha_vazia_1771975144132.png",
+    "fundo_tela": "assets/fundo_tela_1771975144132.mp4",
+    "vid_abertura": "assets/vid_abertura_1771975144132.mp4",
+    "presentes": "assets/presentes_1771975144132.png"
   },
   "toggles": {
     "manualMode": "text",
