@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-12T12:02:56.761Z",
+  "timestamp": "2026-02-26T14:41:54.909Z",
   "formData": {
     "nome": "Alanna",
     "tipo_evento": "Aniversário",
@@ -41,16 +41,23 @@
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/180c6bfa-8032-46cd-b6bf-99f990bfedd9",
-    "_reset": true
+    "animate_background": false,
+    "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
+    "_reset": true,
+    "folha_only": null,
+    "background_only": null,
+    "numero_whatsapp": "5519987660835",
+    "link_confirmacao": "",
+    "media_presentes": null
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1770897776761.mp3",
-    "capa": "assets/capa_1770897776761.png",
-    "folha_vazia": "assets/folha_vazia_1770897776761.png",
-    "fundo_tela": "assets/fundo_tela_1770897776761.png",
-    "vid_abertura": "assets/vid_abertura_1770897776761.mp4",
-    "presentes": "assets/presentes_1770897776761.png"
+    "musica": "assets/musica_1772116914909.mp3",
+    "capa": "assets/capa_1772116914909.png",
+    "folha_vazia": "assets/folha_vazia_1772116914909.png",
+    "fundo_tela": "assets/fundo_tela_1772116914909.png",
+    "vid_abertura": "assets/vid_abertura_1772116914909.mp4",
+    "presentes": "assets/presentes_1772116914909.png"
   },
   "toggles": {
     "manualMode": "text",
