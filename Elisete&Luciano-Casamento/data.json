@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-27T13:58:15.312Z",
+  "timestamp": "2026-02-27T14:35:29.314Z",
   "formData": {
     "nome": "Elisete e Luciano",
     "tipo_evento": "Casamento",
@@ -44,10 +44,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772200695312.mp3",
-    "capa": "assets/capa_1772200695312.png",
-    "folha_vazia": "assets/folha_vazia_1772200695312.png",
-    "vid_abertura": "assets/vid_abertura_1772200695312.mp4"
+    "musica": "assets/musica_1772202929314.mp3",
+    "capa": "assets/capa_1772202929314.png",
+    "folha_vazia": "assets/folha_vazia_1772202929314.png",
+    "fundo_tela": "assets/fundo_tela_1772202929314.mp4",
+    "vid_abertura": "assets/vid_abertura_1772202929314.mp4"
   },
   "toggles": {
     "manualMode": "text",
