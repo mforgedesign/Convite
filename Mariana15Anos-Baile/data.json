@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-27T10:22:42.804Z",
+  "timestamp": "2026-02-28T00:31:08.045Z",
   "formData": {
     "nome": "Mariana",
     "tipo_evento": "Aniversário",
@@ -28,21 +28,29 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Chegue no horário: Sua presença pontual é muito importante para nós.\nConfirme sua presença: Por favor, confirme presença pelo menos 20 dias antes do evento.\nDivirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.",
-    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 20 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-gift\"></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
+    "manual_raw_content": "",
+    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 20 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-shirt\"></i> <strong>Dress Code:</strong> Esporte Fino Cor Preto.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-gift\"></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
     "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid [b9v96HD_3_U].mp3",
     "slug": "Mariana15Anos-Baile",
     "watermark_enabled": false,
-    "musica": "blob:https://builder.mforge.com.br/dcff2b92-67c8-477a-bd78-532eb6188e01"
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/dcff2b92-67c8-477a-bd78-532eb6188e01",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772187762804.mp3",
-    "capa": "assets/capa_1772187762804.png",
-    "folha_vazia": "assets/folha_vazia_1772187762804.png",
-    "fundo_tela": "assets/fundo_tela_1772187762804.mp4",
-    "vid_abertura": "assets/vid_abertura_1772187762804.mp4",
-    "presentes": "assets/presentes_1772187762804.png"
+    "musica": "assets/musica_1772238668045.mp3",
+    "capa": "assets/capa_1772238668045.png",
+    "folha_vazia": "assets/folha_vazia_1772238668045.png",
+    "fundo_tela": "assets/fundo_tela_1772238668045.mp4",
+    "vid_abertura": "assets/vid_abertura_1772238668045.mp4",
+    "presentes": "assets/presentes_1772238668045.png"
   },
   "toggles": {
     "manualMode": "text",
