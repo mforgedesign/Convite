@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-28T00:25:36.429Z",
+  "timestamp": "2026-02-28T00:31:39.998Z",
   "formData": {
     "nome": "Elisete e Luciano",
     "tipo_evento": "Casamento",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\"><p><i class=\"fa-solid fa-list-check\"></i> <strong>Siga essas instruções e divirta-se</strong></p>\n\n<p><i class=\"fa-solid fa-heart\"></i> É com muita alegria que damos as boas-vindas a você. Estamos vivendo um momento especial e ficamos felizes em poder compartilhá-lo com pessoas queridas.</p>\n\n<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegada</strong><br>\nPedimos com carinho que chegue com alguns minutos de antecedência, pois a cerimônia civil e religiosa será realizada no horário marcado.</p>\n\n<p><i class=\"fa-solid fa-user-tie\"></i> <strong>Traje</strong><br>\nQueremos que fiquem a vontade com o traje que desejarem.</p>\n\n<p><i class=\"fa-solid fa-child-reaching\"></i> <strong>Crianças</strong><br>\nAmamos as crianças, e por este motivo escolhemos um local com muita interatividade, brinquedos para todas as idades, jogos eletrônicos e muita diversão para crianças e adultos. Não vai faltar nada para a satisfação de todos.</p>\n\n<p><i class=\"fa-solid fa-gift\"></i> <strong>Presente</strong><br>\nO maior presente para nós é a sua presença!</p>\n\n<p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação</strong><br>\nDevido ao buffet ser pelo número de pessoas, pedimos gentilmente sua confirmação.</p>\n\n<p><i class=\"fa-solid fa-cross\"></i> Toda honra, toda glória e majestade sejam dadas a Deus e a Jesus Cristo nosso Senhor que nos conduziu para o nosso enlace.<br>\n<em>Efésios 3:19-21</em></p>\n\n<p><i class=\"fa-solid fa-dove\"></i> Ter você conosco tornará esse momento ainda mais especial e abençoado.</p>\n\n<p>Com carinho,<br>\n<strong>Elisete &amp; Luciano</strong></p></div>",
+    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\"><p><i class=\"fa-solid fa-list-check\"></i> <strong>Siga essas instruções e divirta-se</strong></p>\n\n<p><i class=\"fa-solid fa-heart\"></i> É com muita alegria que damos as boas-vindas a você. Estamos vivendo um momento especial e ficamos felizes em poder compartilhá-lo com pessoas queridas.</p>\n\n<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegada</strong><br>\nPedimos com carinho que chegue com alguns minutos de antecedência, pois a cerimônia religiosa será realizada no horário marcado.</p>\n\n<p><i class=\"fa-solid fa-user-tie\"></i> <strong>Traje</strong><br>\nQueremos que fiquem a vontade com o traje que desejarem.</p>\n\n<p><i class=\"fa-solid fa-child-reaching\"></i> <strong>Crianças</strong><br>\nAmamos as crianças, e por este motivo escolhemos um local com muita interatividade, brinquedos para todas as idades, jogos eletrônicos e muita diversão para crianças e adultos. Não vai faltar nada para a satisfação de todos.</p>\n\n<p><i class=\"fa-solid fa-gift\"></i> <strong>Presente</strong><br>\nO maior presente para nós é a sua presença!</p>\n\n<p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação</strong><br>\nDevido ao buffet ser pelo número de pessoas, pedimos gentilmente sua confirmação.</p>\n\n<p><i class=\"fa-solid fa-cross\"></i> Toda honra, toda glória e majestade sejam dadas a Deus e a Jesus Cristo nosso Senhor que nos conduziu para o nosso enlace.<br>\n<em>Efésios 3:19-21</em></p>\n\n<p><i class=\"fa-solid fa-dove\"></i> Ter você conosco tornará esse momento ainda mais especial e abençoado.</p>\n\n<p>Com carinho,<br>\n<strong>Elisete &amp; Luciano</strong></p></div>",
     "music_name": "Christina Perri - A Thousand Years [Official Music Video].mp3",
     "slug": "Elisete&Luciano-Casamento",
     "watermark_enabled": false,
@@ -46,11 +46,11 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772238336429.mp3",
-    "capa": "assets/capa_1772238336429.png",
-    "folha_vazia": "assets/folha_vazia_1772238336429.png",
-    "fundo_tela": "assets/fundo_tela_1772238336429.mp4",
-    "vid_abertura": "assets/vid_abertura_1772238336429.mp4"
+    "musica": "assets/musica_1772238699998.mp3",
+    "capa": "assets/capa_1772238699998.png",
+    "folha_vazia": "assets/folha_vazia_1772238699998.png",
+    "fundo_tela": "assets/fundo_tela_1772238699998.mp4",
+    "vid_abertura": "assets/vid_abertura_1772238699998.mp4"
   },
   "toggles": {
     "manualMode": "text",
