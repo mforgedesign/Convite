@@ -1,9 +1,9 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-28T12:01:38.478Z",
+  "timestamp": "2026-02-28T14:36:38.151Z",
   "formData": {
     "nome": "Sophia",
-    "tipo_evento": "",
+    "tipo_evento": "Aniversário",
     "tipo_evento_custom": "",
     "data": "2026-05-15",
     "hora": "20:30",
@@ -15,7 +15,7 @@
     "cor_botoes": "#dd3636",
     "sombra_gradiente": "#000000",
     "posicao_botoes": "9",
-    "tamanho_botoes": "",
+    "tamanho_botoes": "medio",
     "link_google_maps": "https://maps.app.goo.gl/TeJgCiVpbrnDVzpWA",
     "link_presentes": "",
     "manual_content": "",
@@ -32,24 +32,16 @@
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p> <p><i class=\"fa-solid fa-check\"></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 15 dias antes do evento.</p> <p><i class=\"fa-solid fa-smile\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p> <p><i class=\"fa-solid fa-heart\"></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
     "music_name": "93 Million Miles Karaoke 🎤Jason Mraz - Jayson Duga (youtube).mp3",
     "slug": "Sophia15Anos-Rosa",
-    "watermark_enabled": false,
-    "capa": null,
-    "capa_referencia": null,
-    "folha_vazia": null,
-    "vid_abertura": null,
-    "fundo_tela": null,
-    "presentes": null,
-    "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/cff91c00-eb4a-4f2f-a0a7-9f6e92956c93"
+    "watermark_enabled": false
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772280098478.mp3",
-    "capa": "assets/capa_1772280098478.png",
-    "folha_vazia": "assets/folha_vazia_1772280098478.png",
-    "fundo_tela": "assets/fundo_tela_1772280098478.mp4",
-    "vid_abertura": "assets/vid_abertura_1772280098478.mp4",
-    "presentes": "assets/presentes_1772280098478.png"
+    "musica": "assets/musica_1772289398151.mp3",
+    "capa": "assets/capa_1772289398151.png",
+    "folha_vazia": "assets/folha_vazia_1772289398151.png",
+    "fundo_tela": "assets/fundo_tela_1772289398151.mp4",
+    "vid_abertura": "assets/vid_abertura_1772289398151.mp4",
+    "presentes": "assets/presentes_1772289398151.png"
   },
   "toggles": {
     "manualMode": "text",
