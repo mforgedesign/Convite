@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-28T20:37:08.149Z",
+  "timestamp": "2026-03-01T16:16:28.013Z",
   "formData": {
     "nome": "Maria Elise",
     "tipo_evento": "Aniversário",
@@ -30,7 +30,7 @@
     "gifts_image_prompt": "",
     "manual_raw_content": "",
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Por favor, confirme sua presença pelo menos 20 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-gift\"></i> <strong>Não vá embora sem me dar um abraço e comer um pedaço do bolo:</strong> Queremos compartilhar cada instante com você.</p>",
-    "music_name": "PERFECT - Ed Sheeran - Violin Cover by Andre Soueid [b9v96HD_3_U].mp3",
+    "music_name": "Vejo Enfim a Luz Brilhar (I Can See The Light - Filme Enrolados) - Demazzi Orquestra e Coral - Demazzi Orquestra e Coral (youtube).mp3",
     "slug": "MariaElise5Anos",
     "watermark_enabled": false,
     "capa": null,
@@ -40,17 +40,17 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/12e34c66-7923-4414-847e-979a65d7ce70",
+    "musica": "blob:https://builder.mforge.com.br/00a94a15-e02d-43de-8909-e442af2778d1",
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772311028149.mp3",
-    "capa": "assets/capa_1772311028149.png",
-    "folha_vazia": "assets/folha_vazia_1772311028149.png",
-    "fundo_tela": "assets/fundo_tela_1772311028149.mp4",
-    "vid_abertura": "assets/vid_abertura_1772311028149.mp4",
-    "presentes": "assets/presentes_1772311028149.png"
+    "musica": "assets/musica_1772381788013.mp3",
+    "capa": "assets/capa_1772381788013.png",
+    "folha_vazia": "assets/folha_vazia_1772381788013.png",
+    "fundo_tela": "assets/fundo_tela_1772381788013.mp4",
+    "vid_abertura": "assets/vid_abertura_1772381788013.mp4",
+    "presentes": "assets/presentes_1772381788013.png"
   },
   "toggles": {
     "manualMode": "text",
