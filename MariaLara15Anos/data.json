@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-02-24T11:46:27.521Z",
+  "timestamp": "2026-03-02T10:05:19.790Z",
   "formData": {
     "nome": "Maria Lara",
     "tipo_evento": "Aniversário",
@@ -28,8 +28,8 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "(Ignore o Master prompt, não otimize nem modifique o texto, apenas insira os icon free).\nChegue no horário: Sua presença pontual é muito importante para nós.\nConfirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.\nDivirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.",
-    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> Chegue no horário: Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> Confirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-party-horn\"></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-heart\"></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p>",
+    "manual_raw_content": "",
+    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> Chegue no horário: Sua presença pontual é muito importante para nós.</p>\n<p><i class=\"fa-solid fa-shirt\"></i> Dress Code: Pedimos que não vá com roupas na cor azul ou roxo (nem tons derivados).</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> Confirme sua presença: Por favor, confirme presença pelo menos 15 dias antes do evento.</p>\n<p><i class=\"fa-solid fa-party-horn\"></i> Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.</p>\n<p><i class=\"fa-solid fa-heart\"></i> Não vá embora sem me dar um abraço e comer um pedaço do bolo: Queremos compartilhar cada instante com você.</p>",
     "music_name": "Dove Cameron - If Only (from Descendants) (Official Video) - DisneyMusicVEVO (youtube) (1).mp3",
     "slug": "MariaLara15Anos",
     "watermark_enabled": false,
@@ -40,16 +40,17 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/ee31484b-7e1a-4018-b170-1fd252771e15"
+    "musica": "blob:https://builder.mforge.com.br/ee31484b-7e1a-4018-b170-1fd252771e15",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1771933587521.mp3",
-    "capa": "assets/capa_1771933587521.png",
-    "folha_vazia": "assets/folha_vazia_1771933587521.png",
-    "fundo_tela": "assets/fundo_tela_1771933587521.mp4",
-    "vid_abertura": "assets/vid_abertura_1771933587521.mp4",
-    "presentes": "assets/presentes_1771933587521.png"
+    "musica": "assets/musica_1772445919790.mp3",
+    "capa": "assets/capa_1772445919790.png",
+    "folha_vazia": "assets/folha_vazia_1772445919790.png",
+    "fundo_tela": "assets/fundo_tela_1772445919790.mp4",
+    "vid_abertura": "assets/vid_abertura_1772445919790.mp4",
+    "presentes": "assets/presentes_1772445919790.png"
   },
   "toggles": {
     "manualMode": "text",
