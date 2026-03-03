@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-03T22:57:32.714Z",
+  "timestamp": "2026-03-03T23:12:21.762Z",
   "formData": {
     "nome": "Amanda e César",
     "tipo_evento": "Aniversário",
@@ -17,7 +17,7 @@
     "posicao_botoes": "16",
     "tamanho_botoes": "",
     "link_google_maps": "https://maps.app.goo.gl/F6H4cw8nACVrVPM8A",
-    "link_presentes": "",
+    "link_presentes": "https://presentes.mforge.com.br/amanda-e-cesar",
     "manual_content": "",
     "confirmacao": "558588582020",
     "permitir_acompanhante": false,
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>A Pontualidade é um Carinho:</strong> Sua presença desde o primeiro instante é fundamental para que não perca nenhum detalhe da nossa história. Por favor, chegue no horário combinado.</p><p><i class=\"fa-solid fa-calendar-check\"></i> <strong>Confirmação de Presença:</strong> Para que possamos preparar tudo com perfeição e amor, pedimos a gentileza de confirmar sua vinda até 15 dias antes do evento.</p><p><i class=\"fa-solid fa-heart\"></i> <strong>Celebre Conosco:</strong> Deixe a alegria guiar a sua noite! Estamos ansiosos para criar memórias inesquecíveis e celebrar este capítulo tão especial ao seu lado.</p><p><i class=\"fa-solid fa-cake-candles\"></i> <strong>Um Doce Encontro:</strong> Não se despeça sem nos presentear com um abraço. Queremos compartilhar cada segundo de felicidade com você.</p>",
+    "manual_html": "",
     "music_name": "THE TIME OF MY LIFE Dirty Dancing Agnes Violin Cover #skrzypaczka #violincover #lovesong #moviemusic - Agnes Violin Duo Amor (youtube).mp3",
     "slug": "Amanda&Cesar-BodasDePrata",
     "watermark_enabled": false,
@@ -40,18 +40,20 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/2d3348f5-08a6-41ab-b92c-0341387bdeb5"
+    "musica": "blob:https://builder.mforge.com.br/2d3348f5-08a6-41ab-b92c-0341387bdeb5",
+    "media_presentes": null
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772578652714.mp3",
-    "capa": "assets/capa_1772578652714.png",
-    "folha_vazia": "assets/folha_vazia_1772578652714.png",
-    "fundo_tela": "assets/fundo_tela_1772578652714.mp4",
-    "vid_abertura": "assets/vid_abertura_1772578652714.mp4"
+    "musica": "assets/musica_1772579541762.mp3",
+    "capa": "assets/capa_1772579541762.png",
+    "folha_vazia": "assets/folha_vazia_1772579541762.png",
+    "fundo_tela": "assets/fundo_tela_1772579541762.mp4",
+    "vid_abertura": "assets/vid_abertura_1772579541762.mp4",
+    "manual": "assets/manual_1772579541762.png"
   },
   "toggles": {
-    "manualMode": "text",
-    "giftsMode": "image"
+    "manualMode": "image",
+    "giftsMode": "link"
   }
 }
