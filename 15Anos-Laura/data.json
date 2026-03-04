@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-03T23:30:13.420Z",
+  "timestamp": "2026-03-04T16:12:10.137Z",
   "formData": {
     "nome": "Laura",
     "tipo_evento": "Aniversário",
@@ -28,7 +28,7 @@
     "fill_prompt": "\n\nTipo de evento: Special Event\nTema: Elegant\nTask: Preencha essa folha com os dados para convite de forma criativa e elegante.\nColoque elementos de design de forma elegante no convite, divisórias modernas, hierarquia visual madura e profissional, linhas, e uma frase similar a \"Você está convidado para o... (crie a frase conforme o contexto)\" conforme sua criatividade.\nColoque textura, camadas, adornos no texto do nome, letra cursiva (Great Vibes) e efeitos especiais elegantes.",
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
-    "manual_raw_content": "Chegue no horário: Sua presença pontual é muito importante para nós.\nConfirme sua presença: Por favor, confirme presença o mais rápido possível e se você quiser um chinelo de lembrança, envie o número que você calça.\nDivirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.\nNão vá embora sem me dar um abraço, comer um pedaço do bolo e levar sua lembrança: Queremos compartilhar cada instante com você.",
+    "manual_raw_content": "",
     "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é essencial para que possamos desfrutar deste momento juntos.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Pedimos a gentileza de confirmar sua participação o quanto antes. Se desejar um chinelo de lembrança, por favor, informe seu número.</p>\n<p><i class=\"fa-solid fa-smile\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial ao seu lado.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Não vá embora sem me dar um abraço:</strong> Aproveite um pedaço do bolo e leve sua lembrança. Queremos compartilhar cada instante precioso com você.</p>",
     "music_name": "Photobook - Stray Kids (youtube).mp3",
     "slug": "15Anos-Laura",
@@ -40,16 +40,17 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/3e62e54b-c10b-4b16-bd6f-f53a32b0dddb"
+    "musica": "blob:https://builder.mforge.com.br/3e62e54b-c10b-4b16-bd6f-f53a32b0dddb",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772580613420.mp3",
-    "capa": "assets/capa_1772580613420.png",
-    "folha_vazia": "assets/folha_vazia_1772580613420.png",
-    "fundo_tela": "assets/fundo_tela_1772580613420.mp4",
-    "vid_abertura": "assets/vid_abertura_1772580613420.mp4",
-    "presentes": "assets/presentes_1772580613420.png"
+    "musica": "assets/musica_1772640730137.mp3",
+    "capa": "assets/capa_1772640730137.png",
+    "folha_vazia": "assets/folha_vazia_1772640730137.png",
+    "fundo_tela": "assets/fundo_tela_1772640730137.mp4",
+    "vid_abertura": "assets/vid_abertura_1772640730137.mp4",
+    "presentes": "assets/presentes_1772640730137.png"
   },
   "toggles": {
     "manualMode": "text",
