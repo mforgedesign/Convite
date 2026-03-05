@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-03T23:12:21.762Z",
+  "timestamp": "2026-03-05T07:11:48.316Z",
   "formData": {
     "nome": "Amanda e César",
     "tipo_evento": "Aniversário",
@@ -41,16 +41,17 @@
     "presentes": null,
     "manual": null,
     "musica": "blob:https://builder.mforge.com.br/2d3348f5-08a6-41ab-b92c-0341387bdeb5",
-    "media_presentes": null
+    "media_presentes": null,
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772579541762.mp3",
-    "capa": "assets/capa_1772579541762.png",
-    "folha_vazia": "assets/folha_vazia_1772579541762.png",
-    "fundo_tela": "assets/fundo_tela_1772579541762.mp4",
-    "vid_abertura": "assets/vid_abertura_1772579541762.mp4",
-    "manual": "assets/manual_1772579541762.png"
+    "musica": "assets/musica_1772694708316.mp3",
+    "capa": "assets/capa_1772694708316.png",
+    "folha_vazia": "assets/folha_vazia_1772694708316.png",
+    "fundo_tela": "assets/fundo_tela_1772694708316.mp4",
+    "vid_abertura": "assets/vid_abertura_1772694708316.mp4",
+    "manual": "assets/manual_1772694708316.png"
   },
   "toggles": {
     "manualMode": "image",
