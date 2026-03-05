@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-04T16:18:15.718Z",
+  "timestamp": "2026-03-05T06:57:18.921Z",
   "formData": {
     "nome": "Laura",
     "tipo_evento": "Aniversário",
@@ -29,7 +29,7 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é essencial para que possamos desfrutar deste momento juntos.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Pedimos a gentileza de confirmar sua participação o quanto antes. Se desejar um chinelo de lembrança, por favor, informe seu número.</p>\n<p><i class=\"fa-solid fa-smile\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial ao seu lado.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Não vá embora sem me dar um abraço:</strong> Aproveite um pedaço do bolo e leve sua lembrança. Queremos compartilhar cada instante precioso com você.</p>",
+    "manual_html": "<p><i class=\"fa-solid fa-clock\"></i> <strong>Chegue no horário:</strong> Sua presença pontual é essencial para que possamos desfrutar deste momento juntos.</p>\n<p><i class=\"fa-solid fa-shirt\"></i> <strong>Dress Code:</strong> Traje Passeio Completo.</p>\n<p><i class=\"fa-solid fa-check-circle\"></i> <strong>Confirme sua presença:</strong> Pedimos a gentileza de confirmar sua participação o quanto antes. Se desejar um chinelo de lembrança, por favor, informe seu número.</p>\n<p><i class=\"fa-solid fa-smile\"></i> <strong>Divirta-se bastante!</strong> Estamos ansiosos para celebrar este momento especial ao seu lado.</p>\n<p><i class=\"fa-solid fa-heart\"></i> <strong>Não vá embora sem me dar um abraço:</strong> Aproveite um pedaço do bolo e leve sua lembrança. Queremos compartilhar cada instante precioso com você.</p>",
     "music_name": "Photobook - Stray Kids (youtube).mp3",
     "slug": "15Anos-Laura",
     "watermark_enabled": false,
@@ -45,12 +45,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772641095718.mp3",
-    "capa": "assets/capa_1772641095718.png",
-    "folha_vazia": "assets/folha_vazia_1772641095718.png",
-    "fundo_tela": "assets/fundo_tela_1772641095718.mp4",
-    "vid_abertura": "assets/vid_abertura_1772641095718.mp4",
-    "presentes": "assets/presentes_1772641095718.png"
+    "musica": "assets/musica_1772693838921.mp3",
+    "capa": "assets/capa_1772693838921.png",
+    "folha_vazia": "assets/folha_vazia_1772693838921.png",
+    "fundo_tela": "assets/fundo_tela_1772693838921.mp4",
+    "vid_abertura": "assets/vid_abertura_1772693838921.mp4",
+    "presentes": "assets/presentes_1772693838921.png"
   },
   "toggles": {
     "manualMode": "text",
