@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-08T17:03:23.308Z",
+  "timestamp": "2026-03-08T17:10:14.299Z",
   "formData": {
     "nome": "Maria Vitória",
     "tipo_evento": "Aniversário",
@@ -44,11 +44,12 @@
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1772989403308.mp3",
-    "capa": "assets/capa_1772989403308.png",
-    "fundo_tela": "assets/fundo_tela_1772989403308.mp4",
-    "vid_abertura": "assets/vid_abertura_1772989403308.mp4",
-    "presentes": "assets/presentes_1772989403308.png"
+    "musica": "assets/musica_1772989814300.mp3",
+    "capa": "assets/capa_1772989814300.png",
+    "folha_vazia": "assets/folha_vazia_1772989814300.png",
+    "fundo_tela": "assets/fundo_tela_1772989814300.mp4",
+    "vid_abertura": "assets/vid_abertura_1772989814300.mp4",
+    "presentes": "assets/presentes_1772989814300.png"
   },
   "toggles": {
     "manualMode": "text",
