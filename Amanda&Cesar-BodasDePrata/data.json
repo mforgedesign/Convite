@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-05T12:15:18.049Z",
+  "timestamp": "2026-03-10T11:26:11.047Z",
   "formData": {
     "nome": "Amanda e César",
     "tipo_evento": "Aniversário",
@@ -44,14 +44,21 @@
     "media_presentes": null,
     "_reset": true
   },
-  "linksExtras": [],
+  "linksExtras": [
+    {
+      "id": 0,
+      "label": "Galeria de Fotos",
+      "url": "https://astonishing-pika-9a92ae.netlify.app/",
+      "icon": "fa-solid fa-camera"
+    }
+  ],
   "assetsMap": {
-    "musica": "assets/musica_1772712918049.mp3",
-    "capa": "assets/capa_1772712918049.png",
-    "folha_vazia": "assets/folha_vazia_1772712918049.png",
-    "fundo_tela": "assets/fundo_tela_1772712918049.mp4",
-    "vid_abertura": "assets/vid_abertura_1772712918049.mp4",
-    "manual": "assets/manual_1772712918049.png"
+    "musica": "assets/musica_1773141971047.mp3",
+    "capa": "assets/capa_1773141971047.png",
+    "folha_vazia": "assets/folha_vazia_1773141971047.png",
+    "fundo_tela": "assets/fundo_tela_1773141971047.mp4",
+    "vid_abertura": "assets/vid_abertura_1773141971047.mp4",
+    "manual": "assets/manual_1773141971047.png"
   },
   "toggles": {
     "manualMode": "image",
