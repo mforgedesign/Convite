@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-11T10:42:52.962Z",
+  "timestamp": "2026-03-11T13:53:34.805Z",
   "formData": {
     "nome": "Alexia",
     "tipo_evento": "Aniversário",
@@ -19,7 +19,7 @@
     "link_google_maps": "https://maps.app.goo.gl/TUbdAbznu6cGXkut6",
     "link_presentes": "",
     "manual_content": "",
-    "confirmacao": "5512988890926",
+    "confirmacao": "https://wa.me/5512988890926?text=Olá!%20Gostaria%20de%20confirmar%20minha%20presença%20no%20aniversário%20de%2015%20Anos%20da%20Alexia!",
     "permitir_acompanhante": false,
     "timer_contagem": true,
     "cover_prompt": "Tipo de evento: Special Event\nSelo: W\nPaleta de Cores: Gold and White\nTema: Elegant\nTask: Create a vertical image of a hyper-realistic 3D render of a premium invitation envelope. The envelope is sealed with an intricately detailed wax seal. The wax seal may contain ONLY the number \"W\" embossed - NO OTHER TEXT OR WORDS ANYWHERE IN THE IMAGE. The paper boasts a high-quality, textured finish, exuding elegance and sophistication. Background: A setting with elements that enhance the luxurious feel of the invitation without specific thematic details. The composition is centered, with dramatic lighting casting volumetric light and creating a soft focus and depth of field. Lighting: Dramatic, cinematic lighting with volumetric effects. Highlights on the envelope and wax seal accentuate the texture and detail. Style: Photorealistic, hyper-detailed, cinematic, and elegant. CRITICAL: DO NOT generate any text, letters, or words except the number on the seal. Technical Details: Resolution: 8K, ultra high resolution Aspect Ratio: 9:16 Rendering Engine: Octane Render, Unreal Engine 5 Camera: Macro lens, f/2.8, shallow depth of field",
@@ -33,15 +33,23 @@
     "music_name": "Sentimentos São - Bela e a Fera.mp3",
     "slug": "Alexia15Anos",
     "watermark_enabled": false,
-    "musica": "blob:https://builder.mforge.com.br/a924cde7-9c30-46da-a5f1-42f63c68a43c"
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/a924cde7-9c30-46da-a5f1-42f63c68a43c",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1773225772962.mp3",
-    "capa": "assets/capa_1773225772962.png",
-    "fundo_tela": "assets/fundo_tela_1773225772962.mp4",
-    "vid_abertura": "assets/vid_abertura_1773225772962.mp4",
-    "presentes": "assets/presentes_1773225772962.png"
+    "musica": "assets/musica_1773237214805.mp3",
+    "capa": "assets/capa_1773237214805.png",
+    "fundo_tela": "assets/fundo_tela_1773237214805.mp4",
+    "vid_abertura": "assets/vid_abertura_1773237214805.mp4",
+    "presentes": "assets/presentes_1773237214805.png"
   },
   "toggles": {
     "manualMode": "text",
