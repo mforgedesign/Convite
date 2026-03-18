@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-16T11:26:26.959Z",
+  "timestamp": "2026-03-18T00:07:39.693Z",
   "formData": {
     "nome": "Luiza",
     "tipo_evento": "Aniversário",
@@ -33,18 +33,27 @@
     "music_name": "Justin Bieber - Company (Lyrics) - Unique Vibes (youtube).mp3",
     "slug": "A-Luiza15Anos",
     "watermark_enabled": false,
-    "musica": "blob:https://builder.mforge.com.br/1afc27c3-1d13-49f9-a7ca-1541dd27811e"
+    "capa": null,
+    "capa_referencia": null,
+    "folha_vazia": null,
+    "vid_abertura": null,
+    "fundo_tela": null,
+    "presentes": null,
+    "manual": null,
+    "musica": "blob:https://builder.mforge.com.br/1afc27c3-1d13-49f9-a7ca-1541dd27811e",
+    "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1773660386959.mp3",
-    "capa": "assets/capa_1773660386959.png",
-    "folha_vazia": "assets/folha_vazia_1773660386959.png",
-    "fundo_tela": "assets/fundo_tela_1773660386959.mp4",
-    "vid_abertura": "assets/vid_abertura_1773660386959.mp4"
+    "musica": "assets/musica_1773792459693.mp3",
+    "capa": "assets/capa_1773792459693.png",
+    "folha_vazia": "assets/folha_vazia_1773792459693.png",
+    "fundo_tela": "assets/fundo_tela_1773792459693.mp4",
+    "vid_abertura": "assets/vid_abertura_1773792459693.mp4",
+    "presentes": "assets/presentes_1773792459693.png"
   },
   "toggles": {
     "manualMode": "text",
-    "giftsMode": "link"
+    "giftsMode": "image"
   }
 }
