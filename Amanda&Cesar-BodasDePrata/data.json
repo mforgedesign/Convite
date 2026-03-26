@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-03-12T13:29:13.128Z",
+  "timestamp": "2026-03-26T13:14:45.732Z",
   "formData": {
     "nome": "Amanda e César",
     "tipo_evento": "Aniversário",
@@ -32,7 +32,7 @@
     "manual_html": "",
     "music_name": "THE TIME OF MY LIFE Dirty Dancing Agnes Violin Cover #skrzypaczka #violincover #lovesong #moviemusic - Agnes Violin Duo Amor (youtube).mp3",
     "slug": "Amanda&Cesar-BodasDePrata",
-    "watermark_enabled": false,
+    "watermark_enabled": true,
     "capa": null,
     "capa_referencia": null,
     "folha_vazia": null,
@@ -53,12 +53,12 @@
     }
   ],
   "assetsMap": {
-    "musica": "assets/musica_1773322153128.mp3",
-    "capa": "assets/capa_1773322153128.png",
-    "folha_vazia": "assets/folha_vazia_1773322153128.png",
-    "fundo_tela": "assets/fundo_tela_1773322153128.mp4",
-    "vid_abertura": "assets/vid_abertura_1773322153128.mp4",
-    "manual": "assets/manual_1773322153128.png"
+    "musica": "assets/musica_1774530885732.mp3",
+    "capa": "assets/capa_1774530885732.png",
+    "folha_vazia": "assets/folha_vazia_1774530885732.png",
+    "fundo_tela": "assets/fundo_tela_1774530885732.mp4",
+    "vid_abertura": "assets/vid_abertura_1774530885732.mp4",
+    "manual": "assets/manual_1774530885732.png"
   },
   "toggles": {
     "manualMode": "image",
