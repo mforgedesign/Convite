@@ -1,6 +1,6 @@
 {
   "version": "4.0",
-  "timestamp": "2026-04-20T16:56:19.433Z",
+  "timestamp": "2026-04-23T19:01:28.427Z",
   "formData": {
     "nome": "Cecília",
     "tipo_evento": "Aniversário",
@@ -29,8 +29,8 @@
     "sugestoes_presentes": "",
     "gifts_image_prompt": "",
     "manual_raw_content": "",
-    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\"><h1><i class=\"fa-solid fa-user-plus\"></i> Seja muito bem-vindo(a)!</h1>\n<p>É uma alegria imensa contar com a sua presença. Preparamos este manual para que você se sinta confortável, bem informado(a) e aproveite cada momento do nosso evento.</p>\n<h2><i class=\"fa-solid fa-clock\"></i> Pontualidade:</h2>\n<p>A programação foi pensada com carinho e seguirá os horários previstos: <p>\n- A Piscina é liberada até as 17h00;<p>\n- À partir das 17h00, a pista de dança será liberada!</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível! ✨💙</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença!</h2>\n<p>Por favor, confirme presença pelomenos 15 dias antes do evento. \n</p>\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível!✨💙.</p>\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Convidado não convida!</h2></div>",
-    "music_name": "Bruno Mars - That's What I Like Instrumental Original.mp3",
+    "manual_html": "<div id=\"manualContent\" class=\"text-sm leading-relaxed text-left\">\n\n<h1><i class=\"fa-solid fa-user-plus\"></i> Seja muito bem-vindo(a)!</h1>\n<p>É uma alegria imensa contar com a sua presença. Preparamos este manual para que você se sinta confortável, bem informado(a) e aproveite cada momento do nosso evento.</p>\n\n<h2><i class=\"fa-solid fa-clock\"></i> Pontualidade:</h2>\n<p>A programação foi pensada com carinho e seguirá os horários previstos:</p>\n<p>- A piscina é liberada até as 17h (temos local para troca de roupa);</p>\n<p>- Após as 17h, teremos a balada da aniversariante com algumas surpresas, então muita animação nesse momento.</p>\n\n<p>O espaço possui piscina de bolinha e pula-pula para as crianças (os pais são responsáveis pelos seus filhos).</p>\n\n<p>Não mexa na mesa de doces. Haverá a distribuição na hora certa.</p>\n\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Confirme sua presença!</h2>\n<p>Por favor, confirme sua presença com pelo menos 15 dias de antecedência com o nome de todos os convidados.</p>\n\n<p>Agradecemos por fazer parte deste momento tão especial. Esperamos que sua experiência seja leve, marcante e inesquecível! ✨💙</p>\n\n<h2><i class=\"fa-solid fa-calendar-check\"></i> Convidado não convida!</h2>\n\n</div>",
+    "music_name": "Bruno Mars - 24K Magic (Official Music Video) - Bruno Mars (youtube)_[cut_213sec] (1).mp3",
     "slug": "Cecília15Anos",
     "watermark_enabled": false,
     "capa": null,
@@ -40,19 +40,19 @@
     "fundo_tela": null,
     "presentes": null,
     "manual": null,
-    "musica": "blob:https://builder.mforge.com.br/44c635d7-98f5-4850-be6c-73af47eb370e",
+    "musica": "blob:https://builder.mforge.com.br/3adcecce-a1e8-433e-9aec-ef0bc8bfbd26",
     "animate_background": false,
     "loop_motion_prompt": "The animation displays smooth, looping movements of the shimmering effect based on the provided image. Dramatic sparkles and shining smokes flying in the background, cinematic lighting with volumetric effects (divine rays) filters through shimmering particles, creating a magical atmosphere with highlights. Rendered in a photorealistic and hyper-detailed style, the animation flows perfectly with a cinematic approach, captivating the viewer's attention with its fluid movement and mesmerizing 4K quality. IMPORTANT: Static Camera / No Camera Movement, only environmental motion.",
     "_reset": true
   },
   "linksExtras": [],
   "assetsMap": {
-    "musica": "assets/musica_1776704179434.mp3",
-    "capa": "assets/capa_1776704179434.png",
-    "folha_vazia": "assets/folha_vazia_1776704179434.png",
-    "fundo_tela": "assets/fundo_tela_1776704179434.mp4",
-    "vid_abertura": "assets/vid_abertura_1776704179434.mp4",
-    "presentes": "assets/presentes_1776704179434.png"
+    "musica": "assets/musica_1776970888427.mp3",
+    "capa": "assets/capa_1776970888427.png",
+    "folha_vazia": "assets/folha_vazia_1776970888427.png",
+    "fundo_tela": "assets/fundo_tela_1776970888427.mp4",
+    "vid_abertura": "assets/vid_abertura_1776970888427.mp4",
+    "presentes": "assets/presentes_1776970888427.png"
   },
   "toggles": {
     "manualMode": "text",
