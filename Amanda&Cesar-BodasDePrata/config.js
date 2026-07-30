@@ -1,6 +1,6 @@
 window.config = {
   "evento": {
-    "tipo": "Aniversário",
+    "tipo": "Bodas",
     "nome": "Amanda e César",
     "idade": 0,
     "data": "2026-08-22",
@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado e Branco",
     "tema": "Elegante",
-    "musica": "assets/music_1785414582169.mp3",
+    "musica": "assets/music_1785431433344.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": false,
     "slug": "Amanda&Cesar-BodasDePrata",
@@ -31,39 +31,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785414582169.png",
+    "capa": "assets/cover_1785431433344.png",
     "cartao": "",
     "aberturaSlides": [
-      "assets/slide1_1785414582169.mp4",
-      "assets/slide2_1785414582169.mp4",
-      "assets/slide3_1785414582169.mp4",
-      "assets/slide4_1785414582169.mp4"
+      "assets/slide1_1785431433344.mp4",
+      "assets/slide2_1785431433344.mp4",
+      "assets/slide3_1785431433344.mp4",
+      "assets/slide4_1785431433344.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785414582169.mp4",
+        "filePath": "assets/slide1_1785431433344.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785414582169.mp4",
+        "filePath": "assets/slide2_1785431433344.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1785414582169.mp4",
+        "filePath": "assets/slide3_1785431433344.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785414582169.mp4",
+        "filePath": "assets/slide4_1785431433344.mp4",
         "label": "Slide 3",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785414582169.png",
-    "folhaPreenchida": "assets/folha_1785414582169.mp4",
-    "musica": "assets/music_1785414582169.mp3",
+    "folhaVazia": "assets/folha_vazia_1785431433344.png",
+    "folhaPreenchida": "assets/folha_1785431433344.mp4",
+    "musica": "assets/music_1785431433344.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -87,23 +87,23 @@ window.config = {
       }
     },
     "fotos": [
-      "assets/foto1_1785414582169.jpg",
-      "assets/foto2_1785414582169.jpg",
-      "assets/foto3_1785414582169.jpg",
-      "assets/foto4_1785414582169.jpg",
-      "assets/foto5_1785414582169.jpg",
-      "assets/foto6_1785414582169.jpg",
-      "assets/foto7_1785414582169.jpg",
-      "assets/foto8_1785414582169.jpg",
-      "assets/foto9_1785414582169.jpg",
-      "assets/foto10_1785414582169.jpg",
-      "assets/foto11_1785414582169.jpeg",
-      "assets/foto12_1785414582169.jpeg",
-      "assets/foto13_1785414582169.jpeg",
-      "assets/foto14_1785414582169.jpeg",
-      "assets/foto15_1785414582169.jpeg",
-      "assets/foto16_1785414582169.jpeg",
-      "assets/foto17_1785414582169.jpeg"
+      "assets/foto1_1785431433344.jpg",
+      "assets/foto2_1785431433344.jpg",
+      "assets/foto3_1785431433344.jpg",
+      "assets/foto4_1785431433344.jpg",
+      "assets/foto5_1785431433344.jpg",
+      "assets/foto6_1785431433344.jpg",
+      "assets/foto7_1785431433344.jpg",
+      "assets/foto8_1785431433344.jpg",
+      "assets/foto9_1785431433344.jpg",
+      "assets/foto10_1785431433344.jpg",
+      "assets/foto11_1785431433344.jpeg",
+      "assets/foto12_1785431433344.jpeg",
+      "assets/foto13_1785431433344.jpeg",
+      "assets/foto14_1785431433344.jpeg",
+      "assets/foto15_1785431433344.jpeg",
+      "assets/foto16_1785431433344.jpeg",
+      "assets/foto17_1785431433344.jpeg"
     ],
     "popupImagensPorBotao": {}
   },
@@ -122,7 +122,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/chatgpt_image_30_de_jul_de_2026_09_29_26_1785414582169.png"
+      "conteudo": "assets/chatgpt_image_30_de_jul_de_2026_09_29_26_1785431433344.png"
     },
     {
       "id": "btn_legacy_rsvp",
@@ -152,23 +152,23 @@ window.config = {
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-camera",
       "conteudo": [
-        "assets/foto1_1785414582169.jpg",
-        "assets/foto2_1785414582169.jpg",
-        "assets/foto3_1785414582169.jpg",
-        "assets/foto4_1785414582169.jpg",
-        "assets/foto5_1785414582169.jpg",
-        "assets/foto6_1785414582169.jpg",
-        "assets/foto7_1785414582169.jpg",
-        "assets/foto8_1785414582169.jpg",
-        "assets/foto9_1785414582169.jpg",
-        "assets/foto10_1785414582169.jpg",
-        "assets/foto11_1785414582169.jpeg",
-        "assets/foto12_1785414582169.jpeg",
-        "assets/foto13_1785414582169.jpeg",
-        "assets/foto14_1785414582169.jpeg",
-        "assets/foto15_1785414582169.jpeg",
-        "assets/foto16_1785414582169.jpeg",
-        "assets/foto17_1785414582169.jpeg"
+        "assets/foto1_1785431433344.jpg",
+        "assets/foto2_1785431433344.jpg",
+        "assets/foto3_1785431433344.jpg",
+        "assets/foto4_1785431433344.jpg",
+        "assets/foto5_1785431433344.jpg",
+        "assets/foto6_1785431433344.jpg",
+        "assets/foto7_1785431433344.jpg",
+        "assets/foto8_1785431433344.jpg",
+        "assets/foto9_1785431433344.jpg",
+        "assets/foto10_1785431433344.jpg",
+        "assets/foto11_1785431433344.jpeg",
+        "assets/foto12_1785431433344.jpeg",
+        "assets/foto13_1785431433344.jpeg",
+        "assets/foto14_1785431433344.jpeg",
+        "assets/foto15_1785431433344.jpeg",
+        "assets/foto16_1785431433344.jpeg",
+        "assets/foto17_1785431433344.jpeg"
       ]
     },
     {
@@ -189,6 +189,8 @@ window.config = {
     "exibirMarcaDagua": false,
     "cronometro": true,
     "buttonColor": "#6a7b74",
+    "buttonGradientColor": "#ec4899",
+    "buttonGradientEnabled": false,
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
